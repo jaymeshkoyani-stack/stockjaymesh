@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>iCharts Strategy 1, Strategy 2 & Master Excel Dashboard (215+ Symbols)</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;600;700&display=swap" rel="stylesheet" />
+</head>
+<body>
+  <div class="dashboard-container">
+    
+    <!-- Top Navigation Header -->
+    <header>
+      <div class="brand-section">
+        <div class="logo-icon">🚀</div>
+        <div class="brand-title">
+          <h1>iCharts Strategy 1, Strategy 2 & Master Excel Dashboard</h1>
+          <p>Real-Time Analytics, QTY OTM Scanners & Backend Data Store for 215+ F&O Symbols (3-Min Auto Sync)</p>
+        </div>
+      </div>
+      <div class="user-badge">
+        <div class="live-indicator">
+          <div class="pulse-dot"></div>
+          AUTO SYNC (3m)
+        </div>
+        <div class="timer-box">
+          Next iCharts Sync: <span id="countdown-timer">03:00</span>
+        </div>
+        <div style="font-size: 13px; color: var(--text-muted);">
+          Account: <span style="color: white; font-weight: 600;">Jaymesh</span>
+        </div>
+        <button id="btn-sync-now" class="btn-refresh" onclick="manualRefreshData()">
+          🔄 Sync Now
+        </button>
+      </div>
+    </header>
+
+    <!-- Overview KPI Grid -->
+    <div id="kpi-grid" class="kpi-grid"></div>
+
+    <!-- Excel Controls Toolbar -->
+    <div class="excel-toolbar">
+      <div class="toolbar-left">
+        <div class="search-box">
+          🔍 <input type="text" id="symbol-search" placeholder="Search symbol (e.g. SIEMENS, BAJAJFINSV, BANKNIFTY)..." oninput="filterData()" />
+        </div>
+        <div class="filter-group">
+          <label>Sentiment:</label>
+          <select id="sentiment-filter" onchange="filterData()">
+            <option value="ALL">All Symbols (215+)</option>
+            <option value="BULLISH">Bullish (Net OI Chg > 0)</option>
+            <option value="BEARISH">Bearish (Net OI Chg < 0)</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="toolbar-right">
+        <div class="view-toggle">
+          <button id="btn-view-strategy2" class="btn-toggle active" onclick="switchView('strategy2')">🚀 Strategy 2 Board</button>
+          <button id="btn-view-strategy1" class="btn-toggle" onclick="switchView('strategy1')">🎯 Strategy 1 Board</button>
+          <button id="btn-view-excel" class="btn-toggle" onclick="switchView('excel')">📊 Master Excel Grid</button>
+          <button id="btn-view-cards" class="btn-toggle" onclick="switchView('cards')">🗂️ Cards View</button>
+        </div>
+        <button class="btn-export" onclick="exportToCSV()">
+          📥 Export to Excel (.csv)
+        </button>
+      </div>
+    </div>
+
+    <!-- VIEW 1: STRATEGY 2 DASHBOARD VIEW (Rules Banner Hidden per User Request) -->
+    <div id="strategy2-view-section">
+      <div class="strategy-banner strategy2-theme" style="display: none;">
+        <div class="strategy-header">
+          <div class="strategy-badge">STRATEGY 2 SCANNER RULES (QTY OTM & FUTURE OI)</div>
+          <div class="strategy-stats">
+            <span>Scanned: <strong id="strat2-scanned-count">177</strong> Symbols</span> | 
+            <span>Matched: <strong id="strat2-matched-count" style="color: #38bdf8;">6</strong> Symbols</span>
+          </div>
+        </div>
+        <div class="strategy-rules-grid">
+          <div class="rule-box">
+            <span class="rule-num" style="background: #0284c7;">Rule 1</span>
+            <p><strong>Future OI</strong> = Open Interest for 1st Expiry from <code>SymbolDashboard.php</code></p>
+          </div>
+          <div class="rule-box">
+            <span class="rule-num" style="background: #0284c7;">Rule 2</span>
+            <p><strong>Total OTM OI Chg (Calls & Puts)</strong> = OTM OI Chg in <strong>QTY Mode</strong> from <code>OptionChain.php</code></p>
+          </div>
+          <div class="rule-box" style="grid-column: 1 / -1;">
+            <span class="rule-num" style="background: #059669;">Calculation</span>
+            <p><strong>Future OI × 15%</strong> &lt; <strong>Total OTM OI Chg (Calls)</strong> &nbsp;<u>OR</u>&nbsp; <strong>Total OTM OI Chg (Puts)</strong></p>
+          </div>
+        </div>
+      </div>
+
+      <div class="spreadsheet-info-bar">
+        <span>Strategy 2 Matched Symbols (<strong id="strat2-visible-count">0</strong> F&O Symbols)</span>
+        <span style="font-size: 12px; color: var(--text-muted);">* Values in Quantity (QTY) & Future OI. Auto-updated every 3 minutes.</span>
+      </div>
+
+      <div class="excel-table-wrapper">
+        <table class="excel-grid-table" id="strategy2-table">
+          <thead>
+            <tr>
+              <th class="col-num">#</th>
+              <th class="col-sticky">Symbol</th>
+              <th>Expiry</th>
+              <th>Future OI</th>
+              <th style="color: #fbbf24;">15% Threshold</th>
+              <th class="col-header-calls">Total OTM OI Chg Calls (QTY)</th>
+              <th class="col-header-puts">Total OTM OI Chg Puts (QTY)</th>
+              <th class="col-header-net-chg">Total OTM OI Chg Net</th>
+              <th>OTM Calls > 15%</th>
+              <th>OTM Puts > 15%</th>
+              <th>Strategy 2 Signal</th>
+            </tr>
+          </thead>
+          <tbody id="strategy2-grid-body"></tbody>
+        </table>
+      </div>
+    </div>
+
+    <!-- VIEW 2: STRATEGY 1 DASHBOARD VIEW (Rules Banner Hidden per User Request) -->
+    <div id="strategy1-view-section" style="display: none;">
+      <div class="strategy-banner" style="display: none;">
+        <div class="strategy-header">
+          <div class="strategy-badge">STRATEGY 1 SCANNER RULES</div>
+          <div class="strategy-stats">
+            <span>Scanned: <strong id="strat1-scanned-count">177</strong> Symbols</span> | 
+            <span>Matched: <strong id="strat1-matched-count" style="color: #34d399;">2</strong> Symbols</span>
+          </div>
+        </div>
+        <div class="strategy-rules-grid">
+          <div class="rule-box">
+            <span class="rule-num">Rule 1</span>
+            <p><strong>Total OI Chg (Net)</strong> > <strong>Total OI (Calls)</strong> AND <strong>Total OI (Puts)</strong></p>
+          </div>
+          <div class="rule-box">
+            <span class="rule-num">Rule 2</span>
+            <p><strong>Total OI Chg (Calls)</strong> OR <strong>Total OI Chg (Puts)</strong> is <strong>&lt; 0</strong> (Minus Value)</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="spreadsheet-info-bar">
+        <span>Strategy 1 Matched Symbols (<strong id="strat1-visible-count">0</strong> F&O Symbols)</span>
+        <span style="font-size: 12px; color: var(--text-muted);">* Real-time scanned from 215+ iCharts symbols every 3 minutes.</span>
+      </div>
+
+      <div class="excel-table-wrapper">
+        <table class="excel-grid-table" id="strategy1-table">
+          <thead>
+            <tr>
+              <th class="col-num">#</th>
+              <th class="col-sticky">Symbol</th>
+              <th>Expiry</th>
+              <th>ATM Strike</th>
+              <th>PCR (OI)</th>
+              <th class="col-header-net-chg">Total OI Chg Net</th>
+              <th class="col-header-calls">Total OI Calls</th>
+              <th class="col-header-puts">Total OI Puts</th>
+              <th class="col-header-calls">Calls OI Chg</th>
+              <th class="col-header-puts">Puts OI Chg</th>
+              <th>Rule 1 Status</th>
+              <th>Rule 2 Status</th>
+              <th>Strategy 1 Signal</th>
+            </tr>
+          </thead>
+          <tbody id="strategy1-grid-body"></tbody>
+        </table>
+      </div>
+    </div>
+
+    <!-- VIEW 3: MASTER EXCEL SPREADSHEET GRID VIEW -->
+    <div id="excel-view-section" style="display: none;">
+      <div class="spreadsheet-info-bar">
+        <span>Showing <strong id="visible-count">0</strong> of <strong id="total-count">0</strong> F&O Symbols</span>
+        <span style="font-size: 12px; color: var(--text-muted);">* Click any column header to sort. Values in Crores (Cr) / Lakhs (L).</span>
+      </div>
+
+      <div class="excel-table-wrapper">
+        <table class="excel-grid-table" id="excel-table">
+          <thead>
+            <tr>
+              <th onclick="sortTable(0)" class="col-num"># ⇕</th>
+              <th onclick="sortTable(1)" class="col-sticky">Symbol ⇕</th>
+              <th onclick="sortTable(2)">Expiry ⇕</th>
+              <th onclick="sortTable(3)">ATM Strike ⇕</th>
+              <th onclick="sortTable(4)">PCR (OI) ⇕</th>
+              <th onclick="sortTable(5)" class="col-header-calls">Total OI (Calls) ⇕</th>
+              <th onclick="sortTable(6)" class="col-header-puts">Total OI (Puts) ⇕</th>
+              <th onclick="sortTable(7)" class="col-header-net">Total OI Net ⇕</th>
+              <th onclick="sortTable(8)" class="col-header-calls">Total OI Chg (Calls) ⇕</th>
+              <th onclick="sortTable(9)" class="col-header-puts">Total OI Chg (Puts) ⇕</th>
+              <th onclick="sortTable(10)" class="col-header-net-chg">Total OI Chg Net ⇕</th>
+              <th onclick="sortTable(11)" class="col-header-calls">Total Vol (Calls) ⇕</th>
+              <th onclick="sortTable(12)" class="col-header-puts">Total Vol (Puts) ⇕</th>
+              <th onclick="sortTable(13)" class="col-header-net">Total Vol Net ⇕</th>
+              <th onclick="sortTable(14)">Signal ⇕</th>
+            </tr>
+          </thead>
+          <tbody id="excel-grid-body"></tbody>
+        </table>
+      </div>
+    </div>
+
+    <!-- VIEW 4: CARDS GRID VIEW -->
+    <div id="cards-view-section" style="display: none;">
+      <div id="symbol-cards-container" class="symbol-cards-grid"></div>
+    </div>
+
+    <footer>
+      iCharts Live Strategy 1, Strategy 2 & Master Excel Dashboard • Logged in as Jaymesh • Auto-Refreshed Every 3 Minutes
+    </footer>
+
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
