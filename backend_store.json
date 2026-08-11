@@ -5,11 +5,11 @@
     "pcr_oi": "0.99",
     "pcr_val": "0.63",
     "strike_atm": 1160,
-    "future_oi": 4305500.0,
-    "future_oi_str": "43.05 L",
-    "future_oi_chg": 5.05,
-    "threshold_15pct": 645825.0,
-    "threshold_15pct_str": "6.46 L",
+    "future_oi": 4147500.0,
+    "future_oi_str": "41.48 L",
+    "future_oi_chg": 0.97,
+    "threshold_15pct": 622125.0,
+    "threshold_15pct_str": "6.22 L",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -557,11 +557,11 @@
     "pcr_oi": "0.65",
     "pcr_val": "0.61",
     "strike_atm": 5650,
-    "future_oi": 1443000.0,
-    "future_oi_str": "14.43 L",
-    "future_oi_chg": 1.55,
-    "threshold_15pct": 216450.0,
-    "threshold_15pct_str": "2.16 L",
+    "future_oi": 1431625.0,
+    "future_oi_str": "14.32 L",
+    "future_oi_chg": 0.46,
+    "threshold_15pct": 214743.75,
+    "threshold_15pct_str": "2.15 L",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -626,11 +626,11 @@
     "pcr_oi": "0.94",
     "pcr_val": "1.14",
     "strike_atm": 7400,
-    "future_oi": 1567000.0,
-    "future_oi_str": "15.67 L",
-    "future_oi_chg": 29.15,
-    "threshold_15pct": 235050.0,
-    "threshold_15pct_str": "2.35 L",
+    "future_oi": 1373100.0,
+    "future_oi_str": "13.73 L",
+    "future_oi_chg": -2.78,
+    "threshold_15pct": 205965.0,
+    "threshold_15pct_str": "2.06 L",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -695,10 +695,10 @@
     "pcr_oi": "1.5",
     "pcr_val": "0.58",
     "strike_atm": 435,
-    "future_oi": 83144400.0,
-    "future_oi_str": "8.31 Cr",
-    "future_oi_chg": 0.15,
-    "threshold_15pct": 12471660.0,
+    "future_oi": 83431200.0,
+    "future_oi_str": "8.34 Cr",
+    "future_oi_chg": 0.39,
+    "threshold_15pct": 12514680.0,
     "threshold_15pct_str": "1.25 Cr",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
@@ -764,11 +764,11 @@
     "pcr_oi": "1.73",
     "pcr_val": "0.50",
     "strike_atm": 295,
-    "future_oi": 29762500.0,
-    "future_oi_str": "2.98 Cr",
-    "future_oi_chg": 5.11,
-    "threshold_15pct": 4464375.0,
-    "threshold_15pct_str": "44.64 L",
+    "future_oi": 30052500.0,
+    "future_oi_str": "3.01 Cr",
+    "future_oi_chg": 1.56,
+    "threshold_15pct": 4507875.0,
+    "threshold_15pct_str": "45.08 L",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -922,18 +922,18 @@
       "total_otm_oi_chg_calls_num": 62875,
       "total_otm_oi_chg_puts_num": 30750,
       "total_otm_oi_chg_net_num": -32125,
-      "total_otm_vol_calls": "0.00",
-      "total_otm_vol_puts": "0.00",
-      "pcr_otm_oi": "N.A.",
-      "pcr_otm_oi_chg": "N.A."
+      "total_otm_vol_calls": "6.84 L",
+      "total_otm_vol_puts": "2.80 L",
+      "pcr_otm_oi": 0.72,
+      "pcr_otm_oi_chg": 0.49
     },
     "itm_qty": {
-      "total_itm_oi_calls": "0.00",
-      "total_itm_oi_puts": "0.00",
-      "total_itm_oi_chg_calls": "0.00",
-      "total_itm_oi_chg_puts": "0.00",
-      "pcr_itm_oi": "N.A.",
-      "pcr_itm_oi_chg": "N.A."
+      "total_itm_oi_calls": "1.60 L",
+      "total_itm_oi_puts": "54,250.00",
+      "total_itm_oi_chg_calls": "2,250.00",
+      "total_itm_oi_chg_puts": "6,750.00",
+      "pcr_itm_oi": 0.34,
+      "pcr_itm_oi_chg": 3
     },
     "totals": {
       "total_oi": {
@@ -991,18 +991,18 @@
       "total_otm_oi_chg_calls_num": 1140000,
       "total_otm_oi_chg_puts_num": 195000,
       "total_otm_oi_chg_net_num": -945000,
-      "total_otm_vol_calls": "0.00",
-      "total_otm_vol_puts": "0.00",
-      "pcr_otm_oi": "N.A.",
-      "pcr_otm_oi_chg": "N.A."
+      "total_otm_vol_calls": "3.18 Cr",
+      "total_otm_vol_puts": "2.30 Cr",
+      "pcr_otm_oi": 1.66,
+      "pcr_otm_oi_chg": 0.17
     },
     "itm_qty": {
-      "total_itm_oi_calls": "0.00",
-      "total_itm_oi_puts": "0.00",
-      "total_itm_oi_chg_calls": "0.00",
-      "total_itm_oi_chg_puts": "0.00",
-      "pcr_itm_oi": "N.A.",
-      "pcr_itm_oi_chg": "N.A."
+      "total_itm_oi_calls": "3.23 Cr",
+      "total_itm_oi_puts": "86.50 L",
+      "total_itm_oi_chg_calls": "-4.70 L",
+      "total_itm_oi_chg_puts": "4.10 L",
+      "pcr_itm_oi": 0.27,
+      "pcr_itm_oi_chg": -0.87
     },
     "totals": {
       "total_oi": {
@@ -1109,11 +1109,11 @@
     "pcr_oi": "1.2",
     "pcr_val": "0.78",
     "strike_atm": 1440,
-    "future_oi": 7001025.0,
-    "future_oi_str": "70.01 L",
-    "future_oi_chg": -0.53,
-    "threshold_15pct": 1050153.75,
-    "threshold_15pct_str": "10.50 L",
+    "future_oi": 6990400.0,
+    "future_oi_str": "69.90 L",
+    "future_oi_chg": 0.9,
+    "threshold_15pct": 1048560.0,
+    "threshold_15pct_str": "10.49 L",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -1129,18 +1129,18 @@
       "total_otm_oi_chg_calls_num": 143650,
       "total_otm_oi_chg_puts_num": 28475,
       "total_otm_oi_chg_net_num": -115175,
-      "total_otm_vol_calls": "0.00",
-      "total_otm_vol_puts": "0.00",
-      "pcr_otm_oi": "N.A.",
-      "pcr_otm_oi_chg": "N.A."
+      "total_otm_vol_calls": "6.94 L",
+      "total_otm_vol_puts": "2.66 L",
+      "pcr_otm_oi": 0.65,
+      "pcr_otm_oi_chg": 0.2
     },
     "itm_qty": {
-      "total_itm_oi_calls": "0.00",
-      "total_itm_oi_puts": "0.00",
-      "total_itm_oi_chg_calls": "0.00",
-      "total_itm_oi_chg_puts": "0.00",
-      "pcr_itm_oi": "N.A.",
-      "pcr_itm_oi_chg": "N.A."
+      "total_itm_oi_calls": "4.57 L",
+      "total_itm_oi_puts": "5.50 L",
+      "total_itm_oi_chg_calls": "-2,125.00",
+      "total_itm_oi_chg_puts": "-3,825.00",
+      "pcr_itm_oi": 1.2,
+      "pcr_itm_oi_chg": 1.8
     },
     "totals": {
       "total_oi": {
@@ -1178,11 +1178,11 @@
     "pcr_oi": "0.49",
     "pcr_val": "0.66",
     "strike_atm": 1080,
-    "future_oi": 21924000.0,
+    "future_oi": 21922000.0,
     "future_oi_str": "2.19 Cr",
-    "future_oi_chg": 0.96,
-    "threshold_15pct": 3288600.0,
-    "threshold_15pct_str": "32.89 L",
+    "future_oi_chg": 0.21,
+    "threshold_15pct": 3288300.0,
+    "threshold_15pct_str": "32.88 L",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -1267,18 +1267,18 @@
       "total_otm_oi_chg_calls_num": 280500,
       "total_otm_oi_chg_puts_num": 453200,
       "total_otm_oi_chg_net_num": 172700,
-      "total_otm_vol_calls": "0.00",
-      "total_otm_vol_puts": "0.00",
-      "pcr_otm_oi": "N.A.",
-      "pcr_otm_oi_chg": "N.A."
+      "total_otm_vol_calls": "1.20 Cr",
+      "total_otm_vol_puts": "75.81 L",
+      "pcr_otm_oi": 1.57,
+      "pcr_otm_oi_chg": 1.62
     },
     "itm_qty": {
-      "total_itm_oi_calls": "0.00",
-      "total_itm_oi_puts": "0.00",
-      "total_itm_oi_chg_calls": "0.00",
-      "total_itm_oi_chg_puts": "0.00",
-      "pcr_itm_oi": "N.A.",
-      "pcr_itm_oi_chg": "N.A."
+      "total_itm_oi_calls": "19.38 L",
+      "total_itm_oi_puts": "2.36 L",
+      "total_itm_oi_chg_calls": "-9.34 L",
+      "total_itm_oi_chg_puts": "60,500.00",
+      "pcr_itm_oi": 0.12,
+      "pcr_itm_oi_chg": -0.06
     },
     "totals": {
       "total_oi": {
@@ -1405,18 +1405,18 @@
       "total_otm_oi_chg_calls_num": 15900,
       "total_otm_oi_chg_puts_num": -9375,
       "total_otm_oi_chg_net_num": -25275,
-      "total_otm_vol_calls": "0.00",
-      "total_otm_vol_puts": "0.00",
-      "pcr_otm_oi": "N.A.",
-      "pcr_otm_oi_chg": "N.A."
+      "total_otm_vol_calls": "12.02 L",
+      "total_otm_vol_puts": "9.93 L",
+      "pcr_otm_oi": 2.65,
+      "pcr_otm_oi_chg": -0.59
     },
     "itm_qty": {
-      "total_itm_oi_calls": "0.00",
-      "total_itm_oi_puts": "0.00",
-      "total_itm_oi_chg_calls": "0.00",
-      "total_itm_oi_chg_puts": "0.00",
-      "pcr_itm_oi": "N.A.",
-      "pcr_itm_oi_chg": "N.A."
+      "total_itm_oi_calls": "4.95 L",
+      "total_itm_oi_puts": "66,750.00",
+      "total_itm_oi_chg_calls": "4,350.00",
+      "total_itm_oi_chg_puts": "-225.00",
+      "pcr_itm_oi": 0.13,
+      "pcr_itm_oi_chg": -0.05
     },
     "totals": {
       "total_oi": {
@@ -1454,13 +1454,13 @@
     "pcr_oi": "0.66",
     "pcr_val": "0.53",
     "strike_atm": 2000,
-    "future_oi": 7446900.0,
-    "future_oi_str": "74.47 L",
-    "future_oi_chg": -6.07,
-    "threshold_15pct": 1117035.0,
-    "threshold_15pct_str": "11.17 L",
-    "strategy2_match": true,
-    "strategy2_calls_pass": true,
+    "future_oi": 7547400.0,
+    "future_oi_str": "75.47 L",
+    "future_oi_chg": 1.36,
+    "threshold_15pct": 1132110.0,
+    "threshold_15pct_str": "11.32 L",
+    "strategy2_match": false,
+    "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
     "strategy1_match": true,
     "otm_qty": {
@@ -1474,18 +1474,18 @@
       "total_otm_oi_chg_calls_num": 1130700,
       "total_otm_oi_chg_puts_num": -488100,
       "total_otm_oi_chg_net_num": -1618800,
-      "total_otm_vol_calls": "0.00",
-      "total_otm_vol_puts": "0.00",
-      "pcr_otm_oi": "N.A.",
-      "pcr_otm_oi_chg": "N.A."
+      "total_otm_vol_calls": "1.36 Cr",
+      "total_otm_vol_puts": "94.75 L",
+      "pcr_otm_oi": 0.43,
+      "pcr_otm_oi_chg": -0.43
     },
     "itm_qty": {
-      "total_itm_oi_calls": "0.00",
-      "total_itm_oi_puts": "0.00",
-      "total_itm_oi_chg_calls": "0.00",
-      "total_itm_oi_chg_puts": "0.00",
-      "pcr_itm_oi": "N.A.",
-      "pcr_itm_oi_chg": "N.A."
+      "total_itm_oi_calls": "10.47 L",
+      "total_itm_oi_puts": "12.69 L",
+      "total_itm_oi_chg_calls": "-20,100.00",
+      "total_itm_oi_chg_puts": "-4.39 L",
+      "pcr_itm_oi": 1.21,
+      "pcr_itm_oi_chg": 21.82
     },
     "totals": {
       "total_oi": {
@@ -1543,18 +1543,18 @@
       "total_otm_oi_chg_calls_num": -3975,
       "total_otm_oi_chg_puts_num": -600,
       "total_otm_oi_chg_net_num": 3375,
-      "total_otm_vol_calls": "0.00",
-      "total_otm_vol_puts": "0.00",
-      "pcr_otm_oi": "N.A.",
-      "pcr_otm_oi_chg": "N.A."
+      "total_otm_vol_calls": "44,400.00",
+      "total_otm_vol_puts": "6,150.00",
+      "pcr_otm_oi": 0.6,
+      "pcr_otm_oi_chg": 0.15
     },
     "itm_qty": {
-      "total_itm_oi_calls": "0.00",
-      "total_itm_oi_puts": "0.00",
-      "total_itm_oi_chg_calls": "0.00",
-      "total_itm_oi_chg_puts": "0.00",
-      "pcr_itm_oi": "N.A.",
-      "pcr_itm_oi_chg": "N.A."
+      "total_itm_oi_calls": "20,400.00",
+      "total_itm_oi_puts": "52,425.00",
+      "total_itm_oi_chg_calls": "-75.00",
+      "total_itm_oi_chg_puts": "225.00",
+      "pcr_itm_oi": 2.57,
+      "pcr_itm_oi_chg": -3
     },
     "totals": {
       "total_oi": {
@@ -1592,11 +1592,11 @@
     "pcr_oi": "0.94",
     "pcr_val": "0.68",
     "strike_atm": 1090,
-    "future_oi": 54900000.0,
-    "future_oi_str": "5.49 Cr",
-    "future_oi_chg": 3.03,
-    "threshold_15pct": 8235000.0,
-    "threshold_15pct_str": "82.35 L",
+    "future_oi": 54844500.0,
+    "future_oi_str": "5.48 Cr",
+    "future_oi_chg": 0.51,
+    "threshold_15pct": 8226675.0,
+    "threshold_15pct_str": "82.27 L",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -1612,18 +1612,18 @@
       "total_otm_oi_chg_calls_num": 7439250,
       "total_otm_oi_chg_puts_num": 967500,
       "total_otm_oi_chg_net_num": -6471750,
-      "total_otm_vol_calls": "0.00",
-      "total_otm_vol_puts": "0.00",
-      "pcr_otm_oi": "N.A.",
-      "pcr_otm_oi_chg": "N.A."
+      "total_otm_vol_calls": "6.28 Cr",
+      "total_otm_vol_puts": "3.94 Cr",
+      "pcr_otm_oi": 0.53,
+      "pcr_otm_oi_chg": 0.13
     },
     "itm_qty": {
-      "total_itm_oi_calls": "0.00",
-      "total_itm_oi_puts": "0.00",
-      "total_itm_oi_chg_calls": "0.00",
-      "total_itm_oi_chg_puts": "0.00",
-      "pcr_itm_oi": "N.A.",
-      "pcr_itm_oi_chg": "N.A."
+      "total_itm_oi_calls": "56.30 L",
+      "total_itm_oi_puts": "71.53 L",
+      "total_itm_oi_chg_calls": "2.87 L",
+      "total_itm_oi_chg_puts": "-20.55 L",
+      "pcr_itm_oi": 1.27,
+      "pcr_itm_oi_chg": -7.17
     },
     "totals": {
       "total_oi": {
@@ -1661,11 +1661,11 @@
     "pcr_oi": "1.88",
     "pcr_val": "0.50",
     "strike_atm": 175,
-    "future_oi": 133286400.0,
-    "future_oi_str": "13.33 Cr",
-    "future_oi_chg": -1.89,
-    "threshold_15pct": 19992960.0,
-    "threshold_15pct_str": "2.00 Cr",
+    "future_oi": 131774400.0,
+    "future_oi_str": "13.18 Cr",
+    "future_oi_chg": -0.15,
+    "threshold_15pct": 19766160.0,
+    "threshold_15pct_str": "1.98 Cr",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -1681,18 +1681,18 @@
       "total_otm_oi_chg_calls_num": -2948400,
       "total_otm_oi_chg_puts_num": -1008000,
       "total_otm_oi_chg_net_num": 1940400,
-      "total_otm_vol_calls": "0.00",
-      "total_otm_vol_puts": "0.00",
-      "pcr_otm_oi": "N.A.",
-      "pcr_otm_oi_chg": "N.A."
+      "total_otm_vol_calls": "37.62 L",
+      "total_otm_vol_puts": "12.92 L",
+      "pcr_otm_oi": 0.37,
+      "pcr_otm_oi_chg": 0.34
     },
     "itm_qty": {
-      "total_itm_oi_calls": "0.00",
-      "total_itm_oi_puts": "0.00",
-      "total_itm_oi_chg_calls": "0.00",
-      "total_itm_oi_chg_puts": "0.00",
-      "pcr_itm_oi": "N.A.",
-      "pcr_itm_oi_chg": "N.A."
+      "total_itm_oi_calls": "67.61 L",
+      "total_itm_oi_puts": "1.05 Cr",
+      "total_itm_oi_chg_calls": "-4.28 L",
+      "total_itm_oi_chg_puts": "-1.12 L",
+      "pcr_itm_oi": 1.55,
+      "pcr_itm_oi_chg": 0.26
     },
     "totals": {
       "total_oi": {
@@ -1750,18 +1750,18 @@
       "total_otm_oi_chg_calls_num": 1716975,
       "total_otm_oi_chg_puts_num": 1319175,
       "total_otm_oi_chg_net_num": -397800,
-      "total_otm_vol_calls": "0.00",
-      "total_otm_vol_puts": "0.00",
-      "pcr_otm_oi": "N.A.",
-      "pcr_otm_oi_chg": "N.A."
+      "total_otm_vol_calls": "3.52 Cr",
+      "total_otm_vol_puts": "1.48 Cr",
+      "pcr_otm_oi": 0.81,
+      "pcr_otm_oi_chg": 0.77
     },
     "itm_qty": {
-      "total_itm_oi_calls": "0.00",
-      "total_itm_oi_puts": "0.00",
-      "total_itm_oi_chg_calls": "0.00",
-      "total_itm_oi_chg_puts": "0.00",
-      "pcr_itm_oi": "N.A.",
-      "pcr_itm_oi_chg": "N.A."
+      "total_itm_oi_calls": "90.50 L",
+      "total_itm_oi_puts": "1.12 Cr",
+      "total_itm_oi_chg_calls": "-61,425.00",
+      "total_itm_oi_chg_puts": "23,400.00",
+      "pcr_itm_oi": 1.23,
+      "pcr_itm_oi_chg": -0.38
     },
     "totals": {
       "total_oi": {
@@ -1799,11 +1799,11 @@
     "pcr_oi": "0.63",
     "pcr_val": "0.84",
     "strike_atm": 145,
-    "future_oi": 92211600.0,
-    "future_oi_str": "9.22 Cr",
-    "future_oi_chg": 2.47,
-    "threshold_15pct": 13831740.0,
-    "threshold_15pct_str": "1.38 Cr",
+    "future_oi": 90740000.0,
+    "future_oi_str": "9.07 Cr",
+    "future_oi_chg": -0.03,
+    "threshold_15pct": 13611000.0,
+    "threshold_15pct_str": "1.36 Cr",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -1819,18 +1819,18 @@
       "total_otm_oi_chg_calls_num": 1216800,
       "total_otm_oi_chg_puts_num": -1710800,
       "total_otm_oi_chg_net_num": -2927600,
-      "total_otm_vol_calls": "0.00",
-      "total_otm_vol_puts": "0.00",
-      "pcr_otm_oi": "N.A.",
-      "pcr_otm_oi_chg": "N.A."
+      "total_otm_vol_calls": "3.33 Cr",
+      "total_otm_vol_puts": "2.00 Cr",
+      "pcr_otm_oi": 1.03,
+      "pcr_otm_oi_chg": -1.41
     },
     "itm_qty": {
-      "total_itm_oi_calls": "0.00",
-      "total_itm_oi_puts": "0.00",
-      "total_itm_oi_chg_calls": "0.00",
-      "total_itm_oi_chg_puts": "0.00",
-      "pcr_itm_oi": "N.A.",
-      "pcr_itm_oi_chg": "N.A."
+      "total_itm_oi_calls": "1.26 Cr",
+      "total_itm_oi_puts": "61.62 L",
+      "total_itm_oi_chg_calls": "-13.31 L",
+      "total_itm_oi_chg_puts": "15.39 L",
+      "pcr_itm_oi": 0.49,
+      "pcr_itm_oi_chg": -1.16
     },
     "totals": {
       "total_oi": {
@@ -1868,11 +1868,11 @@
     "pcr_oi": "0.72",
     "pcr_val": "0.89",
     "strike_atm": 58000,
-    "future_oi": 2083350.0,
-    "future_oi_str": "20.83 L",
-    "future_oi_chg": 0.23,
-    "threshold_15pct": 312502.5,
-    "threshold_15pct_str": "3.13 L",
+    "future_oi": 2128080.0,
+    "future_oi_str": "21.28 L",
+    "future_oi_chg": 2.83,
+    "threshold_15pct": 319212.0,
+    "threshold_15pct_str": "3.19 L",
     "strategy2_match": true,
     "strategy2_calls_pass": true,
     "strategy2_puts_pass": false,
@@ -1937,11 +1937,11 @@
     "pcr_oi": "0.75",
     "pcr_val": "0.75",
     "strike_atm": 1300,
-    "future_oi": 6811475.0,
-    "future_oi_str": "68.11 L",
-    "future_oi_chg": 1.55,
-    "threshold_15pct": 1021721.25,
-    "threshold_15pct_str": "10.22 L",
+    "future_oi": 6833150.0,
+    "future_oi_str": "68.33 L",
+    "future_oi_chg": 0.81,
+    "threshold_15pct": 1024972.5,
+    "threshold_15pct_str": "10.25 L",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -1957,18 +1957,18 @@
       "total_otm_oi_chg_calls_num": 155975,
       "total_otm_oi_chg_puts_num": 48875,
       "total_otm_oi_chg_net_num": -107100,
-      "total_otm_vol_calls": "0.00",
-      "total_otm_vol_puts": "0.00",
-      "pcr_otm_oi": "N.A.",
-      "pcr_otm_oi_chg": "N.A."
+      "total_otm_vol_calls": "29.18 L",
+      "total_otm_vol_puts": "13.30 L",
+      "pcr_otm_oi": 0.9,
+      "pcr_otm_oi_chg": 0.31
     },
     "itm_qty": {
-      "total_itm_oi_calls": "0.00",
-      "total_itm_oi_puts": "0.00",
-      "total_itm_oi_chg_calls": "0.00",
-      "total_itm_oi_chg_puts": "0.00",
-      "pcr_itm_oi": "N.A.",
-      "pcr_itm_oi_chg": "N.A."
+      "total_itm_oi_calls": "9.75 L",
+      "total_itm_oi_puts": "4.11 L",
+      "total_itm_oi_chg_calls": "-55,675.00",
+      "total_itm_oi_chg_puts": "2,550.00",
+      "pcr_itm_oi": 0.42,
+      "pcr_itm_oi_chg": -0.05
     },
     "totals": {
       "total_oi": {
@@ -2006,11 +2006,11 @@
     "pcr_oi": "1.01",
     "pcr_val": "0.67",
     "strike_atm": 400,
-    "future_oi": 101722200.0,
-    "future_oi_str": "10.17 Cr",
-    "future_oi_chg": -2.35,
-    "threshold_15pct": 15258330.0,
-    "threshold_15pct_str": "1.53 Cr",
+    "future_oi": 101251950.0,
+    "future_oi_str": "10.13 Cr",
+    "future_oi_chg": -0.03,
+    "threshold_15pct": 15187792.5,
+    "threshold_15pct_str": "1.52 Cr",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -2026,18 +2026,18 @@
       "total_otm_oi_chg_calls_num": -827925,
       "total_otm_oi_chg_puts_num": -1105800,
       "total_otm_oi_chg_net_num": -277875,
-      "total_otm_vol_calls": "0.00",
-      "total_otm_vol_puts": "0.00",
-      "pcr_otm_oi": "N.A.",
-      "pcr_otm_oi_chg": "N.A."
+      "total_otm_vol_calls": "4.35 Cr",
+      "total_otm_vol_puts": "1.94 Cr",
+      "pcr_otm_oi": 0.57,
+      "pcr_otm_oi_chg": 1.34
     },
     "itm_qty": {
-      "total_itm_oi_calls": "0.00",
-      "total_itm_oi_puts": "0.00",
-      "total_itm_oi_chg_calls": "0.00",
-      "total_itm_oi_chg_puts": "0.00",
-      "pcr_itm_oi": "N.A.",
-      "pcr_itm_oi_chg": "N.A."
+      "total_itm_oi_calls": "1.25 Cr",
+      "total_itm_oi_puts": "1.26 Cr",
+      "total_itm_oi_chg_calls": "-5.33 L",
+      "total_itm_oi_chg_puts": "4.76 L",
+      "pcr_itm_oi": 1,
+      "pcr_itm_oi_chg": -0.89
     },
     "totals": {
       "total_oi": {
@@ -2095,18 +2095,18 @@
       "total_otm_oi_chg_calls_num": 380000,
       "total_otm_oi_chg_puts_num": 201000,
       "total_otm_oi_chg_net_num": -179000,
-      "total_otm_vol_calls": "0.00",
-      "total_otm_vol_puts": "0.00",
-      "pcr_otm_oi": "N.A.",
-      "pcr_otm_oi_chg": "N.A."
+      "total_otm_vol_calls": "59.92 L",
+      "total_otm_vol_puts": "33.40 L",
+      "pcr_otm_oi": 1.45,
+      "pcr_otm_oi_chg": 0.53
     },
     "itm_qty": {
-      "total_itm_oi_calls": "0.00",
-      "total_itm_oi_puts": "0.00",
-      "total_itm_oi_chg_calls": "0.00",
-      "total_itm_oi_chg_puts": "0.00",
-      "pcr_itm_oi": "N.A.",
-      "pcr_itm_oi_chg": "N.A."
+      "total_itm_oi_calls": "15.04 L",
+      "total_itm_oi_puts": "1.26 L",
+      "total_itm_oi_chg_calls": "-1.68 L",
+      "total_itm_oi_chg_puts": "32,500.00",
+      "pcr_itm_oi": 0.08,
+      "pcr_itm_oi_chg": -0.19
     },
     "totals": {
       "total_oi": {
@@ -2164,18 +2164,18 @@
       "total_otm_oi_chg_calls_num": -142975,
       "total_otm_oi_chg_puts_num": 247475,
       "total_otm_oi_chg_net_num": 390450,
-      "total_otm_vol_calls": "0.00",
-      "total_otm_vol_puts": "0.00",
-      "pcr_otm_oi": "N.A.",
-      "pcr_otm_oi_chg": "N.A."
+      "total_otm_vol_calls": "1.69 Cr",
+      "total_otm_vol_puts": "67.95 L",
+      "pcr_otm_oi": 0.45,
+      "pcr_otm_oi_chg": -1.73
     },
     "itm_qty": {
-      "total_itm_oi_calls": "0.00",
-      "total_itm_oi_puts": "0.00",
-      "total_itm_oi_chg_calls": "0.00",
-      "total_itm_oi_chg_puts": "0.00",
-      "pcr_itm_oi": "N.A.",
-      "pcr_itm_oi_chg": "N.A."
+      "total_itm_oi_calls": "21.53 L",
+      "total_itm_oi_puts": "19.68 L",
+      "total_itm_oi_chg_calls": "75,050.00",
+      "total_itm_oi_chg_puts": "-1.12 L",
+      "pcr_itm_oi": 0.91,
+      "pcr_itm_oi_chg": -1.49
     },
     "totals": {
       "total_oi": {
@@ -2213,11 +2213,11 @@
     "pcr_oi": "1.24",
     "pcr_val": "0.56",
     "strike_atm": 400,
-    "future_oi": 80789625.0,
-    "future_oi_str": "8.08 Cr",
-    "future_oi_chg": 0.51,
-    "threshold_15pct": 12118443.75,
-    "threshold_15pct_str": "1.21 Cr",
+    "future_oi": 81002250.0,
+    "future_oi_str": "8.10 Cr",
+    "future_oi_chg": 0.88,
+    "threshold_15pct": 12150337.5,
+    "threshold_15pct_str": "1.22 Cr",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -2233,18 +2233,18 @@
       "total_otm_oi_chg_calls_num": 5961375,
       "total_otm_oi_chg_puts_num": 543375,
       "total_otm_oi_chg_net_num": -5418000,
-      "total_otm_vol_calls": "0.00",
-      "total_otm_vol_puts": "0.00",
-      "pcr_otm_oi": "N.A.",
-      "pcr_otm_oi_chg": "N.A."
+      "total_otm_vol_calls": "6.99 Cr",
+      "total_otm_vol_puts": "1.37 Cr",
+      "pcr_otm_oi": 0.31,
+      "pcr_otm_oi_chg": 0.09
     },
     "itm_qty": {
-      "total_itm_oi_calls": "0.00",
-      "total_itm_oi_puts": "0.00",
-      "total_itm_oi_chg_calls": "0.00",
-      "total_itm_oi_chg_puts": "0.00",
-      "pcr_itm_oi": "N.A.",
-      "pcr_itm_oi_chg": "N.A."
+      "total_itm_oi_calls": "28.48 L",
+      "total_itm_oi_puts": "1.04 Cr",
+      "total_itm_oi_chg_calls": "1.60 L",
+      "total_itm_oi_chg_puts": "15.25 L",
+      "pcr_itm_oi": 3.64,
+      "pcr_itm_oi_chg": 9.52
     },
     "totals": {
       "total_oi": {
@@ -2282,11 +2282,11 @@
     "pcr_oi": "0.81",
     "pcr_val": "0.67",
     "strike_atm": 430,
-    "future_oi": 49072500.0,
-    "future_oi_str": "4.91 Cr",
-    "future_oi_chg": 0.34,
-    "threshold_15pct": 7360875.0,
-    "threshold_15pct_str": "73.61 L",
+    "future_oi": 48727500.0,
+    "future_oi_str": "4.87 Cr",
+    "future_oi_chg": 0.19,
+    "threshold_15pct": 7309125.0,
+    "threshold_15pct_str": "73.09 L",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -2302,18 +2302,18 @@
       "total_otm_oi_chg_calls_num": 1350000,
       "total_otm_oi_chg_puts_num": -165000,
       "total_otm_oi_chg_net_num": -1515000,
-      "total_otm_vol_calls": "0.00",
-      "total_otm_vol_puts": "0.00",
-      "pcr_otm_oi": "N.A.",
-      "pcr_otm_oi_chg": "N.A."
+      "total_otm_vol_calls": "3.50 Cr",
+      "total_otm_vol_puts": "2.40 Cr",
+      "pcr_otm_oi": 0.63,
+      "pcr_otm_oi_chg": -0.12
     },
     "itm_qty": {
-      "total_itm_oi_calls": "0.00",
-      "total_itm_oi_puts": "0.00",
-      "total_itm_oi_chg_calls": "0.00",
-      "total_itm_oi_chg_puts": "0.00",
-      "pcr_itm_oi": "N.A.",
-      "pcr_itm_oi_chg": "N.A."
+      "total_itm_oi_calls": "30.05 L",
+      "total_itm_oi_puts": "28.20 L",
+      "total_itm_oi_chg_calls": "2.77 L",
+      "total_itm_oi_chg_puts": "-7.97 L",
+      "pcr_itm_oi": 0.94,
+      "pcr_itm_oi_chg": -2.87
     },
     "totals": {
       "total_oi": {
@@ -2351,10 +2351,10 @@
     "pcr_oi": "2.72",
     "pcr_val": "0.40",
     "strike_atm": 1500,
-    "future_oi": 4895800.0,
-    "future_oi_str": "48.96 L",
-    "future_oi_chg": 1.34,
-    "threshold_15pct": 734370.0,
+    "future_oi": 4891250.0,
+    "future_oi_str": "48.91 L",
+    "future_oi_chg": 1.96,
+    "threshold_15pct": 733687.5,
     "threshold_15pct_str": "7.34 L",
     "strategy2_match": true,
     "strategy2_calls_pass": true,
@@ -2371,18 +2371,18 @@
       "total_otm_oi_chg_calls_num": 1437475,
       "total_otm_oi_chg_puts_num": 231075,
       "total_otm_oi_chg_net_num": -1206400,
-      "total_otm_vol_calls": "0.00",
-      "total_otm_vol_puts": "0.00",
-      "pcr_otm_oi": "N.A.",
-      "pcr_otm_oi_chg": "N.A."
+      "total_otm_vol_calls": "1.23 Cr",
+      "total_otm_vol_puts": "63.24 L",
+      "pcr_otm_oi": 0.2,
+      "pcr_otm_oi_chg": 0.16
     },
     "itm_qty": {
-      "total_itm_oi_calls": "0.00",
-      "total_itm_oi_puts": "0.00",
-      "total_itm_oi_chg_calls": "0.00",
-      "total_itm_oi_chg_puts": "0.00",
-      "pcr_itm_oi": "N.A.",
-      "pcr_itm_oi_chg": "N.A."
+      "total_itm_oi_calls": "46,800.00",
+      "total_itm_oi_puts": "7.36 L",
+      "total_itm_oi_chg_calls": "22,425.00",
+      "total_itm_oi_chg_puts": "-44,525.00",
+      "pcr_itm_oi": 15.74,
+      "pcr_itm_oi_chg": -1.99
     },
     "totals": {
       "total_oi": {
@@ -2420,11 +2420,11 @@
     "pcr_oi": "0.51",
     "pcr_val": "1.12",
     "strike_atm": 42500,
-    "future_oi": 216425.0,
-    "future_oi_str": "2.16 L",
-    "future_oi_chg": 2.52,
-    "threshold_15pct": 32463.75,
-    "threshold_15pct_str": "32,463.75",
+    "future_oi": 221625.0,
+    "future_oi_str": "2.22 L",
+    "future_oi_chg": 0.34,
+    "threshold_15pct": 33243.75,
+    "threshold_15pct_str": "33,243.75",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -2440,18 +2440,18 @@
       "total_otm_oi_chg_calls_num": 18650,
       "total_otm_oi_chg_puts_num": 5850,
       "total_otm_oi_chg_net_num": -12800,
-      "total_otm_vol_calls": "0.00",
-      "total_otm_vol_puts": "0.00",
-      "pcr_otm_oi": "N.A.",
-      "pcr_otm_oi_chg": "N.A."
+      "total_otm_vol_calls": "3.73 L",
+      "total_otm_vol_puts": "1.96 L",
+      "pcr_otm_oi": 1.25,
+      "pcr_otm_oi_chg": 0.31
     },
     "itm_qty": {
-      "total_itm_oi_calls": "0.00",
-      "total_itm_oi_puts": "0.00",
-      "total_itm_oi_chg_calls": "0.00",
-      "total_itm_oi_chg_puts": "0.00",
-      "pcr_itm_oi": "N.A.",
-      "pcr_itm_oi_chg": "N.A."
+      "total_itm_oi_calls": "29,125.00",
+      "total_itm_oi_puts": "15,175.00",
+      "total_itm_oi_chg_calls": "-3,350.00",
+      "total_itm_oi_chg_puts": "825.00",
+      "pcr_itm_oi": 0.52,
+      "pcr_itm_oi_chg": -0.25
     },
     "totals": {
       "total_oi": {
@@ -2509,18 +2509,18 @@
       "total_otm_oi_chg_calls_num": 791500,
       "total_otm_oi_chg_puts_num": 28500,
       "total_otm_oi_chg_net_num": -763000,
-      "total_otm_vol_calls": "0.00",
-      "total_otm_vol_puts": "0.00",
-      "pcr_otm_oi": "N.A.",
-      "pcr_otm_oi_chg": "N.A."
+      "total_otm_vol_calls": "1.58 Cr",
+      "total_otm_vol_puts": "65.15 L",
+      "pcr_otm_oi": 0.45,
+      "pcr_otm_oi_chg": 0.04
     },
     "itm_qty": {
-      "total_itm_oi_calls": "0.00",
-      "total_itm_oi_puts": "0.00",
-      "total_itm_oi_chg_calls": "0.00",
-      "total_itm_oi_chg_puts": "0.00",
-      "pcr_itm_oi": "N.A.",
-      "pcr_itm_oi_chg": "N.A."
+      "total_itm_oi_calls": "2.34 L",
+      "total_itm_oi_puts": "1.96 L",
+      "total_itm_oi_chg_calls": "-85,125.00",
+      "total_itm_oi_chg_puts": "1.60 L",
+      "pcr_itm_oi": 0.84,
+      "pcr_itm_oi_chg": -1.88
     },
     "totals": {
       "total_oi": {
@@ -2578,18 +2578,18 @@
       "total_otm_oi_chg_calls_num": -362600,
       "total_otm_oi_chg_puts_num": 331400,
       "total_otm_oi_chg_net_num": 694000,
-      "total_otm_vol_calls": "0.00",
-      "total_otm_vol_puts": "0.00",
-      "pcr_otm_oi": "N.A.",
-      "pcr_otm_oi_chg": "N.A."
+      "total_otm_vol_calls": "1.81 Cr",
+      "total_otm_vol_puts": "1.11 Cr",
+      "pcr_otm_oi": 0.33,
+      "pcr_otm_oi_chg": -0.91
     },
     "itm_qty": {
-      "total_itm_oi_calls": "0.00",
-      "total_itm_oi_puts": "0.00",
-      "total_itm_oi_chg_calls": "0.00",
-      "total_itm_oi_chg_puts": "0.00",
-      "pcr_itm_oi": "N.A.",
-      "pcr_itm_oi_chg": "N.A."
+      "total_itm_oi_calls": "5.81 L",
+      "total_itm_oi_puts": "19.36 L",
+      "total_itm_oi_chg_calls": "36,200.00",
+      "total_itm_oi_chg_puts": "-1.13 L",
+      "pcr_itm_oi": 3.33,
+      "pcr_itm_oi_chg": -3.13
     },
     "totals": {
       "total_oi": {
@@ -2647,18 +2647,18 @@
       "total_otm_oi_chg_calls_num": 597300,
       "total_otm_oi_chg_puts_num": 256575,
       "total_otm_oi_chg_net_num": -340725,
-      "total_otm_vol_calls": "0.00",
-      "total_otm_vol_puts": "0.00",
-      "pcr_otm_oi": "N.A.",
-      "pcr_otm_oi_chg": "N.A."
+      "total_otm_vol_calls": "65.27 L",
+      "total_otm_vol_puts": "22.89 L",
+      "pcr_otm_oi": 0.26,
+      "pcr_otm_oi_chg": 0.43
     },
     "itm_qty": {
-      "total_itm_oi_calls": "0.00",
-      "total_itm_oi_puts": "0.00",
-      "total_itm_oi_chg_calls": "0.00",
-      "total_itm_oi_chg_puts": "0.00",
-      "pcr_itm_oi": "N.A.",
-      "pcr_itm_oi_chg": "N.A."
+      "total_itm_oi_calls": "1.86 L",
+      "total_itm_oi_puts": "17.18 L",
+      "total_itm_oi_chg_calls": "16,500.00",
+      "total_itm_oi_chg_puts": "-47,025.00",
+      "pcr_itm_oi": 9.26,
+      "pcr_itm_oi_chg": -2.85
     },
     "totals": {
       "total_oi": {
@@ -2716,18 +2716,18 @@
       "total_otm_oi_chg_calls_num": 4441500,
       "total_otm_oi_chg_puts_num": -573750,
       "total_otm_oi_chg_net_num": -5015250,
-      "total_otm_vol_calls": "0.00",
-      "total_otm_vol_puts": "0.00",
-      "pcr_otm_oi": "N.A.",
-      "pcr_otm_oi_chg": "N.A."
+      "total_otm_vol_calls": "9.76 Cr",
+      "total_otm_vol_puts": "3.40 Cr",
+      "pcr_otm_oi": 1.02,
+      "pcr_otm_oi_chg": -0.13
     },
     "itm_qty": {
-      "total_itm_oi_calls": "0.00",
-      "total_itm_oi_puts": "0.00",
-      "total_itm_oi_chg_calls": "0.00",
-      "total_itm_oi_chg_puts": "0.00",
-      "pcr_itm_oi": "N.A.",
-      "pcr_itm_oi_chg": "N.A."
+      "total_itm_oi_calls": "3.36 Cr",
+      "total_itm_oi_puts": "1.66 Cr",
+      "total_itm_oi_chg_calls": "-20.45 L",
+      "total_itm_oi_chg_puts": "4.66 L",
+      "pcr_itm_oi": 0.49,
+      "pcr_itm_oi_chg": -0.23
     },
     "totals": {
       "total_oi": {
@@ -2785,18 +2785,18 @@
       "total_otm_oi_chg_calls_num": 283100,
       "total_otm_oi_chg_puts_num": -6175,
       "total_otm_oi_chg_net_num": -289275,
-      "total_otm_vol_calls": "0.00",
-      "total_otm_vol_puts": "0.00",
-      "pcr_otm_oi": "N.A.",
-      "pcr_otm_oi_chg": "N.A."
+      "total_otm_vol_calls": "28.38 L",
+      "total_otm_vol_puts": "11.95 L",
+      "pcr_otm_oi": 0.48,
+      "pcr_otm_oi_chg": -0.02
     },
     "itm_qty": {
-      "total_itm_oi_calls": "0.00",
-      "total_itm_oi_puts": "0.00",
-      "total_itm_oi_chg_calls": "0.00",
-      "total_itm_oi_chg_puts": "0.00",
-      "pcr_itm_oi": "N.A.",
-      "pcr_itm_oi_chg": "N.A."
+      "total_itm_oi_calls": "8.36 L",
+      "total_itm_oi_puts": "16.76 L",
+      "total_itm_oi_chg_calls": "74,100.00",
+      "total_itm_oi_chg_puts": "-9,500.00",
+      "pcr_itm_oi": 2.01,
+      "pcr_itm_oi_chg": -0.13
     },
     "totals": {
       "total_oi": {
@@ -2834,11 +2834,11 @@
     "pcr_oi": "0.52",
     "pcr_val": "0.55",
     "strike_atm": 880,
-    "future_oi": 19700450.0,
+    "future_oi": 19659650.0,
     "future_oi_str": "1.97 Cr",
-    "future_oi_chg": 0.13,
-    "threshold_15pct": 2955067.5,
-    "threshold_15pct_str": "29.55 L",
+    "future_oi_chg": 0.57,
+    "threshold_15pct": 2948947.5,
+    "threshold_15pct_str": "29.49 L",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -2854,18 +2854,18 @@
       "total_otm_oi_chg_calls_num": 449650,
       "total_otm_oi_chg_puts_num": 294100,
       "total_otm_oi_chg_net_num": -155550,
-      "total_otm_vol_calls": "0.00",
-      "total_otm_vol_puts": "0.00",
-      "pcr_otm_oi": "N.A.",
-      "pcr_otm_oi_chg": "N.A."
+      "total_otm_vol_calls": "47.35 L",
+      "total_otm_vol_puts": "27.52 L",
+      "pcr_otm_oi": 0.59,
+      "pcr_otm_oi_chg": 0.65
     },
     "itm_qty": {
-      "total_itm_oi_calls": "0.00",
-      "total_itm_oi_puts": "0.00",
-      "total_itm_oi_chg_calls": "0.00",
-      "total_itm_oi_chg_puts": "0.00",
-      "pcr_itm_oi": "N.A.",
-      "pcr_itm_oi_chg": "N.A."
+      "total_itm_oi_calls": "26.19 L",
+      "total_itm_oi_puts": "11.47 L",
+      "total_itm_oi_chg_calls": "15,300.00",
+      "total_itm_oi_chg_puts": "1,700.00",
+      "pcr_itm_oi": 0.44,
+      "pcr_itm_oi_chg": 0.11
     },
     "totals": {
       "total_oi": {
@@ -2903,11 +2903,11 @@
     "pcr_oi": "0.38",
     "pcr_val": "0.76",
     "strike_atm": 1880,
-    "future_oi": 13342500.0,
-    "future_oi_str": "1.33 Cr",
-    "future_oi_chg": -1.87,
-    "threshold_15pct": 2001375.0,
-    "threshold_15pct_str": "20.01 L",
+    "future_oi": 12995625.0,
+    "future_oi_str": "1.30 Cr",
+    "future_oi_chg": 0.81,
+    "threshold_15pct": 1949343.75,
+    "threshold_15pct_str": "19.49 L",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -2923,18 +2923,18 @@
       "total_otm_oi_chg_calls_num": 374375,
       "total_otm_oi_chg_puts_num": -298750,
       "total_otm_oi_chg_net_num": -673125,
-      "total_otm_vol_calls": "0.00",
-      "total_otm_vol_puts": "0.00",
-      "pcr_otm_oi": "N.A.",
-      "pcr_otm_oi_chg": "N.A."
+      "total_otm_vol_calls": "56.11 L",
+      "total_otm_vol_puts": "31.95 L",
+      "pcr_otm_oi": 0.99,
+      "pcr_otm_oi_chg": -0.8
     },
     "itm_qty": {
-      "total_itm_oi_calls": "0.00",
-      "total_itm_oi_puts": "0.00",
-      "total_itm_oi_chg_calls": "0.00",
-      "total_itm_oi_chg_puts": "0.00",
-      "pcr_itm_oi": "N.A.",
-      "pcr_itm_oi_chg": "N.A."
+      "total_itm_oi_calls": "15.18 L",
+      "total_itm_oi_puts": "5.36 L",
+      "total_itm_oi_chg_calls": "53,125.00",
+      "total_itm_oi_chg_puts": "-85,000.00",
+      "pcr_itm_oi": 0.35,
+      "pcr_itm_oi_chg": -1.6
     },
     "totals": {
       "total_oi": {
@@ -2972,11 +2972,11 @@
     "pcr_oi": "0.41",
     "pcr_val": "0.65",
     "strike_atm": 1470,
-    "future_oi": 9006175.0,
-    "future_oi_str": "90.06 L",
-    "future_oi_chg": 0.17,
-    "threshold_15pct": 1350926.25,
-    "threshold_15pct_str": "13.51 L",
+    "future_oi": 8976000.0,
+    "future_oi_str": "89.76 L",
+    "future_oi_chg": 0.05,
+    "threshold_15pct": 1346400.0,
+    "threshold_15pct_str": "13.46 L",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -2992,18 +2992,18 @@
       "total_otm_oi_chg_calls_num": 201025,
       "total_otm_oi_chg_puts_num": 39100,
       "total_otm_oi_chg_net_num": -161925,
-      "total_otm_vol_calls": "0.00",
-      "total_otm_vol_puts": "0.00",
-      "pcr_otm_oi": "N.A.",
-      "pcr_otm_oi_chg": "N.A."
+      "total_otm_vol_calls": "33.23 L",
+      "total_otm_vol_puts": "12.65 L",
+      "pcr_otm_oi": 0.67,
+      "pcr_otm_oi_chg": 0.19
     },
     "itm_qty": {
-      "total_itm_oi_calls": "0.00",
-      "total_itm_oi_puts": "0.00",
-      "total_itm_oi_chg_calls": "0.00",
-      "total_itm_oi_chg_puts": "0.00",
-      "pcr_itm_oi": "N.A.",
-      "pcr_itm_oi_chg": "N.A."
+      "total_itm_oi_calls": "8.90 L",
+      "total_itm_oi_puts": "4.90 L",
+      "total_itm_oi_chg_calls": "-3,400.00",
+      "total_itm_oi_chg_puts": "11,900.00",
+      "pcr_itm_oi": 0.55,
+      "pcr_itm_oi_chg": -3.5
     },
     "totals": {
       "total_oi": {
@@ -3061,18 +3061,18 @@
       "total_otm_oi_chg_calls_num": 769500,
       "total_otm_oi_chg_puts_num": -39150,
       "total_otm_oi_chg_net_num": -808650,
-      "total_otm_vol_calls": "0.00",
-      "total_otm_vol_puts": "0.00",
-      "pcr_otm_oi": "N.A.",
-      "pcr_otm_oi_chg": "N.A."
+      "total_otm_vol_calls": "77.79 L",
+      "total_otm_vol_puts": "50.02 L",
+      "pcr_otm_oi": 0.51,
+      "pcr_otm_oi_chg": -0.05
     },
     "itm_qty": {
-      "total_itm_oi_calls": "0.00",
-      "total_itm_oi_puts": "0.00",
-      "total_itm_oi_chg_calls": "0.00",
-      "total_itm_oi_chg_puts": "0.00",
-      "pcr_itm_oi": "N.A.",
-      "pcr_itm_oi_chg": "N.A."
+      "total_itm_oi_calls": "74.98 L",
+      "total_itm_oi_puts": "96.89 L",
+      "total_itm_oi_chg_calls": "-8.22 L",
+      "total_itm_oi_chg_puts": "8,100.00",
+      "pcr_itm_oi": 1.29,
+      "pcr_itm_oi_chg": -0.01
     },
     "totals": {
       "total_oi": {
@@ -3130,18 +3130,18 @@
       "total_otm_oi_chg_calls_num": 335350,
       "total_otm_oi_chg_puts_num": -17100,
       "total_otm_oi_chg_net_num": -352450,
-      "total_otm_vol_calls": "0.00",
-      "total_otm_vol_puts": "0.00",
-      "pcr_otm_oi": "N.A.",
-      "pcr_otm_oi_chg": "N.A."
+      "total_otm_vol_calls": "1.33 Cr",
+      "total_otm_vol_puts": "55.25 L",
+      "pcr_otm_oi": 1.92,
+      "pcr_otm_oi_chg": -0.05
     },
     "itm_qty": {
-      "total_itm_oi_calls": "0.00",
-      "total_itm_oi_puts": "0.00",
-      "total_itm_oi_chg_calls": "0.00",
-      "total_itm_oi_chg_puts": "0.00",
-      "pcr_itm_oi": "N.A.",
-      "pcr_itm_oi_chg": "N.A."
+      "total_itm_oi_calls": "39.70 L",
+      "total_itm_oi_puts": "5.17 L",
+      "total_itm_oi_chg_calls": "-57,000.00",
+      "total_itm_oi_chg_puts": "2.47 L",
+      "pcr_itm_oi": 0.13,
+      "pcr_itm_oi_chg": -4.34
     },
     "totals": {
       "total_oi": {
@@ -3179,11 +3179,11 @@
     "pcr_oi": "2.76",
     "pcr_val": "0.51",
     "strike_atm": 2040,
-    "future_oi": 5104275.0,
-    "future_oi_str": "51.04 L",
-    "future_oi_chg": 0.13,
-    "threshold_15pct": 765641.25,
-    "threshold_15pct_str": "7.66 L",
+    "future_oi": 5141400.0,
+    "future_oi_str": "51.41 L",
+    "future_oi_chg": 0.54,
+    "threshold_15pct": 771210.0,
+    "threshold_15pct_str": "7.71 L",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -3199,18 +3199,18 @@
       "total_otm_oi_chg_calls_num": 7975,
       "total_otm_oi_chg_puts_num": 50600,
       "total_otm_oi_chg_net_num": 42625,
-      "total_otm_vol_calls": "0.00",
-      "total_otm_vol_puts": "0.00",
-      "pcr_otm_oi": "N.A.",
-      "pcr_otm_oi_chg": "N.A."
+      "total_otm_vol_calls": "14.14 L",
+      "total_otm_vol_puts": "4.13 L",
+      "pcr_otm_oi": 0.29,
+      "pcr_otm_oi_chg": 6.34
     },
     "itm_qty": {
-      "total_itm_oi_calls": "0.00",
-      "total_itm_oi_puts": "0.00",
-      "total_itm_oi_chg_calls": "0.00",
-      "total_itm_oi_chg_puts": "0.00",
-      "pcr_itm_oi": "N.A.",
-      "pcr_itm_oi_chg": "N.A."
+      "total_itm_oi_calls": "1.73 L",
+      "total_itm_oi_puts": "7.99 L",
+      "total_itm_oi_chg_calls": "32,725.00",
+      "total_itm_oi_chg_puts": "825.00",
+      "pcr_itm_oi": 4.62,
+      "pcr_itm_oi_chg": 0.03
     },
     "totals": {
       "total_oi": {
@@ -3268,18 +3268,18 @@
       "total_otm_oi_chg_calls_num": 195000,
       "total_otm_oi_chg_puts_num": -1250,
       "total_otm_oi_chg_net_num": -196250,
-      "total_otm_vol_calls": "0.00",
-      "total_otm_vol_puts": "0.00",
-      "pcr_otm_oi": "N.A.",
-      "pcr_otm_oi_chg": "N.A."
+      "total_otm_vol_calls": "22.14 L",
+      "total_otm_vol_puts": "6.22 L",
+      "pcr_otm_oi": 0.46,
+      "pcr_otm_oi_chg": -0.01
     },
     "itm_qty": {
-      "total_itm_oi_calls": "0.00",
-      "total_itm_oi_puts": "0.00",
-      "total_itm_oi_chg_calls": "0.00",
-      "total_itm_oi_chg_puts": "0.00",
-      "pcr_itm_oi": "N.A.",
-      "pcr_itm_oi_chg": "N.A."
+      "total_itm_oi_calls": "15.38 L",
+      "total_itm_oi_puts": "13.55 L",
+      "total_itm_oi_chg_calls": "-35,000.00",
+      "total_itm_oi_chg_puts": "-18,750.00",
+      "pcr_itm_oi": 0.88,
+      "pcr_itm_oi_chg": 0.54
     },
     "totals": {
       "total_oi": {
@@ -3406,18 +3406,18 @@
       "total_otm_oi_chg_calls_num": -33800,
       "total_otm_oi_chg_puts_num": -215600,
       "total_otm_oi_chg_net_num": -181800,
-      "total_otm_vol_calls": "0.00",
-      "total_otm_vol_puts": "0.00",
-      "pcr_otm_oi": "N.A.",
-      "pcr_otm_oi_chg": "N.A."
+      "total_otm_vol_calls": "24.01 L",
+      "total_otm_vol_puts": "22.43 L",
+      "pcr_otm_oi": 1.02,
+      "pcr_otm_oi_chg": 6.38
     },
     "itm_qty": {
-      "total_itm_oi_calls": "0.00",
-      "total_itm_oi_puts": "0.00",
-      "total_itm_oi_chg_calls": "0.00",
-      "total_itm_oi_chg_puts": "0.00",
-      "pcr_itm_oi": "N.A.",
-      "pcr_itm_oi_chg": "N.A."
+      "total_itm_oi_calls": "3.82 L",
+      "total_itm_oi_puts": "1.42 L",
+      "total_itm_oi_chg_calls": "72,800.00",
+      "total_itm_oi_chg_puts": "4,400.00",
+      "pcr_itm_oi": 0.37,
+      "pcr_itm_oi_chg": 0.06
     },
     "totals": {
       "total_oi": {
@@ -9409,18 +9409,18 @@
       "total_otm_oi_chg_calls_num": 2047500,
       "total_otm_oi_chg_puts_num": 117000,
       "total_otm_oi_chg_net_num": -1930500,
-      "total_otm_vol_calls": "1.56 Cr",
-      "total_otm_vol_puts": "47.58 L",
-      "pcr_otm_oi": 0.48,
-      "pcr_otm_oi_chg": 0.06
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "56.42 L",
-      "total_itm_oi_puts": "41.27 L",
-      "total_itm_oi_chg_calls": "78,000.00",
-      "total_itm_oi_chg_puts": "3.25 L",
-      "pcr_itm_oi": 0.73,
-      "pcr_itm_oi_chg": 4.17
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -10306,18 +10306,18 @@
       "total_otm_oi_chg_calls_num": 20425,
       "total_otm_oi_chg_puts_num": 25800,
       "total_otm_oi_chg_net_num": 5375,
-      "total_otm_vol_calls": "51.03 L",
-      "total_otm_vol_puts": "27.50 L",
-      "pcr_otm_oi": 0.7,
-      "pcr_otm_oi_chg": 1.26
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "29.16 L",
-      "total_itm_oi_puts": "23.16 L",
-      "total_itm_oi_chg_calls": "-76,325.00",
-      "total_itm_oi_chg_puts": "-83,850.00",
-      "pcr_itm_oi": 0.79,
-      "pcr_itm_oi_chg": 1.1
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -11065,18 +11065,18 @@
       "total_otm_oi_chg_calls_num": 111625,
       "total_otm_oi_chg_puts_num": 10000,
       "total_otm_oi_chg_net_num": -101625,
-      "total_otm_vol_calls": "10.65 L",
-      "total_otm_vol_puts": "7.56 L",
-      "pcr_otm_oi": 0.88,
-      "pcr_otm_oi_chg": 0.09
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "4.25 L",
-      "total_itm_oi_puts": "1.69 L",
-      "total_itm_oi_chg_calls": "17,000.00",
-      "total_itm_oi_chg_puts": "12,125.00",
-      "pcr_itm_oi": 0.4,
-      "pcr_itm_oi_chg": 0.71
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -14357,11 +14357,11 @@
     "pcr_oi": "N.A.",
     "pcr_val": "-",
     "strike_atm": "N/A",
-    "future_oi": 945.0,
-    "future_oi_str": "945.00",
+    "future_oi": 990.0,
+    "future_oi_str": "990.00",
     "future_oi_chg": 16.67,
-    "threshold_15pct": 141.75,
-    "threshold_15pct_str": "141.75",
+    "threshold_15pct": 148.5,
+    "threshold_15pct_str": "148.50",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -14495,11 +14495,11 @@
     "pcr_oi": "N.A.",
     "pcr_val": "-",
     "strike_atm": "N/A",
-    "future_oi": 5409200,
-    "future_oi_str": "54.09 L",
-    "future_oi_chg": 2.93,
-    "threshold_15pct": 811380.0,
-    "threshold_15pct_str": "8.11 L",
+    "future_oi": 5372800.0,
+    "future_oi_str": "53.73 L",
+    "future_oi_chg": -0.97,
+    "threshold_15pct": 805920.0,
+    "threshold_15pct_str": "8.06 L",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
