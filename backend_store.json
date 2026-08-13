@@ -5,11 +5,11 @@
     "pcr_oi": "0.99",
     "pcr_val": "0.63",
     "strike_atm": 1160,
-    "future_oi": 4388000.0,
-    "future_oi_str": "43.88 L",
-    "future_oi_chg": 7.3,
-    "threshold_15pct": 658200.0,
-    "threshold_15pct_str": "6.58 L",
+    "future_oi": 4106000.0,
+    "future_oi_str": "41.06 L",
+    "future_oi_chg": 1.71,
+    "threshold_15pct": 615900.0,
+    "threshold_15pct_str": "6.16 L",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -74,11 +74,11 @@
     "pcr_oi": "0.42",
     "pcr_val": "0.56",
     "strike_atm": 7600,
-    "future_oi": 2073500.0,
-    "future_oi_str": "20.73 L",
-    "future_oi_chg": 2.81,
-    "threshold_15pct": 311025.0,
-    "threshold_15pct_str": "3.11 L",
+    "future_oi": 2098375.0,
+    "future_oi_str": "20.98 L",
+    "future_oi_chg": 1.33,
+    "threshold_15pct": 314756.25,
+    "threshold_15pct_str": "3.15 L",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -143,11 +143,11 @@
     "pcr_oi": "0.95",
     "pcr_val": "0.59",
     "strike_atm": 405,
-    "future_oi": 40312400.0,
-    "future_oi_str": "4.03 Cr",
-    "future_oi_chg": 0.8,
-    "threshold_15pct": 6046860.0,
-    "threshold_15pct_str": "60.47 L",
+    "future_oi": 40427100.0,
+    "future_oi_str": "4.04 Cr",
+    "future_oi_chg": 0.35,
+    "threshold_15pct": 6064065.0,
+    "threshold_15pct_str": "60.64 L",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -212,11 +212,11 @@
     "pcr_oi": "1.26",
     "pcr_val": "0.56",
     "strike_atm": 1640,
-    "future_oi": 19147725.0,
-    "future_oi_str": "1.91 Cr",
-    "future_oi_chg": 0.3,
-    "threshold_15pct": 2872158.75,
-    "threshold_15pct_str": "28.72 L",
+    "future_oi": 19461600.0,
+    "future_oi_str": "1.95 Cr",
+    "future_oi_chg": 1.83,
+    "threshold_15pct": 2919240.0,
+    "threshold_15pct_str": "29.19 L",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -281,11 +281,11 @@
     "pcr_oi": "1.13",
     "pcr_val": "0.77",
     "strike_atm": 3040,
-    "future_oi": 16163790.0,
-    "future_oi_str": "1.62 Cr",
-    "future_oi_chg": 0.7,
-    "threshold_15pct": 2424568.5,
-    "threshold_15pct_str": "24.25 L",
+    "future_oi": 16068927.0,
+    "future_oi_str": "1.61 Cr",
+    "future_oi_chg": 0.77,
+    "threshold_15pct": 2410339.05,
+    "threshold_15pct_str": "24.10 L",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -350,11 +350,11 @@
     "pcr_oi": "2.06",
     "pcr_val": "0.57",
     "strike_atm": 1380,
-    "future_oi": 27311400.0,
-    "future_oi_str": "2.73 Cr",
-    "future_oi_chg": -0.05,
-    "threshold_15pct": 4096710.0,
-    "threshold_15pct_str": "40.97 L",
+    "future_oi": 26971200.0,
+    "future_oi_str": "2.70 Cr",
+    "future_oi_chg": 0.59,
+    "threshold_15pct": 4045680.0,
+    "threshold_15pct_str": "40.46 L",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -419,11 +419,11 @@
     "pcr_oi": "2",
     "pcr_val": "0.57",
     "strike_atm": 1680,
-    "future_oi": 20390800.0,
-    "future_oi_str": "2.04 Cr",
-    "future_oi_chg": 0.34,
-    "threshold_15pct": 3058620.0,
-    "threshold_15pct_str": "30.59 L",
+    "future_oi": 20296275.0,
+    "future_oi_str": "2.03 Cr",
+    "future_oi_chg": 0.49,
+    "threshold_15pct": 3044441.25,
+    "threshold_15pct_str": "30.44 L",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -488,11 +488,11 @@
     "pcr_oi": "1.32",
     "pcr_val": "0.57",
     "strike_atm": 210,
-    "future_oi": 161255200.0,
-    "future_oi_str": "16.13 Cr",
-    "future_oi_chg": -0.05,
-    "threshold_15pct": 24188280.0,
-    "threshold_15pct_str": "2.42 Cr",
+    "future_oi": 159824550.0,
+    "future_oi_str": "15.98 Cr",
+    "future_oi_chg": 0.58,
+    "threshold_15pct": 23973682.5,
+    "threshold_15pct_str": "2.40 Cr",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -557,11 +557,11 @@
     "pcr_oi": "0.65",
     "pcr_val": "0.61",
     "strike_atm": 5650,
-    "future_oi": 1466625.0,
-    "future_oi_str": "14.67 L",
-    "future_oi_chg": 1.43,
-    "threshold_15pct": 219993.75,
-    "threshold_15pct_str": "2.20 L",
+    "future_oi": 1471625.0,
+    "future_oi_str": "14.72 L",
+    "future_oi_chg": 0.44,
+    "threshold_15pct": 220743.75,
+    "threshold_15pct_str": "2.21 L",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -626,11 +626,11 @@
     "pcr_oi": "0.94",
     "pcr_val": "1.14",
     "strike_atm": 7400,
-    "future_oi": 1390800.0,
-    "future_oi_str": "13.91 L",
-    "future_oi_chg": 1.22,
-    "threshold_15pct": 208620.0,
-    "threshold_15pct_str": "2.09 L",
+    "future_oi": 1432600.0,
+    "future_oi_str": "14.33 L",
+    "future_oi_chg": 5.88,
+    "threshold_15pct": 214890.0,
+    "threshold_15pct_str": "2.15 L",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -695,10 +695,10 @@
     "pcr_oi": "1.5",
     "pcr_val": "0.58",
     "strike_atm": 435,
-    "future_oi": 84426000.0,
-    "future_oi_str": "8.44 Cr",
-    "future_oi_chg": 1.57,
-    "threshold_15pct": 12663900.0,
+    "future_oi": 84625200.0,
+    "future_oi_str": "8.46 Cr",
+    "future_oi_chg": 0.43,
+    "threshold_15pct": 12693780.0,
     "threshold_15pct_str": "1.27 Cr",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
@@ -764,11 +764,11 @@
     "pcr_oi": "1.73",
     "pcr_val": "0.50",
     "strike_atm": 295,
-    "future_oi": 31960000.0,
-    "future_oi_str": "3.20 Cr",
-    "future_oi_chg": 4.86,
-    "threshold_15pct": 4794000.0,
-    "threshold_15pct_str": "47.94 L",
+    "future_oi": 31522500.0,
+    "future_oi_str": "3.15 Cr",
+    "future_oi_chg": 0.71,
+    "threshold_15pct": 4728375.0,
+    "threshold_15pct_str": "47.28 L",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -833,11 +833,11 @@
     "pcr_oi": "0.37",
     "pcr_val": "0.82",
     "strike_atm": 1980,
-    "future_oi": 6396950.0,
-    "future_oi_str": "63.97 L",
-    "future_oi_chg": 5.37,
-    "threshold_15pct": 959542.5,
-    "threshold_15pct_str": "9.60 L",
+    "future_oi": 6617450.0,
+    "future_oi_str": "66.17 L",
+    "future_oi_chg": 3.46,
+    "threshold_15pct": 992617.5,
+    "threshold_15pct_str": "9.93 L",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -902,11 +902,11 @@
     "pcr_oi": "0.48",
     "pcr_val": "0.66",
     "strike_atm": 9000,
-    "future_oi": 2499875.0,
-    "future_oi_str": "25.00 L",
-    "future_oi_chg": 18.9,
-    "threshold_15pct": 374981.25,
-    "threshold_15pct_str": "3.75 L",
+    "future_oi": 2577125.0,
+    "future_oi_str": "25.77 L",
+    "future_oi_chg": 5.18,
+    "threshold_15pct": 386568.75,
+    "threshold_15pct_str": "3.87 L",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -971,11 +971,11 @@
     "pcr_oi": "0.27",
     "pcr_val": "0.93",
     "strike_atm": 177.5,
-    "future_oi": 138015000.0,
-    "future_oi_str": "13.80 Cr",
-    "future_oi_chg": 0.08,
-    "threshold_15pct": 20702250.0,
-    "threshold_15pct_str": "2.07 Cr",
+    "future_oi": 138775000.0,
+    "future_oi_str": "13.88 Cr",
+    "future_oi_chg": 0.71,
+    "threshold_15pct": 20816250.0,
+    "threshold_15pct_str": "2.08 Cr",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -1060,18 +1060,18 @@
       "total_otm_oi_chg_calls_num": 142000,
       "total_otm_oi_chg_puts_num": -26500,
       "total_otm_oi_chg_net_num": -168500,
-      "total_otm_vol_calls": "48.84 L",
-      "total_otm_vol_puts": "21.98 L",
-      "pcr_otm_oi": 0.51,
-      "pcr_otm_oi_chg": -0.19
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "3.96 L",
-      "total_itm_oi_puts": "9.44 L",
-      "total_itm_oi_chg_calls": "19,250.00",
-      "total_itm_oi_chg_puts": "-6,750.00",
-      "pcr_itm_oi": 2.38,
-      "pcr_itm_oi_chg": -0.35
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -1109,11 +1109,11 @@
     "pcr_oi": "1.2",
     "pcr_val": "0.78",
     "strike_atm": 1440,
-    "future_oi": 7109400.0,
-    "future_oi_str": "71.09 L",
-    "future_oi_chg": 2.15,
-    "threshold_15pct": 1066410.0,
-    "threshold_15pct_str": "10.66 L",
+    "future_oi": 6831025.0,
+    "future_oi_str": "68.31 L",
+    "future_oi_chg": -2.66,
+    "threshold_15pct": 1024653.75,
+    "threshold_15pct_str": "10.25 L",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -1178,11 +1178,11 @@
     "pcr_oi": "0.49",
     "pcr_val": "0.66",
     "strike_atm": 1080,
-    "future_oi": 22043000.0,
-    "future_oi_str": "2.20 Cr",
-    "future_oi_chg": 1.39,
-    "threshold_15pct": 3306450.0,
-    "threshold_15pct_str": "33.06 L",
+    "future_oi": 21492000.0,
+    "future_oi_str": "2.15 Cr",
+    "future_oi_chg": 0.69,
+    "threshold_15pct": 3223800.0,
+    "threshold_15pct_str": "32.24 L",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -1247,11 +1247,11 @@
     "pcr_oi": "0.25",
     "pcr_val": "0.83",
     "strike_atm": 1660,
-    "future_oi": 10846000.0,
-    "future_oi_str": "1.08 Cr",
-    "future_oi_chg": 1.96,
-    "threshold_15pct": 1626900.0,
-    "threshold_15pct_str": "16.27 L",
+    "future_oi": 10566050.0,
+    "future_oi_str": "1.06 Cr",
+    "future_oi_chg": 0.29,
+    "threshold_15pct": 1584907.5,
+    "threshold_15pct_str": "15.85 L",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -1316,11 +1316,11 @@
     "pcr_oi": "N.A.",
     "pcr_val": "-",
     "strike_atm": 1240,
-    "future_oi": 81352500.0,
-    "future_oi_str": "8.14 Cr",
-    "future_oi_chg": 1.66,
-    "threshold_15pct": 12202875.0,
-    "threshold_15pct_str": "1.22 Cr",
+    "future_oi": 80298125.0,
+    "future_oi_str": "8.03 Cr",
+    "future_oi_chg": 0.21,
+    "threshold_15pct": 12044718.75,
+    "threshold_15pct_str": "1.20 Cr",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -1385,11 +1385,11 @@
     "pcr_oi": "0.33",
     "pcr_val": "1.59",
     "strike_atm": 11700,
-    "future_oi": 1825200.0,
-    "future_oi_str": "18.25 L",
-    "future_oi_chg": -0.92,
-    "threshold_15pct": 273780.0,
-    "threshold_15pct_str": "2.74 L",
+    "future_oi": 1791375.0,
+    "future_oi_str": "17.91 L",
+    "future_oi_chg": -0.4,
+    "threshold_15pct": 268706.25,
+    "threshold_15pct_str": "2.69 L",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -1454,11 +1454,11 @@
     "pcr_oi": "0.66",
     "pcr_val": "0.53",
     "strike_atm": 2000,
-    "future_oi": 7551900.0,
-    "future_oi_str": "75.52 L",
-    "future_oi_chg": 0.28,
-    "threshold_15pct": 1132785.0,
-    "threshold_15pct_str": "11.33 L",
+    "future_oi": 7595700.0,
+    "future_oi_str": "75.96 L",
+    "future_oi_chg": 0.79,
+    "threshold_15pct": 1139355.0,
+    "threshold_15pct_str": "11.39 L",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -1523,11 +1523,11 @@
     "pcr_oi": "1.16",
     "pcr_val": "1.11",
     "strike_atm": 11300,
-    "future_oi": 324600.0,
+    "future_oi": 324750.0,
     "future_oi_str": "3.25 L",
-    "future_oi_chg": 0.23,
-    "threshold_15pct": 48690.0,
-    "threshold_15pct_str": "48,690.00",
+    "future_oi_chg": 0.14,
+    "threshold_15pct": 48712.5,
+    "threshold_15pct_str": "48,712.50",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -1592,11 +1592,11 @@
     "pcr_oi": "0.94",
     "pcr_val": "0.68",
     "strike_atm": 1090,
-    "future_oi": 54191250.0,
-    "future_oi_str": "5.42 Cr",
-    "future_oi_chg": -0.14,
-    "threshold_15pct": 8128687.5,
-    "threshold_15pct_str": "81.29 L",
+    "future_oi": 53986500.0,
+    "future_oi_str": "5.40 Cr",
+    "future_oi_chg": 0.47,
+    "threshold_15pct": 8097975.0,
+    "threshold_15pct_str": "80.98 L",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -1661,11 +1661,11 @@
     "pcr_oi": "1.88",
     "pcr_val": "0.50",
     "strike_atm": 175,
-    "future_oi": 130399200.0,
-    "future_oi_str": "13.04 Cr",
-    "future_oi_chg": -0.69,
-    "threshold_15pct": 19559880.0,
-    "threshold_15pct_str": "1.96 Cr",
+    "future_oi": 129801600.0,
+    "future_oi_str": "12.98 Cr",
+    "future_oi_chg": -0.2,
+    "threshold_15pct": 19470240.0,
+    "threshold_15pct_str": "1.95 Cr",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -1730,11 +1730,11 @@
     "pcr_oi": "1.67",
     "pcr_val": "0.90",
     "strike_atm": 250,
-    "future_oi": 131092650.0,
-    "future_oi_str": "13.11 Cr",
-    "future_oi_chg": 0.08,
-    "threshold_15pct": 19663897.5,
-    "threshold_15pct_str": "1.97 Cr",
+    "future_oi": 130510575.0,
+    "future_oi_str": "13.05 Cr",
+    "future_oi_chg": 0.46,
+    "threshold_15pct": 19576586.25,
+    "threshold_15pct_str": "1.96 Cr",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -1799,11 +1799,11 @@
     "pcr_oi": "0.63",
     "pcr_val": "0.84",
     "strike_atm": 145,
-    "future_oi": 87100000.0,
-    "future_oi_str": "8.71 Cr",
-    "future_oi_chg": -2.08,
-    "threshold_15pct": 13065000.0,
-    "threshold_15pct_str": "1.31 Cr",
+    "future_oi": 86923200.0,
+    "future_oi_str": "8.69 Cr",
+    "future_oi_chg": 0.04,
+    "threshold_15pct": 13038480.0,
+    "threshold_15pct_str": "1.30 Cr",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -1868,11 +1868,11 @@
     "pcr_oi": "0.72",
     "pcr_val": "0.89",
     "strike_atm": 58000,
-    "future_oi": 2081790.0,
-    "future_oi_str": "20.82 L",
-    "future_oi_chg": 0.7,
-    "threshold_15pct": 312268.5,
-    "threshold_15pct_str": "3.12 L",
+    "future_oi": 2116710.0,
+    "future_oi_str": "21.17 L",
+    "future_oi_chg": 2.13,
+    "threshold_15pct": 317506.5,
+    "threshold_15pct_str": "3.18 L",
     "strategy2_match": true,
     "strategy2_calls_pass": true,
     "strategy2_puts_pass": false,
@@ -1937,11 +1937,11 @@
     "pcr_oi": "0.75",
     "pcr_val": "0.75",
     "strike_atm": 1300,
-    "future_oi": 6697575.0,
-    "future_oi_str": "66.98 L",
-    "future_oi_chg": -2.77,
-    "threshold_15pct": 1004636.25,
-    "threshold_15pct_str": "10.05 L",
+    "future_oi": 7064350.0,
+    "future_oi_str": "70.64 L",
+    "future_oi_chg": 5.8,
+    "threshold_15pct": 1059652.5,
+    "threshold_15pct_str": "10.60 L",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -2006,11 +2006,11 @@
     "pcr_oi": "1.01",
     "pcr_val": "0.67",
     "strike_atm": 400,
-    "future_oi": 100036425.0,
-    "future_oi_str": "10.00 Cr",
-    "future_oi_chg": 0.68,
-    "threshold_15pct": 15005463.75,
-    "threshold_15pct_str": "1.50 Cr",
+    "future_oi": 98531625.0,
+    "future_oi_str": "9.85 Cr",
+    "future_oi_chg": -1.27,
+    "threshold_15pct": 14779743.75,
+    "threshold_15pct_str": "1.48 Cr",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -2075,11 +2075,11 @@
     "pcr_oi": "0.29",
     "pcr_val": "0.80",
     "strike_atm": 2280,
-    "future_oi": 9036500.0,
-    "future_oi_str": "90.36 L",
-    "future_oi_chg": -2.92,
-    "threshold_15pct": 1355475.0,
-    "threshold_15pct_str": "13.55 L",
+    "future_oi": 8848000.0,
+    "future_oi_str": "88.48 L",
+    "future_oi_chg": -1.25,
+    "threshold_15pct": 1327200.0,
+    "threshold_15pct_str": "13.27 L",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -2144,11 +2144,11 @@
     "pcr_oi": "0.65",
     "pcr_val": "0.51",
     "strike_atm": 1960,
-    "future_oi": 53525850.0,
+    "future_oi": 53521100.0,
     "future_oi_str": "5.35 Cr",
-    "future_oi_chg": 3.02,
-    "threshold_15pct": 8028877.5,
-    "threshold_15pct_str": "80.29 L",
+    "future_oi_chg": 1.24,
+    "threshold_15pct": 8028165.0,
+    "threshold_15pct_str": "80.28 L",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -2213,10 +2213,10 @@
     "pcr_oi": "1.24",
     "pcr_val": "0.56",
     "strike_atm": 400,
-    "future_oi": 80947125.0,
-    "future_oi_str": "8.09 Cr",
-    "future_oi_chg": 0.8,
-    "threshold_15pct": 12142068.75,
+    "future_oi": 80647875.0,
+    "future_oi_str": "8.06 Cr",
+    "future_oi_chg": 0.41,
+    "threshold_15pct": 12097181.25,
     "threshold_15pct_str": "1.21 Cr",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
@@ -2282,11 +2282,11 @@
     "pcr_oi": "0.81",
     "pcr_val": "0.67",
     "strike_atm": 430,
-    "future_oi": 48762500.0,
-    "future_oi_str": "4.88 Cr",
-    "future_oi_chg": 0.33,
-    "threshold_15pct": 7314375.0,
-    "threshold_15pct_str": "73.14 L",
+    "future_oi": 48035000.0,
+    "future_oi_str": "4.80 Cr",
+    "future_oi_chg": 0.21,
+    "threshold_15pct": 7205250.0,
+    "threshold_15pct_str": "72.05 L",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -2351,11 +2351,11 @@
     "pcr_oi": "2.72",
     "pcr_val": "0.40",
     "strike_atm": 1500,
-    "future_oi": 4800575.0,
-    "future_oi_str": "48.01 L",
-    "future_oi_chg": -1.74,
-    "threshold_15pct": 720086.25,
-    "threshold_15pct_str": "7.20 L",
+    "future_oi": 4788225.0,
+    "future_oi_str": "47.88 L",
+    "future_oi_chg": -0.2,
+    "threshold_15pct": 718233.75,
+    "threshold_15pct_str": "7.18 L",
     "strategy2_match": true,
     "strategy2_calls_pass": true,
     "strategy2_puts_pass": false,
@@ -2420,11 +2420,11 @@
     "pcr_oi": "0.51",
     "pcr_val": "1.12",
     "strike_atm": 42500,
-    "future_oi": 209225.0,
-    "future_oi_str": "2.09 L",
-    "future_oi_chg": 2.39,
-    "threshold_15pct": 31383.75,
-    "threshold_15pct_str": "31,383.75",
+    "future_oi": 210075.0,
+    "future_oi_str": "2.10 L",
+    "future_oi_chg": 2.83,
+    "threshold_15pct": 31511.25,
+    "threshold_15pct_str": "31,511.25",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -2489,11 +2489,11 @@
     "pcr_oi": "0.51",
     "pcr_val": "0.50",
     "strike_atm": 5550,
-    "future_oi": 1853750.0,
-    "future_oi_str": "18.54 L",
-    "future_oi_chg": 0.55,
-    "threshold_15pct": 278062.5,
-    "threshold_15pct_str": "2.78 L",
+    "future_oi": 1846000.0,
+    "future_oi_str": "18.46 L",
+    "future_oi_chg": 0.87,
+    "threshold_15pct": 276900.0,
+    "threshold_15pct_str": "2.77 L",
     "strategy2_match": true,
     "strategy2_calls_pass": true,
     "strategy2_puts_pass": false,
@@ -2558,11 +2558,11 @@
     "pcr_oi": "1.37",
     "pcr_val": "0.46",
     "strike_atm": 3500,
-    "future_oi": 9782800.0,
-    "future_oi_str": "97.83 L",
-    "future_oi_chg": 9.19,
-    "threshold_15pct": 1467420.0,
-    "threshold_15pct_str": "14.67 L",
+    "future_oi": 9397800.0,
+    "future_oi_str": "93.98 L",
+    "future_oi_chg": 0.55,
+    "threshold_15pct": 1409670.0,
+    "threshold_15pct_str": "14.10 L",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -2627,10 +2627,10 @@
     "pcr_oi": "1.62",
     "pcr_val": "0.52",
     "strike_atm": 780,
-    "future_oi": 7481925.0,
-    "future_oi_str": "74.82 L",
-    "future_oi_chg": 1.85,
-    "threshold_15pct": 1122288.75,
+    "future_oi": 7476975.0,
+    "future_oi_str": "74.77 L",
+    "future_oi_chg": 0.34,
+    "threshold_15pct": 1121546.25,
     "threshold_15pct_str": "11.22 L",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
@@ -2696,11 +2696,11 @@
     "pcr_oi": "0.63",
     "pcr_val": "0.79",
     "strike_atm": 132,
-    "future_oi": 375495750.0,
-    "future_oi_str": "37.55 Cr",
-    "future_oi_chg": 0.01,
-    "threshold_15pct": 56324362.5,
-    "threshold_15pct_str": "5.63 Cr",
+    "future_oi": 374557500.0,
+    "future_oi_str": "37.46 Cr",
+    "future_oi_chg": 0.2,
+    "threshold_15pct": 56183625.0,
+    "threshold_15pct_str": "5.62 Cr",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -2765,11 +2765,11 @@
     "pcr_oi": "1.79",
     "pcr_val": "0.65",
     "strike_atm": 1340,
-    "future_oi": 10531700.0,
+    "future_oi": 10477550.0,
     "future_oi_str": "1.05 Cr",
-    "future_oi_chg": 0.64,
-    "threshold_15pct": 1579755.0,
-    "threshold_15pct_str": "15.80 L",
+    "future_oi_chg": -0.46,
+    "threshold_15pct": 1571632.5,
+    "threshold_15pct_str": "15.72 L",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -2834,11 +2834,11 @@
     "pcr_oi": "0.52",
     "pcr_val": "0.55",
     "strike_atm": 880,
-    "future_oi": 19334100.0,
-    "future_oi_str": "1.93 Cr",
-    "future_oi_chg": -0.51,
-    "threshold_15pct": 2900115.0,
-    "threshold_15pct_str": "29.00 L",
+    "future_oi": 19370650.0,
+    "future_oi_str": "1.94 Cr",
+    "future_oi_chg": 0.78,
+    "threshold_15pct": 2905597.5,
+    "threshold_15pct_str": "29.06 L",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -2903,11 +2903,11 @@
     "pcr_oi": "0.38",
     "pcr_val": "0.76",
     "strike_atm": 1880,
-    "future_oi": 12775625.0,
-    "future_oi_str": "1.28 Cr",
-    "future_oi_chg": 0.94,
-    "threshold_15pct": 1916343.75,
-    "threshold_15pct_str": "19.16 L",
+    "future_oi": 12928125.0,
+    "future_oi_str": "1.29 Cr",
+    "future_oi_chg": 1.45,
+    "threshold_15pct": 1939218.75,
+    "threshold_15pct_str": "19.39 L",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -2972,11 +2972,11 @@
     "pcr_oi": "0.41",
     "pcr_val": "0.65",
     "strike_atm": 1470,
-    "future_oi": 8993000.0,
-    "future_oi_str": "89.93 L",
-    "future_oi_chg": 0.08,
-    "threshold_15pct": 1348950.0,
-    "threshold_15pct_str": "13.49 L",
+    "future_oi": 9037200.0,
+    "future_oi_str": "90.37 L",
+    "future_oi_chg": 0.66,
+    "threshold_15pct": 1355580.0,
+    "threshold_15pct_str": "13.56 L",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -3041,10 +3041,10 @@
     "pcr_oi": "1.47",
     "pcr_val": "0.69",
     "strike_atm": 415,
-    "future_oi": 78719850.0,
-    "future_oi_str": "7.87 Cr",
-    "future_oi_chg": 0.19,
-    "threshold_15pct": 11807977.5,
+    "future_oi": 78814350.0,
+    "future_oi_str": "7.88 Cr",
+    "future_oi_chg": 0.22,
+    "threshold_15pct": 11822152.5,
     "threshold_15pct_str": "1.18 Cr",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
@@ -3110,11 +3110,11 @@
     "pcr_oi": "0.15",
     "pcr_val": "0.97",
     "strike_atm": 1780,
-    "future_oi": 14119375.0,
+    "future_oi": 14066175.0,
     "future_oi_str": "1.41 Cr",
-    "future_oi_chg": 2.58,
-    "threshold_15pct": 2117906.25,
-    "threshold_15pct_str": "21.18 L",
+    "future_oi_chg": 0.7,
+    "threshold_15pct": 2109926.25,
+    "threshold_15pct_str": "21.10 L",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -3179,11 +3179,11 @@
     "pcr_oi": "2.76",
     "pcr_val": "0.51",
     "strike_atm": 2040,
-    "future_oi": 5237650.0,
-    "future_oi_str": "52.38 L",
-    "future_oi_chg": 1.72,
-    "threshold_15pct": 785647.5,
-    "threshold_15pct_str": "7.86 L",
+    "future_oi": 5208225.0,
+    "future_oi_str": "52.08 L",
+    "future_oi_chg": 0.67,
+    "threshold_15pct": 781233.75,
+    "threshold_15pct_str": "7.81 L",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -3248,11 +3248,11 @@
     "pcr_oi": "0.68",
     "pcr_val": "0.57",
     "strike_atm": 510,
-    "future_oi": 22093750.0,
-    "future_oi_str": "2.21 Cr",
-    "future_oi_chg": -0.46,
-    "threshold_15pct": 3314062.5,
-    "threshold_15pct_str": "33.14 L",
+    "future_oi": 21960000.0,
+    "future_oi_str": "2.20 Cr",
+    "future_oi_chg": 0.89,
+    "threshold_15pct": 3294000.0,
+    "threshold_15pct_str": "32.94 L",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -3337,18 +3337,18 @@
       "total_otm_oi_chg_calls_num": 12429150,
       "total_otm_oi_chg_puts_num": 4689150,
       "total_otm_oi_chg_net_num": -7740000,
-      "total_otm_vol_calls": "10.61 Cr",
-      "total_otm_vol_puts": "5.56 Cr",
-      "pcr_otm_oi": 0.32,
-      "pcr_otm_oi_chg": 0.38
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "8.79 L",
-      "total_itm_oi_puts": "60.24 L",
-      "total_itm_oi_chg_calls": "5.74 L",
-      "total_itm_oi_chg_puts": "8.90 L",
-      "pcr_itm_oi": 6.85,
-      "pcr_itm_oi_chg": 1.55
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -3386,11 +3386,11 @@
     "pcr_oi": "0.78",
     "pcr_val": "0.89",
     "strike_atm": 5500,
-    "future_oi": 4458000.0,
-    "future_oi_str": "44.58 L",
-    "future_oi_chg": 3.2,
-    "threshold_15pct": 668700.0,
-    "threshold_15pct_str": "6.69 L",
+    "future_oi": 4452400.0,
+    "future_oi_str": "44.52 L",
+    "future_oi_chg": 0.86,
+    "threshold_15pct": 667860.0,
+    "threshold_15pct_str": "6.68 L",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -3476,13 +3476,13 @@
       "total_otm_oi_chg_puts_num": -1250,
       "total_otm_oi_chg_net_num": -1250,
       "total_otm_vol_calls": "0.00",
-      "total_otm_vol_puts": "1,250.00",
+      "total_otm_vol_puts": "0.00",
       "pcr_otm_oi": "N.A.",
       "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
       "total_itm_oi_calls": "0.00",
-      "total_itm_oi_puts": "2,500.00",
+      "total_itm_oi_puts": "0.00",
       "total_itm_oi_chg_calls": "0.00",
       "total_itm_oi_chg_puts": "0.00",
       "pcr_itm_oi": "N.A.",
@@ -3544,18 +3544,18 @@
       "total_otm_oi_chg_calls_num": 55250,
       "total_otm_oi_chg_puts_num": 20475,
       "total_otm_oi_chg_net_num": -34775,
-      "total_otm_vol_calls": "2.80 L",
-      "total_otm_vol_puts": "1.16 L",
-      "pcr_otm_oi": 0.73,
-      "pcr_otm_oi_chg": 0.37
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "98,800.00",
-      "total_itm_oi_puts": "64,025.00",
-      "total_itm_oi_chg_calls": "18,525.00",
-      "total_itm_oi_chg_puts": "1,300.00",
-      "pcr_itm_oi": 0.65,
-      "pcr_itm_oi_chg": 0.07
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -3613,18 +3613,18 @@
       "total_otm_oi_chg_calls_num": 3010825,
       "total_otm_oi_chg_puts_num": 1647550,
       "total_otm_oi_chg_net_num": -1363275,
-      "total_otm_vol_calls": "4.15 Cr",
-      "total_otm_vol_puts": "2.29 Cr",
-      "pcr_otm_oi": 0.64,
-      "pcr_otm_oi_chg": 0.55
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "26.89 L",
-      "total_itm_oi_puts": "29.32 L",
-      "total_itm_oi_chg_calls": "1.99 L",
-      "total_itm_oi_chg_puts": "1.04 L",
-      "pcr_itm_oi": 1.09,
-      "pcr_itm_oi_chg": 0.52
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -3682,18 +3682,18 @@
       "total_otm_oi_chg_calls_num": 59200,
       "total_otm_oi_chg_puts_num": -92100,
       "total_otm_oi_chg_net_num": -151300,
-      "total_otm_vol_calls": "14.04 L",
-      "total_otm_vol_puts": "13.30 L",
-      "pcr_otm_oi": 1.12,
-      "pcr_otm_oi_chg": -1.56
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "5.32 L",
-      "total_itm_oi_puts": "1.86 L",
-      "total_itm_oi_chg_calls": "-9,800.00",
-      "total_itm_oi_chg_puts": "-16,100.00",
-      "pcr_itm_oi": 0.35,
-      "pcr_itm_oi_chg": 1.64
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -3751,18 +3751,18 @@
       "total_otm_oi_chg_calls_num": 127700,
       "total_otm_oi_chg_puts_num": -1400,
       "total_otm_oi_chg_net_num": -129100,
-      "total_otm_vol_calls": "16.18 L",
-      "total_otm_vol_puts": "6.93 L",
-      "pcr_otm_oi": 0.5,
-      "pcr_otm_oi_chg": -0.01
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "2.34 L",
-      "total_itm_oi_puts": "1.89 L",
-      "total_itm_oi_chg_calls": "1,100.00",
-      "total_itm_oi_chg_puts": "3,300.00",
-      "pcr_itm_oi": 0.81,
-      "pcr_itm_oi_chg": 3
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -3820,18 +3820,18 @@
       "total_otm_oi_chg_calls_num": 537700,
       "total_otm_oi_chg_puts_num": 1425950,
       "total_otm_oi_chg_net_num": 888250,
-      "total_otm_vol_calls": "1.03 Cr",
-      "total_otm_vol_puts": "66.35 L",
-      "pcr_otm_oi": 0.55,
-      "pcr_otm_oi_chg": 2.65
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "10.45 L",
-      "total_itm_oi_puts": "26.43 L",
-      "total_itm_oi_chg_calls": "1.44 L",
-      "total_itm_oi_chg_puts": "49,400.00",
-      "pcr_itm_oi": 2.53,
-      "pcr_itm_oi_chg": 0.34
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -3889,18 +3889,18 @@
       "total_otm_oi_chg_calls_num": 144300,
       "total_otm_oi_chg_puts_num": 29850,
       "total_otm_oi_chg_net_num": -114450,
-      "total_otm_vol_calls": "10.19 L",
-      "total_otm_vol_puts": "4.10 L",
-      "pcr_otm_oi": 0.48,
-      "pcr_otm_oi_chg": 0.21
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "1.87 L",
-      "total_itm_oi_puts": "3.73 L",
-      "total_itm_oi_chg_calls": "1,800.00",
-      "total_itm_oi_chg_puts": "-6,900.00",
-      "pcr_itm_oi": 2,
-      "pcr_itm_oi_chg": -3.83
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -3958,18 +3958,18 @@
       "total_otm_oi_chg_calls_num": 54375,
       "total_otm_oi_chg_puts_num": -251250,
       "total_otm_oi_chg_net_num": -305625,
-      "total_otm_vol_calls": "34.96 L",
-      "total_otm_vol_puts": "20.16 L",
-      "pcr_otm_oi": 0.54,
-      "pcr_otm_oi_chg": -4.62
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "17.15 L",
-      "total_itm_oi_puts": "18.74 L",
-      "total_itm_oi_chg_calls": "-51,875.00",
-      "total_itm_oi_chg_puts": "-18,125.00",
-      "pcr_itm_oi": 1.09,
-      "pcr_itm_oi_chg": 0.35
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -4027,18 +4027,18 @@
       "total_otm_oi_chg_calls_num": 4653575,
       "total_otm_oi_chg_puts_num": -1573825,
       "total_otm_oi_chg_net_num": -6227400,
-      "total_otm_vol_calls": "4.07 Cr",
-      "total_otm_vol_puts": "2.43 Cr",
-      "pcr_otm_oi": 1,
-      "pcr_otm_oi_chg": -0.34
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "2.46 Cr",
-      "total_itm_oi_puts": "40.04 L",
-      "total_itm_oi_chg_calls": "-2.64 L",
-      "total_itm_oi_chg_puts": "-1.89 L",
-      "pcr_itm_oi": 0.16,
-      "pcr_itm_oi_chg": 0.72
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -4096,18 +4096,18 @@
       "total_otm_oi_chg_calls_num": 1220000,
       "total_otm_oi_chg_puts_num": 750000,
       "total_otm_oi_chg_net_num": -470000,
-      "total_otm_vol_calls": "4.64 Cr",
-      "total_otm_vol_puts": "1.50 Cr",
-      "pcr_otm_oi": 1.02,
-      "pcr_otm_oi_chg": 0.61
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "75.62 L",
-      "total_itm_oi_puts": "17.50 L",
-      "total_itm_oi_chg_calls": "1.93 L",
-      "total_itm_oi_chg_puts": "-12,500.00",
-      "pcr_itm_oi": 0.23,
-      "pcr_itm_oi_chg": -0.06
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -4145,11 +4145,11 @@
     "pcr_oi": "0.85",
     "pcr_val": "0.51",
     "strike_atm": 26600,
-    "future_oi": 40920.0,
-    "future_oi_str": "40,920.00",
-    "future_oi_chg": 0.74,
-    "threshold_15pct": 6138.0,
-    "threshold_15pct_str": "6,138.00",
+    "future_oi": 41460.0,
+    "future_oi_str": "41,460.00",
+    "future_oi_chg": 1.47,
+    "threshold_15pct": 6219.0,
+    "threshold_15pct_str": "6,219.00",
     "strategy2_match": true,
     "strategy2_calls_pass": true,
     "strategy2_puts_pass": true,
@@ -4234,17 +4234,17 @@
       "total_otm_oi_chg_calls_num": 7350,
       "total_otm_oi_chg_puts_num": -1800,
       "total_otm_oi_chg_net_num": -9150,
-      "total_otm_vol_calls": "1.86 L",
-      "total_otm_vol_puts": "2.28 L",
-      "pcr_otm_oi": 0.88,
-      "pcr_otm_oi_chg": -0.24
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "28,875.00",
-      "total_itm_oi_puts": "14,350.00",
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
       "total_itm_oi_chg_calls": "0.00",
-      "total_itm_oi_chg_puts": "-325.00",
-      "pcr_itm_oi": 0.5,
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
       "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
@@ -4303,18 +4303,18 @@
       "total_otm_oi_chg_calls_num": 74400,
       "total_otm_oi_chg_puts_num": 49600,
       "total_otm_oi_chg_net_num": -24800,
-      "total_otm_vol_calls": "1.28 Cr",
-      "total_otm_vol_puts": "68.58 L",
-      "pcr_otm_oi": 0.83,
-      "pcr_otm_oi_chg": 0.67
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "9.23 L",
-      "total_itm_oi_puts": "2.04 L",
-      "total_itm_oi_chg_calls": "-1.98 L",
-      "total_itm_oi_chg_puts": "23,250.00",
-      "pcr_itm_oi": 0.22,
-      "pcr_itm_oi_chg": -0.12
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -4372,18 +4372,18 @@
       "total_otm_oi_chg_calls_num": 3961800,
       "total_otm_oi_chg_puts_num": 1238950,
       "total_otm_oi_chg_net_num": -2722850,
-      "total_otm_vol_calls": "4.08 Cr",
-      "total_otm_vol_puts": "84.03 L",
-      "pcr_otm_oi": 0.19,
-      "pcr_otm_oi_chg": 0.31
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "44.55 L",
-      "total_itm_oi_puts": "1.55 Cr",
-      "total_itm_oi_chg_calls": "1.21 L",
-      "total_itm_oi_chg_puts": "-4.22 L",
-      "pcr_itm_oi": 3.47,
-      "pcr_itm_oi_chg": -3.5
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -4441,18 +4441,18 @@
       "total_otm_oi_chg_calls_num": 190500,
       "total_otm_oi_chg_puts_num": 51750,
       "total_otm_oi_chg_net_num": -138750,
-      "total_otm_vol_calls": "44.20 L",
-      "total_otm_vol_puts": "12.75 L",
-      "pcr_otm_oi": 0.75,
-      "pcr_otm_oi_chg": 0.27
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "12.63 L",
-      "total_itm_oi_puts": "1.24 L",
-      "total_itm_oi_chg_calls": "-18,375.00",
-      "total_itm_oi_chg_puts": "3,750.00",
-      "pcr_itm_oi": 0.1,
-      "pcr_itm_oi_chg": -0.2
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -4510,18 +4510,18 @@
       "total_otm_oi_chg_calls_num": 1248525,
       "total_otm_oi_chg_puts_num": 55800,
       "total_otm_oi_chg_net_num": -1192725,
-      "total_otm_vol_calls": "1.29 Cr",
-      "total_otm_vol_puts": "49.10 L",
-      "pcr_otm_oi": 0.89,
-      "pcr_otm_oi_chg": 0.04
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "65.43 L",
-      "total_itm_oi_puts": "60.68 L",
-      "total_itm_oi_chg_calls": "-13,950.00",
-      "total_itm_oi_chg_puts": "-90,675.00",
-      "pcr_itm_oi": 0.93,
-      "pcr_itm_oi_chg": 6.5
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -4579,18 +4579,18 @@
       "total_otm_oi_chg_calls_num": 64075,
       "total_otm_oi_chg_puts_num": 23650,
       "total_otm_oi_chg_net_num": -40425,
-      "total_otm_vol_calls": "9.56 L",
-      "total_otm_vol_puts": "7.34 L",
-      "pcr_otm_oi": 0.52,
-      "pcr_otm_oi_chg": 0.37
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "3.48 L",
-      "total_itm_oi_puts": "1.69 L",
-      "total_itm_oi_chg_calls": "-6,875.00",
-      "total_itm_oi_chg_puts": "-9,625.00",
-      "pcr_itm_oi": 0.48,
-      "pcr_itm_oi_chg": 1.4
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -4648,18 +4648,18 @@
       "total_otm_oi_chg_calls_num": 2503500,
       "total_otm_oi_chg_puts_num": 708500,
       "total_otm_oi_chg_net_num": -1795000,
-      "total_otm_vol_calls": "2.27 Cr",
-      "total_otm_vol_puts": "88.10 L",
-      "pcr_otm_oi": 0.29,
-      "pcr_otm_oi_chg": 0.28
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "4.64 L",
-      "total_itm_oi_puts": "11.61 L",
-      "total_itm_oi_chg_calls": "1.00 L",
-      "total_itm_oi_chg_puts": "5.21 L",
-      "pcr_itm_oi": 2.5,
-      "pcr_itm_oi_chg": 5.22
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -4717,18 +4717,18 @@
       "total_otm_oi_chg_calls_num": 18525,
       "total_otm_oi_chg_puts_num": -63375,
       "total_otm_oi_chg_net_num": -81900,
-      "total_otm_vol_calls": "22.75 L",
-      "total_otm_vol_puts": "9.15 L",
-      "pcr_otm_oi": 0.52,
-      "pcr_otm_oi_chg": -3.42
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "7.40 L",
-      "total_itm_oi_puts": "5.70 L",
-      "total_itm_oi_chg_calls": "3,575.00",
-      "total_itm_oi_chg_puts": "-9,425.00",
-      "pcr_itm_oi": 0.77,
-      "pcr_itm_oi_chg": -2.64
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -4786,18 +4786,18 @@
       "total_otm_oi_chg_calls_num": 757750,
       "total_otm_oi_chg_puts_num": 414750,
       "total_otm_oi_chg_net_num": -343000,
-      "total_otm_vol_calls": "42.44 L",
-      "total_otm_vol_puts": "25.20 L",
-      "pcr_otm_oi": 1.72,
-      "pcr_otm_oi_chg": 0.55
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "27.22 L",
-      "total_itm_oi_puts": "1.22 L",
-      "total_itm_oi_chg_calls": "3.02 L",
-      "total_itm_oi_chg_puts": "69,500.00",
-      "pcr_itm_oi": 0.04,
-      "pcr_itm_oi_chg": 0.23
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -4855,18 +4855,18 @@
       "total_otm_oi_chg_calls_num": 14125,
       "total_otm_oi_chg_puts_num": -26750,
       "total_otm_oi_chg_net_num": -40875,
-      "total_otm_vol_calls": "12.04 L",
-      "total_otm_vol_puts": "6.13 L",
-      "pcr_otm_oi": 1.01,
-      "pcr_otm_oi_chg": -1.89
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "1.98 L",
-      "total_itm_oi_puts": "1.05 L",
-      "total_itm_oi_chg_calls": "-750.00",
-      "total_itm_oi_chg_puts": "1,875.00",
-      "pcr_itm_oi": 0.53,
-      "pcr_itm_oi_chg": -2.5
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -4924,18 +4924,18 @@
       "total_otm_oi_chg_calls_num": 40800,
       "total_otm_oi_chg_puts_num": -214350,
       "total_otm_oi_chg_net_num": -255150,
-      "total_otm_vol_calls": "42.91 L",
-      "total_otm_vol_puts": "32.98 L",
-      "pcr_otm_oi": 1.59,
-      "pcr_otm_oi_chg": -5.25
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "14.13 L",
-      "total_itm_oi_puts": "2.30 L",
-      "total_itm_oi_chg_calls": "27,750.00",
-      "total_itm_oi_chg_puts": "36,450.00",
-      "pcr_itm_oi": 0.16,
-      "pcr_itm_oi_chg": 1.31
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -4993,18 +4993,18 @@
       "total_otm_oi_chg_calls_num": 108500,
       "total_otm_oi_chg_puts_num": -8500,
       "total_otm_oi_chg_net_num": -117000,
-      "total_otm_vol_calls": "16.66 L",
-      "total_otm_vol_puts": "11.61 L",
-      "pcr_otm_oi": 0.79,
-      "pcr_otm_oi_chg": -0.08
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "7.18 L",
-      "total_itm_oi_puts": "2.81 L",
-      "total_itm_oi_chg_calls": "-26,500.00",
-      "total_itm_oi_chg_puts": "20,500.00",
-      "pcr_itm_oi": 0.39,
-      "pcr_itm_oi_chg": -0.77
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -5062,18 +5062,18 @@
       "total_otm_oi_chg_calls_num": -70000,
       "total_otm_oi_chg_puts_num": 70400,
       "total_otm_oi_chg_net_num": 140400,
-      "total_otm_vol_calls": "98.21 L",
-      "total_otm_vol_puts": "54.47 L",
-      "pcr_otm_oi": 1.25,
-      "pcr_otm_oi_chg": -1.01
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "22.69 L",
-      "total_itm_oi_puts": "4.77 L",
-      "total_itm_oi_chg_calls": "-1.38 L",
-      "total_itm_oi_chg_puts": "41,200.00",
-      "pcr_itm_oi": 0.21,
-      "pcr_itm_oi_chg": -0.3
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -5131,18 +5131,18 @@
       "total_otm_oi_chg_calls_num": 113100,
       "total_otm_oi_chg_puts_num": 51900,
       "total_otm_oi_chg_net_num": -61200,
-      "total_otm_vol_calls": "13.60 L",
-      "total_otm_vol_puts": "3.71 L",
-      "pcr_otm_oi": 0.56,
-      "pcr_otm_oi_chg": 0.46
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "1.71 L",
-      "total_itm_oi_puts": "5.71 L",
-      "total_itm_oi_chg_calls": "9,600.00",
-      "total_itm_oi_chg_puts": "-1,800.00",
-      "pcr_itm_oi": 3.33,
-      "pcr_itm_oi_chg": -0.19
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -5200,18 +5200,18 @@
       "total_otm_oi_chg_calls_num": 6568900,
       "total_otm_oi_chg_puts_num": 2884050,
       "total_otm_oi_chg_net_num": -3684850,
-      "total_otm_vol_calls": "7.99 Cr",
-      "total_otm_vol_puts": "3.47 Cr",
-      "pcr_otm_oi": 0.28,
-      "pcr_otm_oi_chg": 0.44
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "1.27 Cr",
-      "total_itm_oi_puts": "3.18 Cr",
-      "total_itm_oi_chg_calls": "21.79 L",
-      "total_itm_oi_chg_puts": "-54,600.00",
-      "pcr_itm_oi": 2.51,
-      "pcr_itm_oi_chg": -0.03
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -5269,18 +5269,18 @@
       "total_otm_oi_chg_calls_num": 1424500,
       "total_otm_oi_chg_puts_num": -327800,
       "total_otm_oi_chg_net_num": -1752300,
-      "total_otm_vol_calls": "1.04 Cr",
-      "total_otm_vol_puts": "30.60 L",
-      "pcr_otm_oi": 0.38,
-      "pcr_otm_oi_chg": -0.23
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "11.10 L",
-      "total_itm_oi_puts": "48.37 L",
-      "total_itm_oi_chg_calls": "52,800.00",
-      "total_itm_oi_chg_puts": "6,600.00",
-      "pcr_itm_oi": 4.36,
-      "pcr_itm_oi_chg": 0.13
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -5338,18 +5338,18 @@
       "total_otm_oi_chg_calls_num": 449250,
       "total_otm_oi_chg_puts_num": 444900,
       "total_otm_oi_chg_net_num": -4350,
-      "total_otm_vol_calls": "2.20 Cr",
-      "total_otm_vol_puts": "1.51 Cr",
-      "pcr_otm_oi": 1.47,
-      "pcr_otm_oi_chg": 0.99
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "11.15 L",
-      "total_itm_oi_puts": "46,500.00",
-      "total_itm_oi_chg_calls": "-1.64 L",
-      "total_itm_oi_chg_puts": "30,900.00",
-      "pcr_itm_oi": 0.04,
-      "pcr_itm_oi_chg": -0.19
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -5407,18 +5407,18 @@
       "total_otm_oi_chg_calls_num": 4774700,
       "total_otm_oi_chg_puts_num": 1174600,
       "total_otm_oi_chg_net_num": -3600100,
-      "total_otm_vol_calls": "5.22 Cr",
-      "total_otm_vol_puts": "3.31 Cr",
-      "pcr_otm_oi": 0.95,
-      "pcr_otm_oi_chg": 0.25
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "84.13 L",
-      "total_itm_oi_puts": "7.96 L",
-      "total_itm_oi_chg_calls": "-10.12 L",
-      "total_itm_oi_chg_puts": "3.23 L",
-      "pcr_itm_oi": 0.09,
-      "pcr_itm_oi_chg": -0.32
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -5476,18 +5476,18 @@
       "total_otm_oi_chg_calls_num": 168075,
       "total_otm_oi_chg_puts_num": 218700,
       "total_otm_oi_chg_net_num": 50625,
-      "total_otm_vol_calls": "78.43 L",
-      "total_otm_vol_puts": "25.43 L",
-      "pcr_otm_oi": 0.43,
-      "pcr_otm_oi_chg": 1.3
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "9.13 L",
-      "total_itm_oi_puts": "27.42 L",
-      "total_itm_oi_chg_calls": "-12,150.00",
-      "total_itm_oi_chg_puts": "6,075.00",
-      "pcr_itm_oi": 3,
-      "pcr_itm_oi_chg": -0.5
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -5545,18 +5545,18 @@
       "total_otm_oi_chg_calls_num": -72900,
       "total_otm_oi_chg_puts_num": -30600,
       "total_otm_oi_chg_net_num": 42300,
-      "total_otm_vol_calls": "51.19 L",
-      "total_otm_vol_puts": "21.98 L",
-      "pcr_otm_oi": 0.38,
-      "pcr_otm_oi_chg": 0.42
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "13.29 L",
-      "total_itm_oi_puts": "21.17 L",
-      "total_itm_oi_chg_calls": "42,300.00",
-      "total_itm_oi_chg_puts": "9,900.00",
-      "pcr_itm_oi": 1.59,
-      "pcr_itm_oi_chg": 0.23
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -5614,18 +5614,18 @@
       "total_otm_oi_chg_calls_num": -417725,
       "total_otm_oi_chg_puts_num": -53900,
       "total_otm_oi_chg_net_num": 363825,
-      "total_otm_vol_calls": "4.35 Cr",
-      "total_otm_vol_puts": "1.41 Cr",
-      "pcr_otm_oi": 1.12,
-      "pcr_otm_oi_chg": 0.13
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "77.14 L",
-      "total_itm_oi_puts": "11.77 L",
-      "total_itm_oi_chg_calls": "-13.49 L",
-      "total_itm_oi_chg_puts": "2.90 L",
-      "pcr_itm_oi": 0.15,
-      "pcr_itm_oi_chg": -0.22
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -5683,18 +5683,18 @@
       "total_otm_oi_chg_calls_num": 149325,
       "total_otm_oi_chg_puts_num": 46475,
       "total_otm_oi_chg_net_num": -102850,
-      "total_otm_vol_calls": "9.16 L",
-      "total_otm_vol_puts": "4.71 L",
-      "pcr_otm_oi": 2.49,
-      "pcr_otm_oi_chg": 0.31
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "11.84 L",
-      "total_itm_oi_puts": "65,175.00",
-      "total_itm_oi_chg_calls": "-42,625.00",
-      "total_itm_oi_chg_puts": "-1,650.00",
-      "pcr_itm_oi": 0.06,
-      "pcr_itm_oi_chg": 0.04
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -5752,18 +5752,18 @@
       "total_otm_oi_chg_calls_num": 2884700,
       "total_otm_oi_chg_puts_num": 868000,
       "total_otm_oi_chg_net_num": -2016700,
-      "total_otm_vol_calls": "3.25 Cr",
-      "total_otm_vol_puts": "1.53 Cr",
-      "pcr_otm_oi": 0.48,
-      "pcr_otm_oi_chg": 0.3
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "28.18 L",
-      "total_itm_oi_puts": "61.00 L",
-      "total_itm_oi_chg_calls": "8.37 L",
-      "total_itm_oi_chg_puts": "-5.00 L",
-      "pcr_itm_oi": 2.16,
-      "pcr_itm_oi_chg": -0.6
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -5821,18 +5821,18 @@
       "total_otm_oi_chg_calls_num": 95875,
       "total_otm_oi_chg_puts_num": 63700,
       "total_otm_oi_chg_net_num": -32175,
-      "total_otm_vol_calls": "14.25 L",
-      "total_otm_vol_puts": "6.42 L",
-      "pcr_otm_oi": 0.47,
-      "pcr_otm_oi_chg": 0.66
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "3.60 L",
-      "total_itm_oi_puts": "4.92 L",
-      "total_itm_oi_chg_calls": "34,775.00",
-      "total_itm_oi_chg_puts": "82,550.00",
-      "pcr_itm_oi": 1.37,
-      "pcr_itm_oi_chg": 2.37
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -5890,18 +5890,18 @@
       "total_otm_oi_chg_calls_num": 518925,
       "total_otm_oi_chg_puts_num": 217375,
       "total_otm_oi_chg_net_num": -301550,
-      "total_otm_vol_calls": "27.36 L",
-      "total_otm_vol_puts": "8.02 L",
-      "pcr_otm_oi": 0.47,
-      "pcr_otm_oi_chg": 0.42
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "5.36 L",
-      "total_itm_oi_puts": "8.02 L",
-      "total_itm_oi_chg_calls": "17,575.00",
-      "total_itm_oi_chg_puts": "-925.00",
-      "pcr_itm_oi": 1.5,
-      "pcr_itm_oi_chg": -0.05
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -5959,18 +5959,18 @@
       "total_otm_oi_chg_calls_num": 67901250,
       "total_otm_oi_chg_puts_num": 13151400,
       "total_otm_oi_chg_net_num": -54749850,
-      "total_otm_vol_calls": "62.34 Cr",
-      "total_otm_vol_puts": "16.69 Cr",
-      "pcr_otm_oi": 0.38,
-      "pcr_otm_oi_chg": 0.19
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "4.89 Cr",
-      "total_itm_oi_puts": "22.86 Cr",
-      "total_itm_oi_chg_calls": "77.91 L",
-      "total_itm_oi_chg_puts": "-5.72 L",
-      "pcr_itm_oi": 4.68,
-      "pcr_itm_oi_chg": -0.07
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -6028,18 +6028,18 @@
       "total_otm_oi_chg_calls_num": 1020250,
       "total_otm_oi_chg_puts_num": 1029525,
       "total_otm_oi_chg_net_num": 9275,
-      "total_otm_vol_calls": "3.11 Cr",
-      "total_otm_vol_puts": "1.83 Cr",
-      "pcr_otm_oi": 0.58,
-      "pcr_otm_oi_chg": 1.01
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "1.47 Cr",
-      "total_itm_oi_puts": "2.17 Cr",
-      "total_itm_oi_chg_calls": "-1.39 L",
-      "total_itm_oi_chg_puts": "-2.32 L",
-      "pcr_itm_oi": 1.48,
-      "pcr_itm_oi_chg": 1.67
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -6097,18 +6097,18 @@
       "total_otm_oi_chg_calls_num": -1183200,
       "total_otm_oi_chg_puts_num": -970050,
       "total_otm_oi_chg_net_num": 213150,
-      "total_otm_vol_calls": "1.67 Cr",
-      "total_otm_vol_puts": "91.22 L",
-      "pcr_otm_oi": 0.38,
-      "pcr_otm_oi_chg": 0.82
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "20.31 L",
-      "total_itm_oi_puts": "86.91 L",
-      "total_itm_oi_chg_calls": "91,350.00",
-      "total_itm_oi_chg_puts": "-2.48 L",
-      "pcr_itm_oi": 4.28,
-      "pcr_itm_oi_chg": -2.71
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -6166,18 +6166,18 @@
       "total_otm_oi_chg_calls_num": 188000,
       "total_otm_oi_chg_puts_num": 101000,
       "total_otm_oi_chg_net_num": -87000,
-      "total_otm_vol_calls": "43.62 L",
-      "total_otm_vol_puts": "27.63 L",
-      "pcr_otm_oi": 0.54,
-      "pcr_otm_oi_chg": 0.54
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "7.28 L",
-      "total_itm_oi_puts": "6.61 L",
-      "total_itm_oi_chg_calls": "1.01 L",
-      "total_itm_oi_chg_puts": "-1,000.00",
-      "pcr_itm_oi": 0.91,
-      "pcr_itm_oi_chg": -0.01
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -6235,18 +6235,18 @@
       "total_otm_oi_chg_calls_num": 1052000,
       "total_otm_oi_chg_puts_num": -560000,
       "total_otm_oi_chg_net_num": -1612000,
-      "total_otm_vol_calls": "1.73 Cr",
-      "total_otm_vol_puts": "1.01 Cr",
-      "pcr_otm_oi": 1.4,
-      "pcr_otm_oi_chg": -0.53
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "28.63 L",
-      "total_itm_oi_puts": "12.42 L",
-      "total_itm_oi_chg_calls": "-3.57 L",
-      "total_itm_oi_chg_puts": "9.79 L",
-      "pcr_itm_oi": 0.43,
-      "pcr_itm_oi_chg": -2.74
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -6304,18 +6304,18 @@
       "total_otm_oi_chg_calls_num": -29100,
       "total_otm_oi_chg_puts_num": 64500,
       "total_otm_oi_chg_net_num": 93600,
-      "total_otm_vol_calls": "22.66 L",
-      "total_otm_vol_puts": "19.23 L",
-      "pcr_otm_oi": 0.8,
-      "pcr_otm_oi_chg": -2.22
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "9.23 L",
-      "total_itm_oi_puts": "3.43 L",
-      "total_itm_oi_chg_calls": "-8,850.00",
-      "total_itm_oi_chg_puts": "-12,600.00",
-      "pcr_itm_oi": 0.37,
-      "pcr_itm_oi_chg": 1.42
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -6373,18 +6373,18 @@
       "total_otm_oi_chg_calls_num": 84000,
       "total_otm_oi_chg_puts_num": 17500,
       "total_otm_oi_chg_net_num": -66500,
-      "total_otm_vol_calls": "55.61 L",
-      "total_otm_vol_puts": "34.10 L",
-      "pcr_otm_oi": 0.57,
-      "pcr_otm_oi_chg": 0.21
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "19.49 L",
-      "total_itm_oi_puts": "8.51 L",
-      "total_itm_oi_chg_calls": "-18,900.00",
-      "total_itm_oi_chg_puts": "20,300.00",
-      "pcr_itm_oi": 0.44,
-      "pcr_itm_oi_chg": -1.07
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -6442,18 +6442,18 @@
       "total_otm_oi_chg_calls_num": 221000,
       "total_otm_oi_chg_puts_num": 649400,
       "total_otm_oi_chg_net_num": 428400,
-      "total_otm_vol_calls": "73.13 L",
-      "total_otm_vol_puts": "24.19 L",
-      "pcr_otm_oi": 0.36,
-      "pcr_otm_oi_chg": 2.94
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "33.46 L",
-      "total_itm_oi_puts": "53.96 L",
-      "total_itm_oi_chg_calls": "78,200.00",
-      "total_itm_oi_chg_puts": "-13,600.00",
-      "pcr_itm_oi": 1.61,
-      "pcr_itm_oi_chg": -0.17
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -6511,18 +6511,18 @@
       "total_otm_oi_chg_calls_num": 587600,
       "total_otm_oi_chg_puts_num": 295200,
       "total_otm_oi_chg_net_num": -292400,
-      "total_otm_vol_calls": "2.39 Cr",
-      "total_otm_vol_puts": "1.50 Cr",
-      "pcr_otm_oi": 1.56,
-      "pcr_otm_oi_chg": 0.5
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "1.49 Cr",
-      "total_itm_oi_puts": "34.35 L",
-      "total_itm_oi_chg_calls": "-4.36 L",
-      "total_itm_oi_chg_puts": "1.16 L",
-      "pcr_itm_oi": 0.23,
-      "pcr_itm_oi_chg": -0.27
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -6582,7 +6582,7 @@
       "total_otm_oi_chg_net_num": 0,
       "total_otm_vol_calls": "0.00",
       "total_otm_vol_puts": "0.00",
-      "pcr_otm_oi": 0,
+      "pcr_otm_oi": "N.A.",
       "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
@@ -6649,18 +6649,18 @@
       "total_otm_oi_chg_calls_num": 682500,
       "total_otm_oi_chg_puts_num": 482625,
       "total_otm_oi_chg_net_num": -199875,
-      "total_otm_vol_calls": "2.88 Cr",
-      "total_otm_vol_puts": "1.62 Cr",
-      "pcr_otm_oi": 0.6,
-      "pcr_otm_oi_chg": 0.71
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "82.14 L",
-      "total_itm_oi_puts": "1.09 Cr",
-      "total_itm_oi_chg_calls": "1.90 L",
-      "total_itm_oi_chg_puts": "6.68 L",
-      "pcr_itm_oi": 1.32,
-      "pcr_itm_oi_chg": 3.51
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -6718,18 +6718,18 @@
       "total_otm_oi_chg_calls_num": 4891525,
       "total_otm_oi_chg_puts_num": 307700,
       "total_otm_oi_chg_net_num": -4583825,
-      "total_otm_vol_calls": "2.00 Cr",
-      "total_otm_vol_puts": "36.65 L",
-      "pcr_otm_oi": 0.33,
-      "pcr_otm_oi_chg": 0.06
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "35.34 L",
-      "total_itm_oi_puts": "1.59 Cr",
-      "total_itm_oi_chg_calls": "2.08 L",
-      "total_itm_oi_chg_puts": "-1.54 L",
-      "pcr_itm_oi": 4.49,
-      "pcr_itm_oi_chg": -0.74
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -6787,18 +6787,18 @@
       "total_otm_oi_chg_calls_num": 3119375,
       "total_otm_oi_chg_puts_num": 781200,
       "total_otm_oi_chg_net_num": -2338175,
-      "total_otm_vol_calls": "4.21 Cr",
-      "total_otm_vol_puts": "66.40 L",
-      "pcr_otm_oi": 0.37,
-      "pcr_otm_oi_chg": 0.25
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "98.03 L",
-      "total_itm_oi_puts": "2.52 Cr",
-      "total_itm_oi_chg_calls": "4.18 L",
-      "total_itm_oi_chg_puts": "7.76 L",
-      "pcr_itm_oi": 2.57,
-      "pcr_itm_oi_chg": 1.86
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -6856,18 +6856,18 @@
       "total_otm_oi_chg_calls_num": 122475,
       "total_otm_oi_chg_puts_num": 412275,
       "total_otm_oi_chg_net_num": 289800,
-      "total_otm_vol_calls": "3.64 Cr",
-      "total_otm_vol_puts": "1.84 Cr",
-      "pcr_otm_oi": 0.33,
-      "pcr_otm_oi_chg": 3.37
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "90.73 L",
-      "total_itm_oi_puts": "2.32 Cr",
-      "total_itm_oi_chg_calls": "37,950.00",
-      "total_itm_oi_chg_puts": "60,375.00",
-      "pcr_itm_oi": 2.56,
-      "pcr_itm_oi_chg": 1.59
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -6925,18 +6925,18 @@
       "total_otm_oi_chg_calls_num": 85625,
       "total_otm_oi_chg_puts_num": -11875,
       "total_otm_oi_chg_net_num": -97500,
-      "total_otm_vol_calls": "21.66 L",
-      "total_otm_vol_puts": "9.02 L",
-      "pcr_otm_oi": 0.8,
-      "pcr_otm_oi_chg": -0.14
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "7.01 L",
-      "total_itm_oi_puts": "4.67 L",
-      "total_itm_oi_chg_calls": "3,750.00",
-      "total_itm_oi_chg_puts": "-14,375.00",
-      "pcr_itm_oi": 0.67,
-      "pcr_itm_oi_chg": -3.83
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -6994,18 +6994,18 @@
       "total_otm_oi_chg_calls_num": 5870300,
       "total_otm_oi_chg_puts_num": -30550,
       "total_otm_oi_chg_net_num": -5900850,
-      "total_otm_vol_calls": "4.75 Cr",
-      "total_otm_vol_puts": "1.98 Cr",
-      "pcr_otm_oi": 0.69,
-      "pcr_otm_oi_chg": -0.01
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "2.95 Cr",
-      "total_itm_oi_puts": "1.22 Cr",
-      "total_itm_oi_chg_calls": "-2.28 L",
-      "total_itm_oi_chg_puts": "-4.23 L",
-      "pcr_itm_oi": 0.41,
-      "pcr_itm_oi_chg": 1.86
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -7063,18 +7063,18 @@
       "total_otm_oi_chg_calls_num": 462250,
       "total_otm_oi_chg_puts_num": 182750,
       "total_otm_oi_chg_net_num": -279500,
-      "total_otm_vol_calls": "34.22 L",
-      "total_otm_vol_puts": "18.18 L",
-      "pcr_otm_oi": 1.01,
-      "pcr_otm_oi_chg": 0.4
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "13.67 L",
-      "total_itm_oi_puts": "7.09 L",
-      "total_itm_oi_chg_calls": "-2.74 L",
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
       "total_itm_oi_chg_puts": "0.00",
-      "pcr_itm_oi": 0.52,
-      "pcr_itm_oi_chg": 0
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -7132,18 +7132,18 @@
       "total_otm_oi_chg_calls_num": 228150,
       "total_otm_oi_chg_puts_num": 96525,
       "total_otm_oi_chg_net_num": -131625,
-      "total_otm_vol_calls": "38.66 L",
-      "total_otm_vol_puts": "20.16 L",
-      "pcr_otm_oi": 0.87,
-      "pcr_otm_oi_chg": 0.42
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "10.61 L",
-      "total_itm_oi_puts": "5.26 L",
-      "total_itm_oi_chg_calls": "14,175.00",
-      "total_itm_oi_chg_puts": "25,650.00",
-      "pcr_itm_oi": 0.5,
-      "pcr_itm_oi_chg": 1.81
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -7201,18 +7201,18 @@
       "total_otm_oi_chg_calls_num": 350000,
       "total_otm_oi_chg_puts_num": 993750,
       "total_otm_oi_chg_net_num": 643750,
-      "total_otm_vol_calls": "82.58 L",
-      "total_otm_vol_puts": "38.11 L",
-      "pcr_otm_oi": 1.5,
-      "pcr_otm_oi_chg": 2.84
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "47.80 L",
-      "total_itm_oi_puts": "8.95 L",
-      "total_itm_oi_chg_calls": "-50,000.00",
-      "total_itm_oi_chg_puts": "-2,500.00",
-      "pcr_itm_oi": 0.19,
-      "pcr_itm_oi_chg": 0.05
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -7270,10 +7270,10 @@
       "total_otm_oi_chg_calls_num": 5400,
       "total_otm_oi_chg_puts_num": 1350,
       "total_otm_oi_chg_net_num": -4050,
-      "total_otm_vol_calls": "9,450.00",
-      "total_otm_vol_puts": "2,700.00",
-      "pcr_otm_oi": 0.25,
-      "pcr_otm_oi_chg": 0.25
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
       "total_itm_oi_calls": "0.00",
@@ -7339,18 +7339,18 @@
       "total_otm_oi_chg_calls_num": 321900,
       "total_otm_oi_chg_puts_num": 298800,
       "total_otm_oi_chg_net_num": -23100,
-      "total_otm_vol_calls": "25.34 L",
-      "total_otm_vol_puts": "19.15 L",
-      "pcr_otm_oi": 1.18,
-      "pcr_otm_oi_chg": 0.93
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "8.45 L",
-      "total_itm_oi_puts": "1.02 L",
-      "total_itm_oi_chg_calls": "21,150.00",
-      "total_itm_oi_chg_puts": "150.00",
-      "pcr_itm_oi": 0.12,
-      "pcr_itm_oi_chg": 0.01
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -7408,18 +7408,18 @@
       "total_otm_oi_chg_calls_num": 10675,
       "total_otm_oi_chg_puts_num": -15750,
       "total_otm_oi_chg_net_num": -26425,
-      "total_otm_vol_calls": "8.96 L",
-      "total_otm_vol_puts": "7.37 L",
-      "pcr_otm_oi": 1.77,
-      "pcr_otm_oi_chg": -1.48
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "4.57 L",
-      "total_itm_oi_puts": "23,800.00",
-      "total_itm_oi_chg_calls": "-5,775.00",
-      "total_itm_oi_chg_puts": "1,925.00",
-      "pcr_itm_oi": 0.05,
-      "pcr_itm_oi_chg": -0.33
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -7477,18 +7477,18 @@
       "total_otm_oi_chg_calls_num": 42550,
       "total_otm_oi_chg_puts_num": 17250,
       "total_otm_oi_chg_net_num": -25300,
-      "total_otm_vol_calls": "19.31 L",
-      "total_otm_vol_puts": "5.54 L",
-      "pcr_otm_oi": 0.4,
-      "pcr_otm_oi_chg": 0.41
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "4.08 L",
-      "total_itm_oi_puts": "5.31 L",
-      "total_itm_oi_chg_calls": "-6,900.00",
-      "total_itm_oi_chg_puts": "-12,075.00",
-      "pcr_itm_oi": 1.3,
-      "pcr_itm_oi_chg": 1.75
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -7546,18 +7546,18 @@
       "total_otm_oi_chg_calls_num": 158000,
       "total_otm_oi_chg_puts_num": 488000,
       "total_otm_oi_chg_net_num": 330000,
-      "total_otm_vol_calls": "2.19 Cr",
-      "total_otm_vol_puts": "91.84 L",
-      "pcr_otm_oi": 0.5,
-      "pcr_otm_oi_chg": 3.09
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "35.32 L",
-      "total_itm_oi_puts": "48.56 L",
-      "total_itm_oi_chg_calls": "1.54 L",
-      "total_itm_oi_chg_puts": "-2.46 L",
-      "pcr_itm_oi": 1.37,
-      "pcr_itm_oi_chg": -1.6
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -7615,18 +7615,18 @@
       "total_otm_oi_chg_calls_num": 436325,
       "total_otm_oi_chg_puts_num": 195300,
       "total_otm_oi_chg_net_num": -241025,
-      "total_otm_vol_calls": "1.38 Cr",
-      "total_otm_vol_puts": "74.86 L",
-      "pcr_otm_oi": 0.59,
-      "pcr_otm_oi_chg": 0.45
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "42.24 L",
-      "total_itm_oi_puts": "17.03 L",
-      "total_itm_oi_chg_calls": "-3.06 L",
-      "total_itm_oi_chg_puts": "-15,500.00",
-      "pcr_itm_oi": 0.4,
-      "pcr_itm_oi_chg": 0.05
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -7684,18 +7684,18 @@
       "total_otm_oi_chg_calls_num": -351050,
       "total_otm_oi_chg_puts_num": 170850,
       "total_otm_oi_chg_net_num": 521900,
-      "total_otm_vol_calls": "50.32 L",
-      "total_otm_vol_puts": "49.64 L",
-      "pcr_otm_oi": 2.81,
-      "pcr_otm_oi_chg": -0.49
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "76.07 L",
-      "total_itm_oi_puts": "3.93 L",
-      "total_itm_oi_chg_calls": "-2.53 L",
-      "total_itm_oi_chg_puts": "17,000.00",
-      "pcr_itm_oi": 0.05,
-      "pcr_itm_oi_chg": -0.07
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -7753,18 +7753,18 @@
       "total_otm_oi_chg_calls_num": 1376000,
       "total_otm_oi_chg_puts_num": 434000,
       "total_otm_oi_chg_net_num": -942000,
-      "total_otm_vol_calls": "94.51 L",
-      "total_otm_vol_puts": "23.66 L",
-      "pcr_otm_oi": 0.28,
-      "pcr_otm_oi_chg": 0.32
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "5.89 L",
-      "total_itm_oi_puts": "57.94 L",
-      "total_itm_oi_chg_calls": "52,000.00",
-      "total_itm_oi_chg_puts": "73,000.00",
-      "pcr_itm_oi": 9.84,
-      "pcr_itm_oi_chg": 1.4
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -7822,18 +7822,18 @@
       "total_otm_oi_chg_calls_num": -599200,
       "total_otm_oi_chg_puts_num": -609000,
       "total_otm_oi_chg_net_num": -9800,
-      "total_otm_vol_calls": "15.02 L",
-      "total_otm_vol_puts": "15.22 L",
-      "pcr_otm_oi": 0.57,
-      "pcr_otm_oi_chg": 1.02
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "48.09 L",
-      "total_itm_oi_puts": "76.27 L",
-      "total_itm_oi_chg_calls": "-1.27 L",
-      "total_itm_oi_chg_puts": "-28,000.00",
-      "pcr_itm_oi": 1.59,
-      "pcr_itm_oi_chg": 0.22
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -7891,18 +7891,18 @@
       "total_otm_oi_chg_calls_num": -56875,
       "total_otm_oi_chg_puts_num": -33750,
       "total_otm_oi_chg_net_num": 23125,
-      "total_otm_vol_calls": "26.98 L",
-      "total_otm_vol_puts": "20.28 L",
-      "pcr_otm_oi": 0.65,
-      "pcr_otm_oi_chg": 0.59
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "10.07 L",
-      "total_itm_oi_puts": "8.02 L",
-      "total_itm_oi_chg_calls": "20,000.00",
-      "total_itm_oi_chg_puts": "-25,000.00",
-      "pcr_itm_oi": 0.8,
-      "pcr_itm_oi_chg": -1.25
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -7960,18 +7960,18 @@
       "total_otm_oi_chg_calls_num": 468825,
       "total_otm_oi_chg_puts_num": -109550,
       "total_otm_oi_chg_net_num": -578375,
-      "total_otm_vol_calls": "40.78 L",
-      "total_otm_vol_puts": "17.63 L",
-      "pcr_otm_oi": 0.9,
-      "pcr_otm_oi_chg": -0.23
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "20.75 L",
-      "total_itm_oi_puts": "10.90 L",
-      "total_itm_oi_chg_calls": "-51,450.00",
-      "total_itm_oi_chg_puts": "77,175.00",
-      "pcr_itm_oi": 0.53,
-      "pcr_itm_oi_chg": -1.5
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -8029,18 +8029,18 @@
       "total_otm_oi_chg_calls_num": 1050750,
       "total_otm_oi_chg_puts_num": 537750,
       "total_otm_oi_chg_net_num": -513000,
-      "total_otm_vol_calls": "2.06 Cr",
-      "total_otm_vol_puts": "86.13 L",
-      "pcr_otm_oi": 0.56,
-      "pcr_otm_oi_chg": 0.51
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "25.99 L",
-      "total_itm_oi_puts": "37.51 L",
-      "total_itm_oi_chg_calls": "96,750.00",
-      "total_itm_oi_chg_puts": "3.22 L",
-      "pcr_itm_oi": 1.44,
-      "pcr_itm_oi_chg": 3.33
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -8098,18 +8098,18 @@
       "total_otm_oi_chg_calls_num": 168150,
       "total_otm_oi_chg_puts_num": 63750,
       "total_otm_oi_chg_net_num": -104400,
-      "total_otm_vol_calls": "43.33 L",
-      "total_otm_vol_puts": "18.53 L",
-      "pcr_otm_oi": 1.03,
-      "pcr_otm_oi_chg": 0.38
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "5.94 L",
-      "total_itm_oi_puts": "1.33 L",
-      "total_itm_oi_chg_calls": "26,850.00",
-      "total_itm_oi_chg_puts": "48,750.00",
-      "pcr_itm_oi": 0.22,
-      "pcr_itm_oi_chg": 1.82
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -8167,18 +8167,18 @@
       "total_otm_oi_chg_calls_num": 1630300,
       "total_otm_oi_chg_puts_num": 299200,
       "total_otm_oi_chg_net_num": -1331100,
-      "total_otm_vol_calls": "1.64 Cr",
-      "total_otm_vol_puts": "69.79 L",
-      "pcr_otm_oi": 0.33,
-      "pcr_otm_oi_chg": 0.18
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "5.04 L",
-      "total_itm_oi_puts": "12.50 L",
-      "total_itm_oi_chg_calls": "3.77 L",
-      "total_itm_oi_chg_puts": "1.95 L",
-      "pcr_itm_oi": 2.48,
-      "pcr_itm_oi_chg": 0.52
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -8236,18 +8236,18 @@
       "total_otm_oi_chg_calls_num": -26800,
       "total_otm_oi_chg_puts_num": 553800,
       "total_otm_oi_chg_net_num": 580600,
-      "total_otm_vol_calls": "1.02 Cr",
-      "total_otm_vol_puts": "66.63 L",
-      "pcr_otm_oi": 1.94,
-      "pcr_otm_oi_chg": -20.66
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "29.22 L",
-      "total_itm_oi_puts": "1.83 L",
-      "total_itm_oi_chg_calls": "-4,400.00",
-      "total_itm_oi_chg_puts": "45,000.00",
-      "pcr_itm_oi": 0.06,
-      "pcr_itm_oi_chg": -10.23
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -8305,18 +8305,18 @@
       "total_otm_oi_chg_calls_num": 633000,
       "total_otm_oi_chg_puts_num": 288000,
       "total_otm_oi_chg_net_num": -345000,
-      "total_otm_vol_calls": "64.92 L",
-      "total_otm_vol_puts": "28.11 L",
-      "pcr_otm_oi": 0.97,
-      "pcr_otm_oi_chg": 0.45
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "71.64 L",
-      "total_itm_oi_puts": "14.46 L",
-      "total_itm_oi_chg_calls": "-45,000.00",
-      "total_itm_oi_chg_puts": "33,000.00",
-      "pcr_itm_oi": 0.2,
-      "pcr_itm_oi_chg": -0.73
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -8374,18 +8374,18 @@
       "total_otm_oi_chg_calls_num": -52750,
       "total_otm_oi_chg_puts_num": 248000,
       "total_otm_oi_chg_net_num": 300750,
-      "total_otm_vol_calls": "7.94 L",
-      "total_otm_vol_puts": "7.83 L",
-      "pcr_otm_oi": 0.74,
-      "pcr_otm_oi_chg": -4.7
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "1.24 L",
-      "total_itm_oi_puts": "3.64 L",
-      "total_itm_oi_chg_calls": "1,750.00",
-      "total_itm_oi_chg_puts": "-3,500.00",
-      "pcr_itm_oi": 2.95,
-      "pcr_itm_oi_chg": -2
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -8443,18 +8443,18 @@
       "total_otm_oi_chg_calls_num": 105600,
       "total_otm_oi_chg_puts_num": -96000,
       "total_otm_oi_chg_net_num": -201600,
-      "total_otm_vol_calls": "74.56 L",
-      "total_otm_vol_puts": "35.70 L",
-      "pcr_otm_oi": 0.45,
-      "pcr_otm_oi_chg": -0.91
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "11.84 L",
-      "total_itm_oi_puts": "17.21 L",
-      "total_itm_oi_chg_calls": "30,000.00",
-      "total_itm_oi_chg_puts": "-1.01 L",
-      "pcr_itm_oi": 1.45,
-      "pcr_itm_oi_chg": -3.36
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -8512,18 +8512,18 @@
       "total_otm_oi_chg_calls_num": -75800,
       "total_otm_oi_chg_puts_num": 3700,
       "total_otm_oi_chg_net_num": 79500,
-      "total_otm_vol_calls": "27.29 L",
-      "total_otm_vol_puts": "13.85 L",
-      "pcr_otm_oi": 0.42,
-      "pcr_otm_oi_chg": -0.05
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "2.38 L",
-      "total_itm_oi_puts": "1.72 L",
-      "total_itm_oi_chg_calls": "-26,750.00",
-      "total_itm_oi_chg_puts": "-15,600.00",
-      "pcr_itm_oi": 0.72,
-      "pcr_itm_oi_chg": 0.58
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -8581,18 +8581,18 @@
       "total_otm_oi_chg_calls_num": 373800,
       "total_otm_oi_chg_puts_num": 182175,
       "total_otm_oi_chg_net_num": -191625,
-      "total_otm_vol_calls": "17.79 L",
-      "total_otm_vol_puts": "7.44 L",
-      "pcr_otm_oi": 0.37,
-      "pcr_otm_oi_chg": 0.49
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "1.93 L",
-      "total_itm_oi_puts": "9.44 L",
-      "total_itm_oi_chg_calls": "57,225.00",
-      "total_itm_oi_chg_puts": "3,150.00",
-      "pcr_itm_oi": 4.9,
-      "pcr_itm_oi_chg": 0.06
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -8650,18 +8650,18 @@
       "total_otm_oi_chg_calls_num": 63450,
       "total_otm_oi_chg_puts_num": -193725,
       "total_otm_oi_chg_net_num": -257175,
-      "total_otm_vol_calls": "54.04 L",
-      "total_otm_vol_puts": "22.50 L",
-      "pcr_otm_oi": 0.58,
-      "pcr_otm_oi_chg": -3.05
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "6.80 L",
-      "total_itm_oi_puts": "2.37 L",
-      "total_itm_oi_chg_calls": "-28,125.00",
-      "total_itm_oi_chg_puts": "16,200.00",
-      "pcr_itm_oi": 0.35,
-      "pcr_itm_oi_chg": -0.58
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -8719,18 +8719,18 @@
       "total_otm_oi_chg_calls_num": 162000,
       "total_otm_oi_chg_puts_num": -54225,
       "total_otm_oi_chg_net_num": -216225,
-      "total_otm_vol_calls": "81.47 L",
-      "total_otm_vol_puts": "28.75 L",
-      "pcr_otm_oi": 0.44,
-      "pcr_otm_oi_chg": -0.33
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "7.76 L",
-      "total_itm_oi_puts": "18.68 L",
-      "total_itm_oi_chg_calls": "3,375.00",
-      "total_itm_oi_chg_puts": "53,325.00",
-      "pcr_itm_oi": 2.41,
-      "pcr_itm_oi_chg": 15.8
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -8788,18 +8788,18 @@
       "total_otm_oi_chg_calls_num": 199200,
       "total_otm_oi_chg_puts_num": 49200,
       "total_otm_oi_chg_net_num": -150000,
-      "total_otm_vol_calls": "8.60 L",
-      "total_otm_vol_puts": "3.23 L",
-      "pcr_otm_oi": 0.38,
-      "pcr_otm_oi_chg": 0.25
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "24,000.00",
-      "total_itm_oi_puts": "2.32 L",
-      "total_itm_oi_chg_calls": "400.00",
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
       "total_itm_oi_chg_puts": "0.00",
-      "pcr_itm_oi": 9.68,
-      "pcr_itm_oi_chg": 0
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -8837,11 +8837,11 @@
     "pcr_oi": "0.43",
     "pcr_val": "0.92",
     "strike_atm": 14925,
-    "future_oi": 1934760.0,
-    "future_oi_str": "19.35 L",
-    "future_oi_chg": 9.9,
-    "threshold_15pct": 290214.0,
-    "threshold_15pct_str": "2.90 L",
+    "future_oi": 1780920.0,
+    "future_oi_str": "17.81 L",
+    "future_oi_chg": 0.8,
+    "threshold_15pct": 267138.0,
+    "threshold_15pct_str": "2.67 L",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -8926,18 +8926,18 @@
       "total_otm_oi_chg_calls_num": 19372500,
       "total_otm_oi_chg_puts_num": 38314500,
       "total_otm_oi_chg_net_num": 18942000,
-      "total_otm_vol_calls": "35.04 Cr",
-      "total_otm_vol_puts": "29.76 Cr",
-      "pcr_otm_oi": 2.22,
-      "pcr_otm_oi_chg": 1.98
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "3.06 Cr",
-      "total_itm_oi_puts": "6.33 L",
-      "total_itm_oi_chg_calls": "-1.33 Cr",
-      "total_itm_oi_chg_puts": "6.33 L",
-      "pcr_itm_oi": 0.02,
-      "pcr_itm_oi_chg": -0.05
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -8995,18 +8995,18 @@
       "total_otm_oi_chg_calls_num": -3875,
       "total_otm_oi_chg_puts_num": -51925,
       "total_otm_oi_chg_net_num": -48050,
-      "total_otm_vol_calls": "16.41 L",
-      "total_otm_vol_puts": "7.53 L",
-      "pcr_otm_oi": 0.53,
-      "pcr_otm_oi_chg": 13.4
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "4.74 L",
-      "total_itm_oi_puts": "3.05 L",
-      "total_itm_oi_chg_calls": "30,225.00",
-      "total_itm_oi_chg_puts": "4,650.00",
-      "pcr_itm_oi": 0.64,
-      "pcr_itm_oi_chg": 0.15
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -9064,18 +9064,18 @@
       "total_otm_oi_chg_calls_num": 327250,
       "total_otm_oi_chg_puts_num": 103675,
       "total_otm_oi_chg_net_num": -223575,
-      "total_otm_vol_calls": "43.84 L",
-      "total_otm_vol_puts": "14.57 L",
-      "pcr_otm_oi": 1.05,
-      "pcr_otm_oi_chg": 0.32
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "6.80 L",
-      "total_itm_oi_puts": "35,475.00",
-      "total_itm_oi_chg_calls": "-1.13 L",
-      "total_itm_oi_chg_puts": "5,225.00",
-      "pcr_itm_oi": 0.05,
-      "pcr_itm_oi_chg": -0.05
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -9133,18 +9133,18 @@
       "total_otm_oi_chg_calls_num": -177925,
       "total_otm_oi_chg_puts_num": -64900,
       "total_otm_oi_chg_net_num": 113025,
-      "total_otm_vol_calls": "47.16 L",
-      "total_otm_vol_puts": "15.09 L",
-      "pcr_otm_oi": 0.38,
-      "pcr_otm_oi_chg": 0.36
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "5.64 L",
-      "total_itm_oi_puts": "7.74 L",
-      "total_itm_oi_chg_calls": "-15,400.00",
-      "total_itm_oi_chg_puts": "-18,975.00",
-      "pcr_itm_oi": 1.37,
-      "pcr_itm_oi_chg": 1.23
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -9202,17 +9202,17 @@
       "total_otm_oi_chg_calls_num": 305625,
       "total_otm_oi_chg_puts_num": 124375,
       "total_otm_oi_chg_net_num": -181250,
-      "total_otm_vol_calls": "9.97 L",
-      "total_otm_vol_puts": "5.77 L",
-      "pcr_otm_oi": 0.39,
-      "pcr_otm_oi_chg": 0.41
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "67,500.00",
-      "total_itm_oi_puts": "1.24 L",
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
       "total_itm_oi_chg_calls": "0.00",
-      "total_itm_oi_chg_puts": "-3,750.00",
-      "pcr_itm_oi": 1.83,
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
       "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
@@ -9271,18 +9271,18 @@
       "total_otm_oi_chg_calls_num": -281250,
       "total_otm_oi_chg_puts_num": 423750,
       "total_otm_oi_chg_net_num": 705000,
-      "total_otm_vol_calls": "1.41 Cr",
-      "total_otm_vol_puts": "84.32 L",
-      "pcr_otm_oi": 1.26,
-      "pcr_otm_oi_chg": -1.51
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "84.08 L",
-      "total_itm_oi_puts": "20.89 L",
-      "total_itm_oi_chg_calls": "-9.26 L",
-      "total_itm_oi_chg_puts": "-31,875.00",
-      "pcr_itm_oi": 0.25,
-      "pcr_itm_oi_chg": 0.03
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -9340,18 +9340,18 @@
       "total_otm_oi_chg_calls_num": 248050,
       "total_otm_oi_chg_puts_num": 139700,
       "total_otm_oi_chg_net_num": -108350,
-      "total_otm_vol_calls": "14.92 L",
-      "total_otm_vol_puts": "5.86 L",
-      "pcr_otm_oi": 0.5,
-      "pcr_otm_oi_chg": 0.56
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "3.65 L",
-      "total_itm_oi_puts": "3.14 L",
-      "total_itm_oi_chg_calls": "11,000.00",
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
       "total_itm_oi_chg_puts": "0.00",
-      "pcr_itm_oi": 0.86,
-      "pcr_itm_oi_chg": 0
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -9409,18 +9409,18 @@
       "total_otm_oi_chg_calls_num": 2047500,
       "total_otm_oi_chg_puts_num": 117000,
       "total_otm_oi_chg_net_num": -1930500,
-      "total_otm_vol_calls": "1.56 Cr",
-      "total_otm_vol_puts": "47.58 L",
-      "pcr_otm_oi": 0.48,
-      "pcr_otm_oi_chg": 0.06
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "56.42 L",
-      "total_itm_oi_puts": "41.27 L",
-      "total_itm_oi_chg_calls": "78,000.00",
-      "total_itm_oi_chg_puts": "3.25 L",
-      "pcr_itm_oi": 0.73,
-      "pcr_itm_oi_chg": 4.17
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -9478,18 +9478,18 @@
       "total_otm_oi_chg_calls_num": 722500,
       "total_otm_oi_chg_puts_num": 246000,
       "total_otm_oi_chg_net_num": -476500,
-      "total_otm_vol_calls": "81.11 L",
-      "total_otm_vol_puts": "24.26 L",
-      "pcr_otm_oi": 1.01,
-      "pcr_otm_oi_chg": 0.34
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "18.64 L",
-      "total_itm_oi_puts": "1.56 L",
-      "total_itm_oi_chg_calls": "-2.38 L",
-      "total_itm_oi_chg_puts": "34,000.00",
-      "pcr_itm_oi": 0.08,
-      "pcr_itm_oi_chg": -0.14
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -9547,18 +9547,18 @@
       "total_otm_oi_chg_calls_num": 2717450,
       "total_otm_oi_chg_puts_num": 486500,
       "total_otm_oi_chg_net_num": -2230950,
-      "total_otm_vol_calls": "2.50 Cr",
-      "total_otm_vol_puts": "78.88 L",
-      "pcr_otm_oi": 0.48,
-      "pcr_otm_oi_chg": 0.18
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "20.36 L",
-      "total_itm_oi_puts": "1.44 Cr",
-      "total_itm_oi_chg_calls": "3.20 L",
-      "total_itm_oi_chg_puts": "-13,900.00",
-      "pcr_itm_oi": 7.08,
-      "pcr_itm_oi_chg": -0.04
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -9596,11 +9596,11 @@
     "pcr_oi": "0.58",
     "pcr_val": "1.09",
     "strike_atm": 24650,
-    "future_oi": 12610845.0,
-    "future_oi_str": "1.26 Cr",
-    "future_oi_chg": 4.02,
-    "threshold_15pct": 1891626.75,
-    "threshold_15pct_str": "18.92 L",
+    "future_oi": 12790050.0,
+    "future_oi_str": "1.28 Cr",
+    "future_oi_chg": 1.81,
+    "threshold_15pct": 1918507.5,
+    "threshold_15pct_str": "19.19 L",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -9665,11 +9665,11 @@
     "pcr_oi": "0.63",
     "pcr_val": "1.87",
     "strike_atm": 74400,
-    "future_oi": 18975.0,
-    "future_oi_str": "18,975.00",
-    "future_oi_chg": -1.04,
-    "threshold_15pct": 2846.25,
-    "threshold_15pct_str": "2,846.25",
+    "future_oi": 19075.0,
+    "future_oi_str": "19,075.00",
+    "future_oi_chg": 0.53,
+    "threshold_15pct": 2861.25,
+    "threshold_15pct_str": "2,861.25",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -9754,18 +9754,18 @@
       "total_otm_oi_chg_calls_num": 1282500,
       "total_otm_oi_chg_puts_num": 729000,
       "total_otm_oi_chg_net_num": -553500,
-      "total_otm_vol_calls": "3.10 Cr",
-      "total_otm_vol_puts": "84.51 L",
-      "pcr_otm_oi": 0.5,
-      "pcr_otm_oi_chg": 0.57
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "64.80 L",
-      "total_itm_oi_puts": "1.13 Cr",
-      "total_itm_oi_chg_calls": "-60,750.00",
-      "total_itm_oi_chg_puts": "-3.78 L",
-      "pcr_itm_oi": 1.75,
-      "pcr_itm_oi_chg": 6.22
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -9823,18 +9823,18 @@
       "total_otm_oi_chg_calls_num": 2014500,
       "total_otm_oi_chg_puts_num": 178500,
       "total_otm_oi_chg_net_num": -1836000,
-      "total_otm_vol_calls": "2.02 Cr",
-      "total_otm_vol_puts": "68.17 L",
-      "pcr_otm_oi": 0.49,
-      "pcr_otm_oi_chg": 0.09
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "17.20 L",
-      "total_itm_oi_puts": "60.87 L",
-      "total_itm_oi_chg_calls": "43,500.00",
-      "total_itm_oi_chg_puts": "-10,500.00",
-      "pcr_itm_oi": 3.54,
-      "pcr_itm_oi_chg": -0.24
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -9892,18 +9892,18 @@
       "total_otm_oi_chg_calls_num": 446875,
       "total_otm_oi_chg_puts_num": -296875,
       "total_otm_oi_chg_net_num": -743750,
-      "total_otm_vol_calls": "2.03 Cr",
-      "total_otm_vol_puts": "81.41 L",
-      "pcr_otm_oi": 0.32,
-      "pcr_otm_oi_chg": -0.66
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "18.75 L",
-      "total_itm_oi_puts": "34.16 L",
-      "total_itm_oi_chg_calls": "37,500.00",
-      "total_itm_oi_chg_puts": "-2.47 L",
-      "pcr_itm_oi": 1.82,
-      "pcr_itm_oi_chg": -6.58
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -9961,18 +9961,18 @@
       "total_otm_oi_chg_calls_num": 121100,
       "total_otm_oi_chg_puts_num": 84000,
       "total_otm_oi_chg_net_num": -37100,
-      "total_otm_vol_calls": "8.68 L",
-      "total_otm_vol_puts": "2.75 L",
-      "pcr_otm_oi": 0.34,
-      "pcr_otm_oi_chg": 0.69
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "1.00 L",
-      "total_itm_oi_puts": "4.34 L",
-      "total_itm_oi_chg_calls": "27,650.00",
-      "total_itm_oi_chg_puts": "-6,650.00",
-      "pcr_itm_oi": 4.34,
-      "pcr_itm_oi_chg": -0.24
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -10030,18 +10030,18 @@
       "total_otm_oi_chg_calls_num": 23900,
       "total_otm_oi_chg_puts_num": -52800,
       "total_otm_oi_chg_net_num": -76700,
-      "total_otm_vol_calls": "7.07 L",
-      "total_otm_vol_puts": "4.97 L",
-      "pcr_otm_oi": 1.31,
-      "pcr_otm_oi_chg": -2.21
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "3.37 L",
-      "total_itm_oi_puts": "46,300.00",
-      "total_itm_oi_chg_calls": "-26,200.00",
-      "total_itm_oi_chg_puts": "3,900.00",
-      "pcr_itm_oi": 0.14,
-      "pcr_itm_oi_chg": -0.15
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -10099,18 +10099,18 @@
       "total_otm_oi_chg_calls_num": 991200,
       "total_otm_oi_chg_puts_num": 1293600,
       "total_otm_oi_chg_net_num": 302400,
-      "total_otm_vol_calls": "1.02 Cr",
-      "total_otm_vol_puts": "63.62 L",
-      "pcr_otm_oi": 0.71,
-      "pcr_otm_oi_chg": 1.31
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "10.11 L",
-      "total_itm_oi_puts": "12.63 L",
-      "total_itm_oi_chg_calls": "1.96 L",
-      "total_itm_oi_chg_puts": "-89,600.00",
-      "pcr_itm_oi": 1.25,
-      "pcr_itm_oi_chg": -0.46
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -10168,18 +10168,18 @@
       "total_otm_oi_chg_calls_num": -996750,
       "total_otm_oi_chg_puts_num": -195750,
       "total_otm_oi_chg_net_num": 801000,
-      "total_otm_vol_calls": "4.67 Cr",
-      "total_otm_vol_puts": "1.28 Cr",
-      "pcr_otm_oi": 0.25,
-      "pcr_otm_oi_chg": 0.2
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "27.07 L",
-      "total_itm_oi_puts": "1.11 Cr",
-      "total_itm_oi_chg_calls": "33,750.00",
-      "total_itm_oi_chg_puts": "-33,750.00",
-      "pcr_itm_oi": 4.1,
-      "pcr_itm_oi_chg": -1
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -10237,18 +10237,18 @@
       "total_otm_oi_chg_calls_num": 1600,
       "total_otm_oi_chg_puts_num": 3160,
       "total_otm_oi_chg_net_num": 1560,
-      "total_otm_vol_calls": "21,860.00",
-      "total_otm_vol_puts": "10,380.00",
-      "pcr_otm_oi": 0.44,
-      "pcr_otm_oi_chg": 1.98
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "1,460.00",
-      "total_itm_oi_puts": "17,140.00",
-      "total_itm_oi_chg_calls": "-20.00",
-      "total_itm_oi_chg_puts": "-260.00",
-      "pcr_itm_oi": 11.74,
-      "pcr_itm_oi_chg": 13
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -10306,18 +10306,18 @@
       "total_otm_oi_chg_calls_num": 20425,
       "total_otm_oi_chg_puts_num": 25800,
       "total_otm_oi_chg_net_num": 5375,
-      "total_otm_vol_calls": "51.03 L",
-      "total_otm_vol_puts": "27.50 L",
-      "pcr_otm_oi": 0.7,
-      "pcr_otm_oi_chg": 1.26
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "29.16 L",
-      "total_itm_oi_puts": "23.16 L",
-      "total_itm_oi_chg_calls": "-76,325.00",
-      "total_itm_oi_chg_puts": "-83,850.00",
-      "pcr_itm_oi": 0.79,
-      "pcr_itm_oi_chg": 1.1
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -10375,18 +10375,18 @@
       "total_otm_oi_chg_calls_num": 197875,
       "total_otm_oi_chg_puts_num": -37500,
       "total_otm_oi_chg_net_num": -235375,
-      "total_otm_vol_calls": "49.80 L",
-      "total_otm_vol_puts": "15.54 L",
-      "pcr_otm_oi": 0.59,
-      "pcr_otm_oi_chg": -0.19
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "4.18 L",
-      "total_itm_oi_puts": "2.48 L",
-      "total_itm_oi_chg_calls": "-250.00",
-      "total_itm_oi_chg_puts": "29,500.00",
-      "pcr_itm_oi": 0.59,
-      "pcr_itm_oi_chg": -118
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -10444,18 +10444,18 @@
       "total_otm_oi_chg_calls_num": 144400,
       "total_otm_oi_chg_puts_num": 100700,
       "total_otm_oi_chg_net_num": -43700,
-      "total_otm_vol_calls": "45.77 L",
-      "total_otm_vol_puts": "12.71 L",
-      "pcr_otm_oi": 0.84,
-      "pcr_otm_oi_chg": 0.7
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "10.94 L",
-      "total_itm_oi_puts": "14.90 L",
-      "total_itm_oi_chg_calls": "30,400.00",
-      "total_itm_oi_chg_puts": "15,200.00",
-      "pcr_itm_oi": 1.36,
-      "pcr_itm_oi_chg": 0.5
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -10513,18 +10513,18 @@
       "total_otm_oi_chg_calls_num": 2987400,
       "total_otm_oi_chg_puts_num": 436800,
       "total_otm_oi_chg_net_num": -2550600,
-      "total_otm_vol_calls": "2.10 Cr",
-      "total_otm_vol_puts": "86.89 L",
-      "pcr_otm_oi": 0.61,
-      "pcr_otm_oi_chg": 0.15
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "31.27 L",
-      "total_itm_oi_puts": "26.68 L",
-      "total_itm_oi_chg_calls": "2.56 L",
-      "total_itm_oi_chg_puts": "-22,100.00",
-      "pcr_itm_oi": 0.85,
-      "pcr_itm_oi_chg": -0.09
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -10582,18 +10582,18 @@
       "total_otm_oi_chg_calls_num": 2453850,
       "total_otm_oi_chg_puts_num": 350550,
       "total_otm_oi_chg_net_num": -2103300,
-      "total_otm_vol_calls": "6.89 Cr",
-      "total_otm_vol_puts": "3.40 Cr",
-      "pcr_otm_oi": 0.91,
-      "pcr_otm_oi_chg": 0.14
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "29.66 L",
-      "total_itm_oi_puts": "11.55 L",
-      "total_itm_oi_chg_calls": "-4.78 L",
-      "total_itm_oi_chg_puts": "7.57 L",
-      "pcr_itm_oi": 0.39,
-      "pcr_itm_oi_chg": -1.58
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -10651,18 +10651,18 @@
       "total_otm_oi_chg_calls_num": 61950,
       "total_otm_oi_chg_puts_num": 26250,
       "total_otm_oi_chg_net_num": -35700,
-      "total_otm_vol_calls": "5.97 L",
-      "total_otm_vol_puts": "1.11 L",
-      "pcr_otm_oi": 0.37,
-      "pcr_otm_oi_chg": 0.42
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "44,100.00",
-      "total_itm_oi_puts": "2.74 L",
-      "total_itm_oi_chg_calls": "2,100.00",
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
       "total_itm_oi_chg_puts": "0.00",
-      "pcr_itm_oi": 6.22,
-      "pcr_itm_oi_chg": 0
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -10720,18 +10720,18 @@
       "total_otm_oi_chg_calls_num": -16500,
       "total_otm_oi_chg_puts_num": -206500,
       "total_otm_oi_chg_net_num": -190000,
-      "total_otm_vol_calls": "31.60 L",
-      "total_otm_vol_puts": "19.30 L",
-      "pcr_otm_oi": 0.72,
-      "pcr_otm_oi_chg": 12.52
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "6.99 L",
-      "total_itm_oi_puts": "2.68 L",
-      "total_itm_oi_chg_calls": "-32,000.00",
-      "total_itm_oi_chg_puts": "-1,000.00",
-      "pcr_itm_oi": 0.38,
-      "pcr_itm_oi_chg": 0.03
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -10789,18 +10789,18 @@
       "total_otm_oi_chg_calls_num": 98875,
       "total_otm_oi_chg_puts_num": 11900,
       "total_otm_oi_chg_net_num": -86975,
-      "total_otm_vol_calls": "4.73 L",
-      "total_otm_vol_puts": "1.86 L",
-      "pcr_otm_oi": 0.55,
-      "pcr_otm_oi_chg": 0.12
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "1.59 L",
-      "total_itm_oi_puts": "1.93 L",
-      "total_itm_oi_chg_calls": "875.00",
-      "total_itm_oi_chg_puts": "3,675.00",
-      "pcr_itm_oi": 1.21,
-      "pcr_itm_oi_chg": 4.2
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -10858,18 +10858,18 @@
       "total_otm_oi_chg_calls_num": 4600000,
       "total_otm_oi_chg_puts_num": 512000,
       "total_otm_oi_chg_net_num": -4088000,
-      "total_otm_vol_calls": "7.39 Cr",
-      "total_otm_vol_puts": "4.52 Cr",
-      "pcr_otm_oi": 1.12,
-      "pcr_otm_oi_chg": 0.11
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "2.23 Cr",
-      "total_itm_oi_puts": "70.72 L",
-      "total_itm_oi_chg_calls": "5.60 L",
-      "total_itm_oi_chg_puts": "4.40 L",
-      "pcr_itm_oi": 0.32,
-      "pcr_itm_oi_chg": 0.79
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -10927,18 +10927,18 @@
       "total_otm_oi_chg_calls_num": 97500,
       "total_otm_oi_chg_puts_num": -121550,
       "total_otm_oi_chg_net_num": -219050,
-      "total_otm_vol_calls": "56.67 L",
-      "total_otm_vol_puts": "46.94 L",
-      "pcr_otm_oi": 0.86,
-      "pcr_otm_oi_chg": -1.25
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "10.05 L",
-      "total_itm_oi_puts": "2.09 L",
-      "total_itm_oi_chg_calls": "-29,250.00",
-      "total_itm_oi_chg_puts": "11,700.00",
-      "pcr_itm_oi": 0.21,
-      "pcr_itm_oi_chg": -0.4
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -10996,18 +10996,18 @@
       "total_otm_oi_chg_calls_num": -119700,
       "total_otm_oi_chg_puts_num": -9450,
       "total_otm_oi_chg_net_num": 110250,
-      "total_otm_vol_calls": "29.40 L",
-      "total_otm_vol_puts": "7.89 L",
-      "pcr_otm_oi": 0.47,
-      "pcr_otm_oi_chg": 0.08
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "1.93 L",
-      "total_itm_oi_puts": "6.71 L",
-      "total_itm_oi_chg_calls": "2,800.00",
-      "total_itm_oi_chg_puts": "-3,850.00",
-      "pcr_itm_oi": 3.49,
-      "pcr_itm_oi_chg": -1.38
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -11065,18 +11065,18 @@
       "total_otm_oi_chg_calls_num": 111625,
       "total_otm_oi_chg_puts_num": 10000,
       "total_otm_oi_chg_net_num": -101625,
-      "total_otm_vol_calls": "10.65 L",
-      "total_otm_vol_puts": "7.56 L",
-      "pcr_otm_oi": 0.88,
-      "pcr_otm_oi_chg": 0.09
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "4.25 L",
-      "total_itm_oi_puts": "1.69 L",
-      "total_itm_oi_chg_calls": "17,000.00",
-      "total_itm_oi_chg_puts": "12,125.00",
-      "pcr_itm_oi": 0.4,
-      "pcr_itm_oi_chg": 0.71
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -11134,18 +11134,18 @@
       "total_otm_oi_chg_calls_num": -1882900,
       "total_otm_oi_chg_puts_num": 41800,
       "total_otm_oi_chg_net_num": 1924700,
-      "total_otm_vol_calls": "4.35 Cr",
-      "total_otm_vol_puts": "1.88 Cr",
-      "pcr_otm_oi": 0.34,
-      "pcr_otm_oi_chg": -0.02
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "12.37 L",
-      "total_itm_oi_puts": "1.18 Cr",
-      "total_itm_oi_chg_calls": "1.24 L",
-      "total_itm_oi_chg_puts": "22,800.00",
-      "pcr_itm_oi": 9.51,
-      "pcr_itm_oi_chg": 0.18
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -11203,18 +11203,18 @@
       "total_otm_oi_chg_calls_num": 428350,
       "total_otm_oi_chg_puts_num": -12350,
       "total_otm_oi_chg_net_num": -440700,
-      "total_otm_vol_calls": "1.10 Cr",
-      "total_otm_vol_puts": "51.45 L",
-      "pcr_otm_oi": 0.79,
-      "pcr_otm_oi_chg": -0.03
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "11.29 L",
-      "total_itm_oi_puts": "82,550.00",
-      "total_itm_oi_chg_calls": "1.66 L",
-      "total_itm_oi_chg_puts": "-1,950.00",
-      "pcr_itm_oi": 0.07,
-      "pcr_itm_oi_chg": -0.01
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -11272,18 +11272,18 @@
       "total_otm_oi_chg_calls_num": 34200,
       "total_otm_oi_chg_puts_num": 157500,
       "total_otm_oi_chg_net_num": 123300,
-      "total_otm_vol_calls": "12.08 L",
-      "total_otm_vol_puts": "4.37 L",
-      "pcr_otm_oi": 0.38,
-      "pcr_otm_oi_chg": 4.61
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "67,950.00",
-      "total_itm_oi_puts": "7.37 L",
-      "total_itm_oi_chg_calls": "-9,900.00",
-      "total_itm_oi_chg_puts": "-6,750.00",
-      "pcr_itm_oi": 10.84,
-      "pcr_itm_oi_chg": 0.68
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -11341,18 +11341,18 @@
       "total_otm_oi_chg_calls_num": 22500,
       "total_otm_oi_chg_puts_num": -47400,
       "total_otm_oi_chg_net_num": -69900,
-      "total_otm_vol_calls": "3.30 L",
-      "total_otm_vol_puts": "1.40 L",
-      "pcr_otm_oi": 0.97,
-      "pcr_otm_oi_chg": -2.11
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "2.08 L",
-      "total_itm_oi_puts": "11,400.00",
-      "total_itm_oi_chg_calls": "-2,100.00",
-      "total_itm_oi_chg_puts": "-300.00",
-      "pcr_itm_oi": 0.05,
-      "pcr_itm_oi_chg": 0.14
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -11410,18 +11410,18 @@
       "total_otm_oi_chg_calls_num": 168275,
       "total_otm_oi_chg_puts_num": -555625,
       "total_otm_oi_chg_net_num": -723900,
-      "total_otm_vol_calls": "51.02 L",
-      "total_otm_vol_puts": "41.37 L",
-      "pcr_otm_oi": 1.04,
-      "pcr_otm_oi_chg": -3.3
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "48.10 L",
-      "total_itm_oi_puts": "4.13 L",
-      "total_itm_oi_chg_calls": "22,225.00",
-      "total_itm_oi_chg_puts": "-22,225.00",
-      "pcr_itm_oi": 0.09,
-      "pcr_itm_oi_chg": -1
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -11479,18 +11479,18 @@
       "total_otm_oi_chg_calls_num": -15750,
       "total_otm_oi_chg_puts_num": 310275,
       "total_otm_oi_chg_net_num": 326025,
-      "total_otm_vol_calls": "1.23 Cr",
-      "total_otm_vol_puts": "29.63 L",
-      "pcr_otm_oi": 0.5,
-      "pcr_otm_oi_chg": -19.7
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "30.15 L",
-      "total_itm_oi_puts": "38.78 L",
-      "total_itm_oi_chg_calls": "26,775.00",
-      "total_itm_oi_chg_puts": "-1,575.00",
-      "pcr_itm_oi": 1.29,
-      "pcr_itm_oi_chg": -0.06
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -11548,18 +11548,18 @@
       "total_otm_oi_chg_calls_num": 1595000,
       "total_otm_oi_chg_puts_num": -932000,
       "total_otm_oi_chg_net_num": -2527000,
-      "total_otm_vol_calls": "7.26 Cr",
-      "total_otm_vol_puts": "6.43 Cr",
-      "pcr_otm_oi": 1.2,
-      "pcr_otm_oi_chg": -0.58
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "2.06 Cr",
-      "total_itm_oi_puts": "85.23 L",
-      "total_itm_oi_chg_calls": "-13.04 L",
-      "total_itm_oi_chg_puts": "-96,000.00",
-      "pcr_itm_oi": 0.41,
-      "pcr_itm_oi_chg": 0.07
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -11617,18 +11617,18 @@
       "total_otm_oi_chg_calls_num": 1680525,
       "total_otm_oi_chg_puts_num": 525525,
       "total_otm_oi_chg_net_num": -1155000,
-      "total_otm_vol_calls": "1.79 Cr",
-      "total_otm_vol_puts": "46.68 L",
-      "pcr_otm_oi": 0.62,
-      "pcr_otm_oi_chg": 0.31
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "53.26 L",
-      "total_itm_oi_puts": "41.81 L",
-      "total_itm_oi_chg_calls": "-63,525.00",
-      "total_itm_oi_chg_puts": "32,725.00",
-      "pcr_itm_oi": 0.78,
-      "pcr_itm_oi_chg": -0.52
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -11686,18 +11686,18 @@
       "total_otm_oi_chg_calls_num": 2345300,
       "total_otm_oi_chg_puts_num": -220900,
       "total_otm_oi_chg_net_num": -2566200,
-      "total_otm_vol_calls": "2.02 Cr",
-      "total_otm_vol_puts": "65.14 L",
-      "pcr_otm_oi": 0.61,
-      "pcr_otm_oi_chg": -0.09
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "66.83 L",
-      "total_itm_oi_puts": "49.30 L",
-      "total_itm_oi_chg_calls": "-2.96 L",
-      "total_itm_oi_chg_puts": "8.13 L",
-      "pcr_itm_oi": 0.74,
-      "pcr_itm_oi_chg": -2.75
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -11755,18 +11755,18 @@
       "total_otm_oi_chg_calls_num": 40000,
       "total_otm_oi_chg_puts_num": 70400,
       "total_otm_oi_chg_net_num": 30400,
-      "total_otm_vol_calls": "33.40 L",
-      "total_otm_vol_puts": "14.79 L",
-      "pcr_otm_oi": 0.62,
-      "pcr_otm_oi_chg": 1.76
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "12.13 L",
-      "total_itm_oi_puts": "8.38 L",
-      "total_itm_oi_chg_calls": "-49,600.00",
-      "total_itm_oi_chg_puts": "-12,800.00",
-      "pcr_itm_oi": 0.69,
-      "pcr_itm_oi_chg": 0.26
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -11824,18 +11824,18 @@
       "total_otm_oi_chg_calls_num": 112125,
       "total_otm_oi_chg_puts_num": 95625,
       "total_otm_oi_chg_net_num": -16500,
-      "total_otm_vol_calls": "24.47 L",
-      "total_otm_vol_puts": "9.49 L",
-      "pcr_otm_oi": 0.51,
-      "pcr_otm_oi_chg": 0.85
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "73,125.00",
-      "total_itm_oi_puts": "2.60 L",
-      "total_itm_oi_chg_calls": "2,625.00",
-      "total_itm_oi_chg_puts": "-13,500.00",
-      "pcr_itm_oi": 3.56,
-      "pcr_itm_oi_chg": -5.14
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -11893,18 +11893,18 @@
       "total_otm_oi_chg_calls_num": 25629000,
       "total_otm_oi_chg_puts_num": 7669500,
       "total_otm_oi_chg_net_num": -17959500,
-      "total_otm_vol_calls": "30.40 Cr",
-      "total_otm_vol_puts": "22.70 Cr",
-      "pcr_otm_oi": 0.98,
-      "pcr_otm_oi_chg": 0.3
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "1.66 Cr",
-      "total_itm_oi_puts": "73.87 L",
-      "total_itm_oi_chg_calls": "-38.62 L",
-      "total_itm_oi_chg_puts": "38.63 L",
-      "pcr_itm_oi": 0.45,
-      "pcr_itm_oi_chg": -1
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -11942,11 +11942,11 @@
     "pcr_oi": "0.97",
     "pcr_val": "1.12",
     "strike_atm": 78800,
-    "future_oi": 42300.0,
-    "future_oi_str": "42,300.00",
-    "future_oi_chg": -3.6,
-    "threshold_15pct": 6345.0,
-    "threshold_15pct_str": "6,345.00",
+    "future_oi": 43680.0,
+    "future_oi_str": "43,680.00",
+    "future_oi_chg": 3.46,
+    "threshold_15pct": 6552.0,
+    "threshold_15pct_str": "6,552.00",
     "strategy2_match": true,
     "strategy2_calls_pass": true,
     "strategy2_puts_pass": true,
@@ -12031,18 +12031,18 @@
       "total_otm_oi_chg_calls_num": 6600,
       "total_otm_oi_chg_puts_num": -650,
       "total_otm_oi_chg_net_num": -7250,
-      "total_otm_vol_calls": "57,525.00",
-      "total_otm_vol_puts": "17,550.00",
-      "pcr_otm_oi": 0.43,
-      "pcr_otm_oi_chg": -0.1
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "15,725.00",
-      "total_itm_oi_puts": "16,875.00",
-      "total_itm_oi_chg_calls": "1,325.00",
-      "total_itm_oi_chg_puts": "-1,050.00",
-      "pcr_itm_oi": 1.07,
-      "pcr_itm_oi_chg": -0.79
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -12100,18 +12100,18 @@
       "total_otm_oi_chg_calls_num": 564300,
       "total_otm_oi_chg_puts_num": -1238325,
       "total_otm_oi_chg_net_num": -1802625,
-      "total_otm_vol_calls": "1.06 Cr",
-      "total_otm_vol_puts": "1.12 Cr",
-      "pcr_otm_oi": 0.92,
-      "pcr_otm_oi_chg": -2.19
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "53.56 L",
-      "total_itm_oi_puts": "8.24 L",
-      "total_itm_oi_chg_calls": "-1.63 L",
-      "total_itm_oi_chg_puts": "-1.13 L",
-      "pcr_itm_oi": 0.15,
-      "pcr_itm_oi_chg": 0.69
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -12169,18 +12169,18 @@
       "total_otm_oi_chg_calls_num": 112000,
       "total_otm_oi_chg_puts_num": 41825,
       "total_otm_oi_chg_net_num": -70175,
-      "total_otm_vol_calls": "13.73 L",
-      "total_otm_vol_puts": "5.08 L",
-      "pcr_otm_oi": 0.81,
-      "pcr_otm_oi_chg": 0.37
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "5.56 L",
-      "total_itm_oi_puts": "2.39 L",
-      "total_itm_oi_chg_calls": "10,150.00",
-      "total_itm_oi_chg_puts": "15,225.00",
-      "pcr_itm_oi": 0.43,
-      "pcr_itm_oi_chg": 1.5
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -12238,18 +12238,18 @@
       "total_otm_oi_chg_calls_num": 1750,
       "total_otm_oi_chg_puts_num": 13150,
       "total_otm_oi_chg_net_num": 11400,
-      "total_otm_vol_calls": "1.69 L",
-      "total_otm_vol_puts": "1.06 L",
-      "pcr_otm_oi": 0.85,
-      "pcr_otm_oi_chg": 7.51
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "68,000.00",
-      "total_itm_oi_puts": "32,200.00",
-      "total_itm_oi_chg_calls": "500.00",
-      "total_itm_oi_chg_puts": "-50.00",
-      "pcr_itm_oi": 0.47,
-      "pcr_itm_oi_chg": -0.1
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -12307,18 +12307,18 @@
       "total_otm_oi_chg_calls_num": 271950,
       "total_otm_oi_chg_puts_num": 536550,
       "total_otm_oi_chg_net_num": 264600,
-      "total_otm_vol_calls": "1.19 Cr",
-      "total_otm_vol_puts": "72.09 L",
-      "pcr_otm_oi": 1.81,
-      "pcr_otm_oi_chg": 1.97
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "30.72 L",
-      "total_itm_oi_puts": "1.40 L",
-      "total_itm_oi_chg_calls": "-1.27 L",
-      "total_itm_oi_chg_puts": "30,625.00",
-      "pcr_itm_oi": 0.05,
-      "pcr_itm_oi_chg": -0.24
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -12376,18 +12376,18 @@
       "total_otm_oi_chg_calls_num": 55400,
       "total_otm_oi_chg_puts_num": 27400,
       "total_otm_oi_chg_net_num": -28000,
-      "total_otm_vol_calls": "8.60 L",
-      "total_otm_vol_puts": "2.36 L",
-      "pcr_otm_oi": 0.29,
-      "pcr_otm_oi_chg": 0.49
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "1.82 L",
-      "total_itm_oi_puts": "6.53 L",
-      "total_itm_oi_chg_calls": "3,200.00",
-      "total_itm_oi_chg_puts": "3,200.00",
-      "pcr_itm_oi": 3.6,
-      "pcr_itm_oi_chg": 1
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -12445,18 +12445,18 @@
       "total_otm_oi_chg_calls_num": 50750,
       "total_otm_oi_chg_puts_num": -19950,
       "total_otm_oi_chg_net_num": -70700,
-      "total_otm_vol_calls": "54.48 L",
-      "total_otm_vol_puts": "35.38 L",
-      "pcr_otm_oi": 0.44,
-      "pcr_otm_oi_chg": -0.39
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "6.80 L",
-      "total_itm_oi_puts": "11.25 L",
-      "total_itm_oi_chg_calls": "1.37 L",
-      "total_itm_oi_chg_puts": "-63,700.00",
-      "pcr_itm_oi": 1.66,
-      "pcr_itm_oi_chg": -0.46
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -12514,18 +12514,18 @@
       "total_otm_oi_chg_calls_num": 38675,
       "total_otm_oi_chg_puts_num": 20825,
       "total_otm_oi_chg_net_num": -17850,
-      "total_otm_vol_calls": "5.83 L",
-      "total_otm_vol_puts": "1.67 L",
-      "pcr_otm_oi": 0.52,
-      "pcr_otm_oi_chg": 0.54
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "1.17 L",
-      "total_itm_oi_puts": "1.86 L",
-      "total_itm_oi_chg_calls": "5,250.00",
-      "total_itm_oi_chg_puts": "-2,100.00",
-      "pcr_itm_oi": 1.59,
-      "pcr_itm_oi_chg": -0.4
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -12583,18 +12583,18 @@
       "total_otm_oi_chg_calls_num": 11785600,
       "total_otm_oi_chg_puts_num": 203200,
       "total_otm_oi_chg_net_num": -11582400,
-      "total_otm_vol_calls": "13.14 Cr",
-      "total_otm_vol_puts": "3.36 Cr",
-      "pcr_otm_oi": 0.27,
-      "pcr_otm_oi_chg": 0.02
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "2.64 Cr",
-      "total_itm_oi_puts": "5.74 Cr",
-      "total_itm_oi_chg_calls": "4.70 L",
-      "total_itm_oi_chg_puts": "15.11 L",
-      "pcr_itm_oi": 2.17,
-      "pcr_itm_oi_chg": 3.22
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -12652,18 +12652,18 @@
       "total_otm_oi_chg_calls_num": 5323525,
       "total_otm_oi_chg_puts_num": 425225,
       "total_otm_oi_chg_net_num": -4898300,
-      "total_otm_vol_calls": "4.40 Cr",
-      "total_otm_vol_puts": "2.08 Cr",
-      "pcr_otm_oi": 0.37,
-      "pcr_otm_oi_chg": 0.08
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "45.59 L",
-      "total_itm_oi_puts": "71.92 L",
-      "total_itm_oi_chg_calls": "83,950.00",
-      "total_itm_oi_chg_puts": "-6.50 L",
-      "pcr_itm_oi": 1.58,
-      "pcr_itm_oi_chg": -7.74
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -12721,18 +12721,18 @@
       "total_otm_oi_chg_calls_num": 137500,
       "total_otm_oi_chg_puts_num": 109450,
       "total_otm_oi_chg_net_num": -28050,
-      "total_otm_vol_calls": "20.18 L",
-      "total_otm_vol_puts": "6.45 L",
-      "pcr_otm_oi": 0.43,
-      "pcr_otm_oi_chg": 0.8
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "2.75 L",
-      "total_itm_oi_puts": "9.31 L",
-      "total_itm_oi_chg_calls": "73,700.00",
-      "total_itm_oi_chg_puts": "29,150.00",
-      "pcr_itm_oi": 3.38,
-      "pcr_itm_oi_chg": 0.4
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -12790,18 +12790,18 @@
       "total_otm_oi_chg_calls_num": 180500,
       "total_otm_oi_chg_puts_num": 3875,
       "total_otm_oi_chg_net_num": -176625,
-      "total_otm_vol_calls": "31.92 L",
-      "total_otm_vol_puts": "9.23 L",
-      "pcr_otm_oi": 0.62,
-      "pcr_otm_oi_chg": 0.02
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "4.23 L",
-      "total_itm_oi_puts": "1.21 L",
-      "total_itm_oi_chg_calls": "-49,125.00",
-      "total_itm_oi_chg_puts": "-1,125.00",
-      "pcr_itm_oi": 0.29,
-      "pcr_itm_oi_chg": 0.02
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -12859,18 +12859,18 @@
       "total_otm_oi_chg_calls_num": 1422450,
       "total_otm_oi_chg_puts_num": 642350,
       "total_otm_oi_chg_net_num": -780100,
-      "total_otm_vol_calls": "1.14 Cr",
-      "total_otm_vol_puts": "65.95 L",
-      "pcr_otm_oi": 0.79,
-      "pcr_otm_oi_chg": 0.45
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "88.51 L",
-      "total_itm_oi_puts": "56.67 L",
-      "total_itm_oi_chg_calls": "14,500.00",
-      "total_itm_oi_chg_puts": "42,050.00",
-      "pcr_itm_oi": 0.64,
-      "pcr_itm_oi_chg": 2.9
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -12928,18 +12928,18 @@
       "total_otm_oi_chg_calls_num": 1718750,
       "total_otm_oi_chg_puts_num": 211750,
       "total_otm_oi_chg_net_num": -1507000,
-      "total_otm_vol_calls": "5.66 Cr",
-      "total_otm_vol_puts": "2.25 Cr",
-      "pcr_otm_oi": 0.49,
-      "pcr_otm_oi_chg": 0.12
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "1.37 Cr",
-      "total_itm_oi_puts": "1.76 Cr",
-      "total_itm_oi_chg_calls": "2.75 L",
-      "total_itm_oi_chg_puts": "-4.40 L",
-      "pcr_itm_oi": 1.29,
-      "pcr_itm_oi_chg": -1.6
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -12997,18 +12997,18 @@
       "total_otm_oi_chg_calls_num": 1154025,
       "total_otm_oi_chg_puts_num": 70875,
       "total_otm_oi_chg_net_num": -1083150,
-      "total_otm_vol_calls": "2.40 Cr",
-      "total_otm_vol_puts": "1.27 Cr",
-      "pcr_otm_oi": 0.76,
-      "pcr_otm_oi_chg": 0.06
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "31.25 L",
-      "total_itm_oi_puts": "25.73 L",
-      "total_itm_oi_chg_calls": "-4.68 L",
-      "total_itm_oi_chg_puts": "1.07 L",
-      "pcr_itm_oi": 0.82,
-      "pcr_itm_oi_chg": -0.23
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -13066,18 +13066,18 @@
       "total_otm_oi_chg_calls_num": 909600,
       "total_otm_oi_chg_puts_num": -198000,
       "total_otm_oi_chg_net_num": -1107600,
-      "total_otm_vol_calls": "1.88 Cr",
-      "total_otm_vol_puts": "49.01 L",
-      "pcr_otm_oi": 0.68,
-      "pcr_otm_oi_chg": -0.22
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "29.89 L",
-      "total_itm_oi_puts": "6.89 L",
-      "total_itm_oi_chg_calls": "-28,200.00",
-      "total_itm_oi_chg_puts": "1.18 L",
-      "pcr_itm_oi": 0.23,
-      "pcr_itm_oi_chg": -4.17
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -13135,18 +13135,18 @@
       "total_otm_oi_chg_calls_num": 1216075,
       "total_otm_oi_chg_puts_num": 422625,
       "total_otm_oi_chg_net_num": -793450,
-      "total_otm_vol_calls": "1.10 Cr",
-      "total_otm_vol_puts": "75.38 L",
-      "pcr_otm_oi": 0.78,
-      "pcr_otm_oi_chg": 0.35
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "14.70 L",
-      "total_itm_oi_puts": "3.39 L",
-      "total_itm_oi_chg_calls": "-30,625.00",
-      "total_itm_oi_chg_puts": "21,350.00",
-      "pcr_itm_oi": 0.23,
-      "pcr_itm_oi_chg": -0.7
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -13204,18 +13204,18 @@
       "total_otm_oi_chg_calls_num": 780800,
       "total_otm_oi_chg_puts_num": 425600,
       "total_otm_oi_chg_net_num": -355200,
-      "total_otm_vol_calls": "2.10 Cr",
-      "total_otm_vol_puts": "91.30 L",
-      "pcr_otm_oi": 0.88,
-      "pcr_otm_oi_chg": 0.55
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "96.58 L",
-      "total_itm_oi_puts": "47.63 L",
-      "total_itm_oi_chg_calls": "1.17 L",
-      "total_itm_oi_chg_puts": "1.04 L",
-      "pcr_itm_oi": 0.49,
-      "pcr_itm_oi_chg": 0.89
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -13273,18 +13273,18 @@
       "total_otm_oi_chg_calls_num": 21875,
       "total_otm_oi_chg_puts_num": 134875,
       "total_otm_oi_chg_net_num": 113000,
-      "total_otm_vol_calls": "7.50 L",
-      "total_otm_vol_puts": "5.92 L",
-      "pcr_otm_oi": 0.5,
-      "pcr_otm_oi_chg": 6.17
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "1.13 L",
-      "total_itm_oi_puts": "2.45 L",
-      "total_itm_oi_chg_calls": "2,375.00",
-      "total_itm_oi_chg_puts": "2,375.00",
-      "pcr_itm_oi": 2.17,
-      "pcr_itm_oi_chg": 1
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -13342,18 +13342,18 @@
       "total_otm_oi_chg_calls_num": 2421225,
       "total_otm_oi_chg_puts_num": 203175,
       "total_otm_oi_chg_net_num": -2218050,
-      "total_otm_vol_calls": "2.23 Cr",
-      "total_otm_vol_puts": "89.87 L",
-      "pcr_otm_oi": 0.24,
-      "pcr_otm_oi_chg": 0.08
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "5.96 L",
-      "total_itm_oi_puts": "13.16 L",
-      "total_itm_oi_chg_calls": "46,350.00",
-      "total_itm_oi_chg_puts": "-84,150.00",
-      "pcr_itm_oi": 2.21,
-      "pcr_itm_oi_chg": -1.82
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -13480,18 +13480,18 @@
       "total_otm_oi_chg_calls_num": -200,
       "total_otm_oi_chg_puts_num": 17700,
       "total_otm_oi_chg_net_num": 17900,
-      "total_otm_vol_calls": "3.56 L",
-      "total_otm_vol_puts": "2.07 L",
-      "pcr_otm_oi": 0.71,
-      "pcr_otm_oi_chg": -88.5
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "2.90 L",
-      "total_itm_oi_puts": "43,300.00",
-      "total_itm_oi_chg_calls": "22,600.00",
-      "total_itm_oi_chg_puts": "-2,550.00",
-      "pcr_itm_oi": 0.15,
-      "pcr_itm_oi_chg": -0.11
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -13549,18 +13549,18 @@
       "total_otm_oi_chg_calls_num": 2053200,
       "total_otm_oi_chg_puts_num": -168150,
       "total_otm_oi_chg_net_num": -2221350,
-      "total_otm_vol_calls": "5.69 Cr",
-      "total_otm_vol_puts": "2.94 Cr",
-      "pcr_otm_oi": 1.67,
-      "pcr_otm_oi_chg": -0.08
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "1.99 Cr",
-      "total_itm_oi_puts": "36.64 L",
-      "total_itm_oi_chg_calls": "-12.52 L",
-      "total_itm_oi_chg_puts": "16.77 L",
-      "pcr_itm_oi": 0.18,
-      "pcr_itm_oi_chg": -1.34
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -13618,18 +13618,18 @@
       "total_otm_oi_chg_calls_num": 9200,
       "total_otm_oi_chg_puts_num": 13600,
       "total_otm_oi_chg_net_num": 4400,
-      "total_otm_vol_calls": "8.45 L",
-      "total_otm_vol_puts": "4.51 L",
-      "pcr_otm_oi": 0.91,
-      "pcr_otm_oi_chg": 1.48
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "6.46 L",
-      "total_itm_oi_puts": "5.55 L",
-      "total_itm_oi_chg_calls": "-1,600.00",
-      "total_itm_oi_chg_puts": "-6,400.00",
-      "pcr_itm_oi": 0.86,
-      "pcr_itm_oi_chg": 4
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -13687,18 +13687,18 @@
       "total_otm_oi_chg_calls_num": 345950,
       "total_otm_oi_chg_puts_num": -459800,
       "total_otm_oi_chg_net_num": -805750,
-      "total_otm_vol_calls": "28.54 L",
-      "total_otm_vol_puts": "16.84 L",
-      "pcr_otm_oi": 0.76,
-      "pcr_otm_oi_chg": -1.33
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "8.96 L",
-      "total_itm_oi_puts": "36,850.00",
-      "total_itm_oi_chg_calls": "-5.20 L",
-      "total_itm_oi_chg_puts": "8,800.00",
-      "pcr_itm_oi": 0.04,
-      "pcr_itm_oi_chg": -0.02
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -13756,18 +13756,18 @@
       "total_otm_oi_chg_calls_num": -119240,
       "total_otm_oi_chg_puts_num": 230350,
       "total_otm_oi_chg_net_num": 349590,
-      "total_otm_vol_calls": "1.28 Cr",
-      "total_otm_vol_puts": "25.56 L",
-      "pcr_otm_oi": 0.19,
-      "pcr_otm_oi_chg": -1.93
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "4.11 L",
-      "total_itm_oi_puts": "62.67 L",
-      "total_itm_oi_chg_calls": "55,555.00",
-      "total_itm_oi_chg_puts": "-1.12 L",
-      "pcr_itm_oi": 15.26,
-      "pcr_itm_oi_chg": -2.02
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -13827,7 +13827,7 @@
       "total_otm_oi_chg_net_num": 0,
       "total_otm_vol_calls": "0.00",
       "total_otm_vol_puts": "0.00",
-      "pcr_otm_oi": 4,
+      "pcr_otm_oi": "N.A.",
       "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
@@ -13894,18 +13894,18 @@
       "total_otm_oi_chg_calls_num": -450800,
       "total_otm_oi_chg_puts_num": 203550,
       "total_otm_oi_chg_net_num": 654350,
-      "total_otm_vol_calls": "2.06 Cr",
-      "total_otm_vol_puts": "77.36 L",
-      "pcr_otm_oi": 0.78,
-      "pcr_otm_oi_chg": -0.45
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "1.26 Cr",
-      "total_itm_oi_puts": "24.79 L",
-      "total_itm_oi_chg_calls": "-9,200.00",
-      "total_itm_oi_chg_puts": "-9,200.00",
-      "pcr_itm_oi": 0.2,
-      "pcr_itm_oi_chg": 1
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -13963,18 +13963,18 @@
       "total_otm_oi_chg_calls_num": 281300,
       "total_otm_oi_chg_puts_num": -189150,
       "total_otm_oi_chg_net_num": -470450,
-      "total_otm_vol_calls": "47.53 L",
-      "total_otm_vol_puts": "14.26 L",
-      "pcr_otm_oi": 0.43,
-      "pcr_otm_oi_chg": -0.67
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "7.66 L",
-      "total_itm_oi_puts": "12.37 L",
-      "total_itm_oi_chg_calls": "24,250.00",
-      "total_itm_oi_chg_puts": "-9,700.00",
-      "pcr_itm_oi": 1.61,
-      "pcr_itm_oi_chg": -0.4
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -14032,18 +14032,18 @@
       "total_otm_oi_chg_calls_num": 276375,
       "total_otm_oi_chg_puts_num": 323625,
       "total_otm_oi_chg_net_num": 47250,
-      "total_otm_vol_calls": "34.81 L",
-      "total_otm_vol_puts": "19.24 L",
-      "pcr_otm_oi": 0.71,
-      "pcr_otm_oi_chg": 1.17
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "2.69 L",
-      "total_itm_oi_puts": "9.28 L",
-      "total_itm_oi_chg_calls": "27,375.00",
-      "total_itm_oi_chg_puts": "11,625.00",
-      "pcr_itm_oi": 3.46,
-      "pcr_itm_oi_chg": 0.42
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -14101,18 +14101,18 @@
       "total_otm_oi_chg_calls_num": 139475,
       "total_otm_oi_chg_puts_num": 9975,
       "total_otm_oi_chg_net_num": -129500,
-      "total_otm_vol_calls": "33.25 L",
-      "total_otm_vol_puts": "12.73 L",
-      "pcr_otm_oi": 0.78,
-      "pcr_otm_oi_chg": 0.07
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "9.94 L",
-      "total_itm_oi_puts": "3.67 L",
-      "total_itm_oi_chg_calls": "-1.50 L",
-      "total_itm_oi_chg_puts": "3,150.00",
-      "pcr_itm_oi": 0.37,
-      "pcr_itm_oi_chg": -0.02
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -14170,18 +14170,18 @@
       "total_otm_oi_chg_calls_num": 2643000,
       "total_otm_oi_chg_puts_num": 174000,
       "total_otm_oi_chg_net_num": -2469000,
-      "total_otm_vol_calls": "3.82 Cr",
-      "total_otm_vol_puts": "1.93 Cr",
-      "pcr_otm_oi": 0.72,
-      "pcr_otm_oi_chg": 0.07
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "1.88 Cr",
-      "total_itm_oi_puts": "1.21 Cr",
-      "total_itm_oi_chg_calls": "45,000.00",
-      "total_itm_oi_chg_puts": "-6,000.00",
-      "pcr_itm_oi": 0.64,
-      "pcr_itm_oi_chg": -0.13
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -14239,18 +14239,18 @@
       "total_otm_oi_chg_calls_num": 11849100,
       "total_otm_oi_chg_puts_num": 497600,
       "total_otm_oi_chg_net_num": -11351500,
-      "total_otm_vol_calls": "11.26 Cr",
-      "total_otm_vol_puts": "1.97 Cr",
-      "pcr_otm_oi": 0.51,
-      "pcr_otm_oi_chg": 0.04
+      "total_otm_vol_calls": "0.00",
+      "total_otm_vol_puts": "0.00",
+      "pcr_otm_oi": "N.A.",
+      "pcr_otm_oi_chg": "N.A."
     },
     "itm_qty": {
-      "total_itm_oi_calls": "2.59 Cr",
-      "total_itm_oi_puts": "3.52 Cr",
-      "total_itm_oi_chg_calls": "7.46 L",
-      "total_itm_oi_chg_puts": "5.91 L",
-      "pcr_itm_oi": 1.36,
-      "pcr_itm_oi_chg": 0.79
+      "total_itm_oi_calls": "0.00",
+      "total_itm_oi_puts": "0.00",
+      "total_itm_oi_chg_calls": "0.00",
+      "total_itm_oi_chg_puts": "0.00",
+      "pcr_itm_oi": "N.A.",
+      "pcr_itm_oi_chg": "N.A."
     },
     "totals": {
       "total_oi": {
@@ -14288,11 +14288,11 @@
     "pcr_oi": "N.A.",
     "pcr_val": "-",
     "strike_atm": "N/A",
-    "future_oi": 210.0,
-    "future_oi_str": "210.00",
-    "future_oi_chg": 40.0,
-    "threshold_15pct": 31.5,
-    "threshold_15pct_str": "31.50",
+    "future_oi": 240.0,
+    "future_oi_str": "240.00",
+    "future_oi_chg": 14.29,
+    "threshold_15pct": 36.0,
+    "threshold_15pct_str": "36.00",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -14357,11 +14357,11 @@
     "pcr_oi": "N.A.",
     "pcr_val": "-",
     "strike_atm": "N/A",
-    "future_oi": 765.0,
-    "future_oi_str": "765.00",
-    "future_oi_chg": -22.73,
-    "threshold_15pct": 114.75,
-    "threshold_15pct_str": "114.75",
+    "future_oi": 675.0,
+    "future_oi_str": "675.00",
+    "future_oi_chg": -11.76,
+    "threshold_15pct": 101.25,
+    "threshold_15pct_str": "101.25",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -14426,11 +14426,11 @@
     "pcr_oi": "N.A.",
     "pcr_val": "-",
     "strike_atm": "N/A",
-    "future_oi": 39547400.0,
+    "future_oi": 39517775.0,
     "future_oi_str": "3.95 Cr",
-    "future_oi_chg": 1.08,
-    "threshold_15pct": 5932110.0,
-    "threshold_15pct_str": "59.32 L",
+    "future_oi_chg": 0.14,
+    "threshold_15pct": 5927666.25,
+    "threshold_15pct_str": "59.28 L",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
@@ -14495,11 +14495,11 @@
     "pcr_oi": "N.A.",
     "pcr_val": "-",
     "strike_atm": "N/A",
-    "future_oi": 5205600.0,
-    "future_oi_str": "52.06 L",
-    "future_oi_chg": -1.33,
-    "threshold_15pct": 780840.0,
-    "threshold_15pct_str": "7.81 L",
+    "future_oi": 5222800.0,
+    "future_oi_str": "52.23 L",
+    "future_oi_chg": 0.37,
+    "threshold_15pct": 783420.0,
+    "threshold_15pct_str": "7.83 L",
     "strategy2_match": false,
     "strategy2_calls_pass": false,
     "strategy2_puts_pass": false,
